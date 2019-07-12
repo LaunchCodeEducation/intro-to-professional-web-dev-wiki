@@ -17,21 +17,32 @@ Instructors and TAs are a crucial to the success of the students. These tasks he
 their role in the process.
 
 ## Instructors
-* Report Issues to LaunchCode (LC) Staff
+* Report Issues to LaunchCode (LC) staff
   * Contact LC staff by slack, email, or phone.
   * LC staff needs to know about issues with: students, TAs, facilities, curriculum, course tools
-* Facilitate All-class activities 
+* Facilitate all-class activities
   * The instructor controls the flow of the class. (Suggested guidelines later in this wiki)
   * Examples: when lecture ends and if/when students need to come back together after group time.
-* Monitor and Respond to Student Struggles
+* Monitor and respond to student struggles
   * Do not assume a topic is easy to learn, pay attention to the class and adjust examples and duration as needed.
   * Look for signs of *large* numbers of students struggling and falling behind.
   * Use feedback from the students and TAs to determine how to cover the topic more effectively.
-* Manage and Coach TAs
+* Manage and coach TAs
   * TODO: what level of managing and coaching?
 
 ## Teaching Assistants (TAs)
-* Assist Individual Students
-* Grading
-* Facilitate studios and other small-group activities
+TAs will be assigned a group to work with.
+* Assist individual students
+  * Check in on each student in your group once every class
+  * Answer individual student questions
+  * Help an individual student through a code problem
 * Monitor and respond to individual student struggles
+  * TODO: not sure on this
+* Facilitate studios and other small-group activities
+  * TAs will lead group time activities
+  * Deliver the activities listed in Canvas
+* Grading
+  * TAs are responsible for verifying student work and entering a grade into Canvas
+  * Grade fairly and consistently
+  * Report possible cheating to LC staff
+  
