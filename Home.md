@@ -9,4 +9,4 @@ Inform instructors and TAs of:
 * Lesson Guides
 
 # Who Can Contribute to this Wiki?
-Instructors, TAs, and LaunchCode employees can contribute to this wiki.
+Instructors, TAs, and LaunchCode employees.
