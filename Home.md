@@ -1,5 +1,5 @@
 # Who is the Wiki For?
-This guide is for instructors and teaching assistants (TAs) that are teaching the class that goes along with the [Intro to professional web dev gitbook](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/), the repo this wiki is itself hosted on.
+This guide is for instructors and teaching assistants (TAs) that are teaching the course <a href="https://education.launchcode.org/intro-to-professional-web-dev/" target="_blank">Intro to professional web dev</a>.
 
 # What is the Purpose of this Wiki?
 Inform instructors and TAs of:
