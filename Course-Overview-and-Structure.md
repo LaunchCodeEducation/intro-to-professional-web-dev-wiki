@@ -21,7 +21,7 @@ This content is meant to be a start and not the finish. With these skills studen
 * Primary Instruction
   * Every class has a primary instruction session led by the instructor
   * Lasts 45 minutes to 1 hour
-  * Content (As needed, will contain one or multiple of these)
+  * Content (Will contain one or more of these as needed)
     * Review topics in the lesson prep-work (reading and exercises)
     * Student Q&A
     * Provide additional relevant examples
