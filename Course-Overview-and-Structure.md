@@ -32,8 +32,7 @@ This content is meant to be a start and not the finish. With these skills studen
   * Lasts 1 to 1.5 hours
   * TODO: how to describe what the groups do with the studio?
 * Programming Assignments
-  * Students are required to complete and submit six programming assignments
-  * If students do not turn in assignments by a certain date, they can not continue in the class
+  * Larger assignments for which students are given multiple weeks to complete
 
 # Tasks and Responsibilities
 Instructors and TAs are a crucial to the success of the students. These tasks help insure that everyone knows
