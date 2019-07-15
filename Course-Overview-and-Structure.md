@@ -12,6 +12,22 @@ Teach students, from wide ranging backgrounds, these tools:
 * Basic programming using JavaScript
 * Introduction of web development concepts
 
+# Class Structure
+* Prep work
+  * Certain chapters 
+* Primary Instruction
+  * Every class has a primary instruction session led by the instructor
+  * Lasts 45 minutes to 1 hour
+  * Content (Will contain one or multiple of these as needed)
+    * Review topics in the lesson prep-work (reading and exercises)
+    * Student Q&A
+    * Provide additional relevant examples
+    * Programming assignment walk through/introduction (new assignment every 3-4 weeks)
+    * Studio introduction
+* Studio
+  * The students break off into smaller groups led by a TA
+  * TODO: how to describe what the groups do with the studio?
+
 # Tasks and Responsibilities
 Instructors and TAs are a crucial to the success of the students. These tasks help insure that everyone knows
 their role in the process.
@@ -31,7 +47,7 @@ their role in the process.
   * TODO: what level of managing and coaching?
 
 ## Teaching Assistants (TAs)
-TAs will be assigned a group to work with.
+TAs will be assigned a group of students to work with.
 * Assist individual students
   * Check in on each student in your group once every class
   * Answer individual student questions
@@ -46,3 +62,9 @@ TAs will be assigned a group to work with.
   * Grade fairly and consistently
   * Report possible cheating to LC staff
   
+# Course Platforms
+* Canvas
+* Course Book
+* Repl.it
+* Slack
+
