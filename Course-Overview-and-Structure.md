@@ -3,7 +3,7 @@
 ## Blended Learning
 The course is delivered using a combination of online tasks, in person instruction, small peer group time, and programming assignments. The varied delivery is meant to reinforcing the concepts in different ways.
 
-### Flipped Classroom Model
+## Flipped Classroom Model
 Most of the traditional instruction will be done at home via online reading and exercises. In class time will be spent reviewing concepts, examples, and working on small programming tasks called studios.
 
 ## Course Goals
