@@ -4,8 +4,6 @@
 TODO: Chris
 
 ## Course Goals
-TODO: goal about how it's taught? with empathy? ...
-
 Teach students, from wide ranging backgrounds, these tools:
 * Learn how to learn (learning mindset)
 * Problem solving skills
