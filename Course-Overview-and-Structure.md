@@ -17,7 +17,7 @@ This content is meant to be a start and not the finish. With these skills studen
 
 # Class Structure
 * Prep work
-  * Students are assigned chapters and exercises to complete before class
+  * Students are assigned chapters and exercises to complete BEFORE class
 * Primary Instruction
   * Every class has a primary instruction session led by the instructor
   * Lasts 45 minutes to 1 hour
