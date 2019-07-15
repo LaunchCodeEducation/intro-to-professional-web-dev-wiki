@@ -18,8 +18,8 @@
 * Instructors, TAs, and students will need to create their own accounts.
 
 ## Repl.it Classroom
-* A way to organize, deliver, and verify code written in a repl.it
-* Some exercises and studios will be turned in via repl.it Classroom
+* A way to organize, deliver, and verify coding assignments in repl.it
+* Some exercises and studios will be turned in via repl.it classroom
 
 ## Slack
 * [Slack](https://slack.com) is a popular messaging tool that is used in the class.
