@@ -1,7 +1,10 @@
 # Methodology
 
 ## Blended Learning
-TODO: Chris
+The course is delivered using a combination of online tasks, in person instruction, small peer group time, and programming assignments. The varied delivery is meant to reinforcing the concepts in different ways.
+
+### Flipped Classroom Model
+Most of the traditional instruction will be done at home via online reading and exercises. In class time will be spent reviewing concepts, examples, and working on small programming tasks called studios.
 
 ## Course Goals
 Teach students, from wide ranging backgrounds, these tools:
@@ -10,7 +13,7 @@ Teach students, from wide ranging backgrounds, these tools:
 * Basic programming using JavaScript
 * Introduction of web development concepts
 
-This content is meant to be a start and not the finish. With these skills students can proceed into more complex topics and tools.
+This content is meant to be a start and not the finish. With these skills students can proceed into more complex areas.
 
 # Class Structure
 * Prep work
