@@ -7,7 +7,7 @@ The course is delivered using a combination of online tasks, in person instructi
 Most of the traditional instruction will be done at home via online reading and exercises. In class time will be spent reviewing concepts, examples, and working on small programming tasks called studios.
 
 ## Course Goals
-Teach students, from wide ranging backgrounds, these tools:
+Teach students, from wide ranging backgrounds, these topics:
 * Learn how to learn (learning mindset)
 * Problem solving skills
 * Basic programming using JavaScript
@@ -43,8 +43,11 @@ their role in the process.
   * Contact LC staff by slack, email, or phone.
   * LC staff needs to know about issues with: students, TAs, facilities, curriculum, course tools
 * Facilitate all-class activities
-  * The instructor controls the flow of the class. (Suggested guidelines later in this wiki)
-  * Examples: when lecture ends and if/when students need to come back together after group time.
+  * The instructor controls the flow of the class.
+  * Examples
+    * What to review/demo in primary instruction
+    * If to bring class back together after studio time
+    * If to hold a TA standup after class
 * Monitor and respond to student struggles
   * Do not assume a topic is easy to learn, pay attention to the class and adjust examples and duration as needed.
   * Look for signs of *large* numbers of students struggling and falling behind.
