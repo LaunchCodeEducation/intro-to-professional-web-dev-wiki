@@ -11,6 +11,9 @@ Help LaunchCode make the course better and maintain the students trust in curric
 * Do not teach topics or tools that are not in the curriculum
   * It's ok to mention other topics or tools to enrich the students
 
+## Student Status in the Class
+LaunchCode staff controls student enrollment. If there is a question about a student's enrollment status, please contact a LaunchCode staff member. If a student is asking about their status, they should also contact a LaunchCode staff member.
+
 # In-class Facilitation
 * Lecture (TODO: should this go here?)
 * Studios (TODO: should this go here?)
