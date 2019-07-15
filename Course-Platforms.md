@@ -21,6 +21,10 @@
 * A way to organize, deliver, and verify coding assignments in repl.it
 * Some exercises and studios will be turned in via repl.it classroom
 
+## Github
+* Some starter code will be delivered by forking [github](https://github.com/) repositories
+* Students will turn in some assignments by providing a link to their repositories
+ 
 ## Slack
 * [Slack](https://slack.com) is a popular messaging tool that is used in the class.
 * TODO: how do you get added to Slack?
