@@ -17,7 +17,7 @@ This content is meant to be a start and not the finish. With these skills studen
 
 # Class Structure
 * Prep work
-  * Certain chapters 
+  * Students are assigned chapters and exercises to complete before class
 * Primary Instruction
   * Every class has a primary instruction session led by the instructor
   * Lasts 45 minutes to 1 hour
@@ -28,7 +28,7 @@ This content is meant to be a start and not the finish. With these skills studen
     * Programming assignment walk through/introduction (new assignment every 3-4 weeks)
     * Studio introduction
 * Studio
-  * The students break off into smaller groups led by a TA
+  * Students separate into assigned groups that are led by a TA
   * Lasts 1 to 1.5 hours
   * TODO: how to describe what the groups do with the studio?
 * Programming Assignments
