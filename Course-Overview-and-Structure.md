@@ -73,16 +73,23 @@ TAs will be assigned a group of students to work with.
   * Report possible cheating to LC staff
   
 # Course Platforms
-Instructors, TAs, LaunchCode staff, and students will need accounts for these four systems.
 1. Canvas
    * Canvas will be the source of truth for this class.
    * All student tasks will be listed as assignments in Canvas.
+   * TODO: how to people get added to Canvas?
    * Students will be enrolled in the canvas course.
    * Instructors and TAs will be added as teachers.
    * Student grades, including attendance will be recorded in Canvas.
 2. Course Book
    * The [Intro to Professional Web Dev book](https://education.launchcode.org/intro-to-professional-web-dev/) contains the chapters to be read, exercises, studio, and assignments.
-   * The book is open source, please create github issues on the [github repo](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/issues) to provide direct feedback
+   * The book is open source, please create github issues on the [github repo](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/issues) to provide direct feedback.
 3. Repl.it
-4. Slack
+   * [Repl.it](https://repl.it/repls) is an online code editor and code executing environment.
+   * Instructors, TAs, and students will need to create their own accounts.
+4. Repl.it Classroom
+     * A way to organize, deliver, and verify code written in a repl.it
+     * Some exercises and studios will be turned in via repl.it Classroom
+5. Slack
+   * Slack is a popular messaging tool that is used for general communication in the class.
+   * TODO: how do you get added to Slack?
 
