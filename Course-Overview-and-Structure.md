@@ -27,6 +27,9 @@ Teach students, from wide ranging backgrounds, these tools:
 * Studio
   * The students break off into smaller groups led by a TA
   * TODO: how to describe what the groups do with the studio?
+* Programming Assignments
+  * Students are required to complete and submit six programming assignments
+  * If students do not turn in assignments by a certain date they can not continue in the class
 
 # Tasks and Responsibilities
 Instructors and TAs are a crucial to the success of the students. These tasks help insure that everyone knows
