@@ -14,13 +14,15 @@ Help LaunchCode make the course better and maintain the students trust in curric
 ## Student Status in the Class
 LaunchCode staff controls student enrollment. If there is a question about a student's enrollment status, please contact a LaunchCode staff member. If a student is asking about their status, they should also contact a LaunchCode staff member.
 
-# In-class Facilitation
-* Lecture (TODO: should this go here?)
-* Studios (TODO: should this go here?)
-* Checking in with individual students
-
 # Common Student Issues
-* Falling behind
-* Keeping advanced students engaged
-* Skipping course activities (e.g. prep work or studios)
-* Poor attendance 
+## Students Falling Behind
+Students fall behind for many reasons. When students fall behind they tend to try and catch up DURING class and that only makes the problem worse. Students should focus on the in person instruction and studio. Students can catch up on the reading and exercises at home.
+
+## Skipping Course Activities
+Often students will fail to do the prep work BEFORE class. The in person instruction is meant as a review and NOT a replacement for the prep work. This causes the student to fall behind on the concepts. This can cause the student to NOT participate in the studio assignment. That causes a cycle of the student missing multiple steps of a designed learning path.
+
+TODO: more on skipping studio to work on assignment
+
+## Poor Attendance 
+
+## Keeping Advanced Students Engaged
