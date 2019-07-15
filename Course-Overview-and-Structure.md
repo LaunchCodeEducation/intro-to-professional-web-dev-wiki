@@ -21,7 +21,7 @@ This content is meant to be a start and not the finish. With these skills studen
 * Primary Instruction
   * Every class has a primary instruction session led by the instructor
   * Lasts 45 minutes to 1 hour
-  * Content (Will contain one or multiple of these as needed)
+  * Content (As needed, will contain one or multiple of these)
     * Review topics in the lesson prep-work (reading and exercises)
     * Student Q&A
     * Provide additional relevant examples
@@ -29,6 +29,7 @@ This content is meant to be a start and not the finish. With these skills studen
     * Studio introduction
 * Studio
   * The students break off into smaller groups led by a TA
+  * Lasts 1 to 1.5 hours
   * TODO: how to describe what the groups do with the studio?
 * Programming Assignments
   * Students are required to complete and submit six programming assignments
@@ -72,8 +73,16 @@ TAs will be assigned a group of students to work with.
   * Report possible cheating to LC staff
   
 # Course Platforms
-* Canvas
-* Course Book
-* Repl.it
-* Slack
+Instructors, TAs, LaunchCode staff, and students will need accounts for these four systems.
+1. Canvas
+   * Canvas will be the source of truth for this class.
+   * All student tasks will be listed as assignments in Canvas.
+   * Students will be enrolled in the canvas course.
+   * Instructors and TAs will be added as teachers.
+   * Student grades, including attendance will be recorded in Canvas.
+2. Course Book
+   * The [Intro to Professional Web Dev book](https://education.launchcode.org/intro-to-professional-web-dev/) contains the chapters to be read, exercises, studio, and assignments.
+   * The book is open source, please create github issues on the [github repo](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/issues) to provide direct feedback
+3. Repl.it
+4. Slack
 
