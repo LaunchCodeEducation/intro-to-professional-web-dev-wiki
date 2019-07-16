@@ -33,6 +33,7 @@ This content is meant to be a start and not the finish. With these skills studen
   * TODO: how to describe what the groups do with the studio?
 * Programming Assignments
   * Larger assignments for which students are given multiple weeks to complete
+* Time must also be allocated for announcements, pep talks, and wrap-up studio discussions as needed.
 
 # Tasks and Responsibilities
 Instructors and TAs are a crucial to the success of the students. These tasks help insure that everyone knows
