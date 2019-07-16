@@ -4,7 +4,7 @@
 The course is delivered using a combination of online tasks, in person instruction, small peer group time, and programming assignments. The varied delivery is meant to reinforce the concepts by accommodating different learning styles.
 
 ## Flipped Classroom Model
-Most of the traditional instruction will be done at home via online reading and exercises. In class time will be spent reviewing concepts, examples, and working on small programming tasks called studios.
+Most of the traditional instruction will be done at home via online reading and exercises. In class time will be spent reviewing concepts, answering questions, walking through live-coding examples, and working on small programming tasks called studios.
 
 ## Course Goals
 Teach students, from wide ranging backgrounds, these topics:
