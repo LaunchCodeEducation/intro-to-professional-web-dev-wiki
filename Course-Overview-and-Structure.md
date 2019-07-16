@@ -36,7 +36,7 @@ This content is meant to be a start and not the finish. With these skills studen
 * Time must also be allocated for announcements, pep talks, and wrap-up studio discussions as needed.
 
 # Tasks and Responsibilities
-Instructors and TAs are a crucial to the success of the students. These tasks help insure that everyone knows
+Instructors and TAs are crucial to the success of the students. These tasks help ensure that everyone knows
 their role in the process.
 
 ## Instructors
@@ -47,19 +47,19 @@ their role in the process.
   * The instructor controls the flow of the class.
   * Examples
     * What to review/demo in primary instruction
-    * If to bring class back together after studio time
-    * If to hold a TA standup after class
+    * Decide whether to bring the class back together after studio time
+    * Decide whether to hold a TA standup after class
 * Monitor and respond to student struggles
-  * Do not assume a topic is easy to learn, pay attention to the class and adjust examples and duration as needed.
+  * Do not assume a topic is easy to learn! Pay attention to the class and adjust examples and duration as needed.
   * Look for signs of *large* numbers of students struggling and falling behind.
   * Use feedback from the students and TAs to determine how to cover the topic more effectively.
 * Manage and coach TAs
   * TODO: what level of managing and coaching?
 
 ## Teaching Assistants (TAs)
-TAs will be assigned a group of students to work with.
+TAs will be assigned a group of students to guide.
 * Assist individual students
-  * Check in on each student in your group once every class
+  * Check on each student in your group at least once every class
   * Answer individual student questions
   * Help an individual student through a code problem
 * Monitor and respond to individual student struggles
@@ -69,6 +69,9 @@ TAs will be assigned a group of students to work with.
   * Deliver the activities listed in Canvas
 * Grading
   * TAs are responsible for verifying student work and entering a grade into Canvas
-  * Grade fairly and consistently
+  * Grade fairly and consistently and in a timely manner
   * Report possible cheating to LC staff
+* Feedback
+  * Provide the students specific and timely feedback on assignments, studios, and tasks
+  * Provide ideas to the LaunchCode staff on how to make the course better
 
