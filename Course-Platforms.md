@@ -3,8 +3,8 @@
 ## Canvas
 * Canvas will be the source of truth for this class.
 * All student tasks will be listed as assignments in Canvas.
-* TODO: how to people get added to Canvas?
-* Students will be enrolled in the canvas course.
+* TODO: how to get people added to Canvas?
+* Students will be enrolled in the Canvas course.
 * Instructors and TAs will be added as teachers.
 * Student grades, including attendance will be recorded in Canvas.
 
