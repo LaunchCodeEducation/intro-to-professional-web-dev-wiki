@@ -33,3 +33,8 @@ Some students learn the material very quickly and become disengaged by the class
 
 ## Cheating
 Unfortunately some students try to get through the class by having other people complete their course work. The warning signs of this is that the student shows few signs of understanding the concepts in class, however the student turns in perfect solutions for assignments. If cheating is suspected please contact LaunchCode staff.
+
+## Student Considering Dropping Out
+Sometimes students express intent to drop out of the class. Please listen to the students with empathy. You should notify LaunchCode staff and also have the students contact LaunchCode staff for support and guidance.
+
+Students have thoughts of withdrawal for a number of reasons, some of which are unavoidable and require withdrawal. Students also consider dropping out due the difficulty of the class. Remind students that their feelings are valid, because everyone struggles with the class. Verify that the student is taking advantage of help in person or via slack.
