@@ -28,3 +28,8 @@
 ## Slack
 * [Slack](https://slack.com) is a popular messaging tool that is used in the class.
 * TODO: how do you get added to Slack?
+
+## Mini-tutorials
+The online course book has mini-tutorials for the students on how to use Canvas and Repl.it.
+* [Canvas mini-tutorial]([using Canvas](https://education.launchcode.org/intro-to-professional-web-dev/chapters/introduction/about-this-class.html#canvas)
+* [Repl.it mini-tutorial](https://education.launchcode.org/intro-to-professional-web-dev/chapters/how-programs-work/hello-world.html#create-a-repl-it-account)
