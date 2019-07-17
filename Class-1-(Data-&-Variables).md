@@ -47,8 +47,9 @@
 
 ## Alternate Lesson Notes
 ### General Guide for Your Lessons
-1. Make sure you read ALL of the chapter, exercises, and studio pages. This includes solving the exercises and studio activities. The more you understand what the students have seen, the better you can tailor your lesson.
-1. Create your lesson notes. Aim for a middle ground between providing too much detail (for the students who did the prep work and understood it completely) and not enough detail (for those who did not finish the prep work or were fuzzy on some of the ideas). The large group session is NOT a substitute for the prep work, but it should provide enough guidance for those who missed some of the content to make progress.
+1. Make sure you read ALL of the chapter, exercises, and studio pages. This includes solving the exercises and studio activities yourself. The more you understand what the students see in the prep work, the better you can tailor your lesson.
+1. Do not try to "wing it"! Create lesson notes to follow so you do not forget something, and generate clear slides.
+1. Aim for a middle ground between providing too much detail (for the students who did the prep work and understood it completely) and not enough detail (for those who did not finish the prep work or were fuzzy on some of the ideas). The large group session is NOT a substitute for the prep work, but it should allow those who missed some of the content to make progress.
 1. Make sure your lesson meets each of the objectives.
 
 ### Class 1 Topics That Require More Attention
