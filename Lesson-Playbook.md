@@ -1,3 +1,6 @@
+#IGNORE THIS PAGE
+(this is being used as a temporary template for the lesson guides)
+
 Each class will have a playbook entry that contains the following information:
 1. Course schedule (F = full-class, G = small-group)
    1. Announcements and regular pep-talks (F)
