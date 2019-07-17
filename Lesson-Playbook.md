@@ -18,7 +18,7 @@ Each class will have a playbook entry that contains the following information:
    1. Platform instructions/demos for the students.
    1. etc.
 
-IMPORTANT: The lesson notes are NOT intended to provide the instructor with a ready-made plan for teaching the class. Instead, they identify key topics that need to be addressed and provide suggestions about how to approach tricky concepts. The detailed planning for a lesson is left to the teacher.
+IMPORTANT: The lesson notes are NOT intended to provide a ready-made plan for teaching the class. Instead, they identify key topics that need to be addressed and provide suggestions about how to approach tricky concepts. The detailed planning for a lesson is left to the instructor.
 
 _TODO: Create first lesson info to see how it looks._
 
