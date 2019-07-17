@@ -24,7 +24,7 @@ Often students will fail to do the prep work *before* class. The in-person instr
 Another reasons students skip the studio is to work on the large programming assignments. While these assignments are very important, they should be mainly worked on at home. Students can ask questions and request help during down time in class or after they *finish* a studio. Students should NOT skip in-class activities to work on their assignments.
 
 ## Poor Attendance 
-Students are *required* to attend class. Attendance is the clearest factor for success. Attendance is taken by TAs and reported to LaunchCode. LaunchCode reserves the right to un-enroll students due to excessive absences.
+Students are *required* to attend class. Attendance is the clearest factor for success. Attendance is taken by TAs and reported to LaunchCode. LaunchCode reserves the right to withdraw students due to excessive absences.
 
 Make it clear to students that class attendance is required and crucial for success. Attendance exceptions can be made by LaunchCode staff. Have students contact LaunchCode staff regarding planned absences or scheduling conflicts.
 
