@@ -1,4 +1,4 @@
-Each class will have a playbook entry that contains the following information.
+Each class will have a playbook entry that contains the following information:
 1. Course schedule (F = full-class, G = small-group)
    1. Announcements and regular pep-talks (F)
    1. Primary Instruction (F) - includes one or more of the following:
@@ -20,6 +20,6 @@ Each class will have a playbook entry that contains the following information.
 
 IMPORTANT: The lesson notes are NOT intended to provide the instructor with a ready-made plan for teaching the class. Instead, they identify key topics that need to be addressed and provide suggestions about how to approach tricky concepts. The detailed planning for a lesson is left to the teacher.
 
-TODO: create first lesson info to see how it looks
+_TODO: Create first lesson info to see how it looks._
 
-TODO: Figure out how to add folders or directories to organize groups of lessons (e.g. "Lessons 1 - 4" or "Strings and Arrays").
+_TODO: Figure out how to add folders or directories to organize groups of lessons (e.g. "Lessons 1 - 4" or "Strings and Arrays")._
