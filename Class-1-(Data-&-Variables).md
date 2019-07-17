@@ -4,14 +4,14 @@
 ## Announcements
 [Some content here]
 
-## Primary Instruction
+## Large Group Time
 ### Nuts & Bolts
 1. Canvas account
 1. Repl.it account (standard and classroom)
    1. Workspace panels and important menu items.
 1. Expectations - Do ALL of the prep work.
 
-### Large Group Topics
+### Lesson
 1. Quick review of the string and number data types.  Note: The JavaScript ``number`` data type does not distinguish between integers and decimals.
 1. Converting between ``string`` and ``number`` data types.
 1. Review *declaring*, *initializing*, and *reassigning* variables. (Live coding format).
