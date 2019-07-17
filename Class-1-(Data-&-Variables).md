@@ -1,5 +1,8 @@
-# Lesson Objectives
-[Some list here]
+# Class 1 (Data and Variables)
+In the prep work this week, the students learned:
+1. How to declare, initialize, and reassign variables,
+1. The ``number`` and ``string`` data types, and how to convert between them,
+1. The mathematical operators (``+, -, *, /, **, %, ++, --``) and order of operations.
 
 ## Announcements
 1. Welcome! First day pep talk.
@@ -54,6 +57,8 @@
 
 ### Class 1 Topics That Require More Attention
 1. ``let`` vs. ``const``. When should each be used?
+1. Discourage the use of ``var``.
+1. ``+=``, ``-=``, etc. can be used as a shortcut (``num = num + 3`` vs. ``num += 3``).
 1. Modulus.
    1. This is likely a new idea for many of the students. Provide a clear, deliberate explanation (with examples) of what it does.
    1. Why would we need to use ``%``? Don't get too detailed yet, but note some simple scenarios where it might be necessary. The students do not know ``if/else`` yet, so keep your explanation non-code specific.
