@@ -39,6 +39,11 @@ In the prep work this week, the students learned:
 
 ## Studio (TA Notes)
 1. Help students successfully navigate to Repl.it Classroom and find the Data and Variables studio.
+1. Assist individuals as questions arise. Encourage best-practices for variable names. Also encourage students to work together and share ideas.
+1. If necessary, address frequent mistakes and/or questions for your group.
+1. Make a note of any issues that arise during the studio time and provide that feedback to the instructor and LaunchCode team.
+
+### Checking Outputs
 1. This studio will NOT be auto-graded, so you will have to do a visual check of each student's output.
    1. The best time to do this is during the studio!
    1. Some students will miss the idea of using variables to create the output. Instead, they will hard code the data values into the ``console.log`` statements. Encourage the students to use variables, and explain that doing so allows the output to reflect any changes in the data.
