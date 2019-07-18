@@ -23,7 +23,7 @@ This content is meant to be a start and not the finish. With these skills studen
   * Led by the instructor
   * Lasts 45 minutes to 1 hour
 * Studio
-  * Each class students separate into assigned groups that are led by a TA
+  * Students separate into assigned groups, that are led by a TA
   * Lasts 1 to 1.5 hours
   * Designed to be **safe practice time** for students with TA support
 * Programming Assignments
