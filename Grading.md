@@ -7,12 +7,14 @@ TAs are required to review and grade the work of students in their group. Note, 
 * Large Assignments
 
 # How to Grade
+## Feedback?
 ## Studios
 ## Large Assignments
 
 # Entering Grades in Canvas 
 instructions and screen shots of students and assignments in canvas
 
-# Repl.it Classroom
+# Reviewing Work in repl.it Classroom
 What is found in Repl.it Classroom
 ## Finding Students Work
+## Sending Feedback
