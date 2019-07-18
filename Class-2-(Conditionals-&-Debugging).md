@@ -7,6 +7,9 @@
 1. How to use ``console.log`` to help debug code.
 
 ## Large Group Time (Instructor Notes)
+### Announcements
+1. Note the due date for the first large assignment (should be 2 - 4 weeks away).
+1. The assignment will be active in Canvas soon, and the students know enough after class 2 to begin the first part of the project.
 
 ### Class 2 Topics That Require More Attention
 1. Q & A from the prep work and/or exercises.
@@ -17,7 +20,9 @@
    1. Nested conditionals.
    1. Check multiple conditions with ``&&`` and ``||``.
    1. When would we use ``!``?
-1. 
+1. Tonight the studio is a non-coding activity.
+   1. Refer to the TA notes, and prepare a brief intro about why this activity will benefit the students.
 
 ## Studio (TA Notes)
-1. 
+1. Even though this is a non-coding studio, it requires more preparation and thought than usual, since it helps the students build confidence and identify what they want to get out of this class.
+1. Refer to the notes posted in Canvas (accessible to TAs and instructors, but not the students).
