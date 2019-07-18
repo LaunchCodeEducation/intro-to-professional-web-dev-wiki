@@ -1,4 +1,3 @@
-# Class 1 (Data and Variables)
 In the prep work this week, the students learned:
 1. How to declare, initialize, and reassign variables,
 1. The ``number`` and ``string`` data types, and how to convert between them,
