@@ -38,7 +38,7 @@ In the prep work this week, the students learned:
    1. Note that the large group will meet again tonight to do a post-op of the studio task.
 
 ## Studio (TA Notes)
-1. Help students successfully navigate to Repl.it Classroom, as opposed to the standard workspace used for the examples in the reading.
+1. Help students successfully navigate to Repl.it Classroom and find the Data and Variables studio.
 1. This studio will NOT be auto-graded, so you will have to do a visual check of each student's output.
    1. The best time to do this is during the studio!
    1. Some students will miss the idea of using variables to create the output. Instead, they will hard code the data values into the ``console.log`` statements. Encourage the students to use variables, and explain that doing so allows the output to reflect any changes in the data.
