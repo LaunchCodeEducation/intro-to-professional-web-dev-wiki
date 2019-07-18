@@ -9,20 +9,24 @@ Grades/data recorded in Canvas
   * Students must complete large assignments
 * Concept Checks
   * Delivered as Quizzes in Canvas
+* Exercises?
 * Studios
 
 # How to Enter Attendance
 screenshot of Canvas
 
-# How to Grade
-## Feedback?
-## Studios
-## Large Assignments
-
 # Entering Grades in Canvas 
 instructions and screen shots of students and assignments in canvas
 
-# Reviewing Work in repl.it Classroom
+## Grading Exercises?
+
+## Grading Studios
+TA should record complete/incomplete...
+
+## Grading Large Assignments
+
+## Reviewing Work in repl.it Classroom
 What is found in Repl.it Classroom
 ## Finding Students Work
 ## Sending Feedback
+## Send back?
