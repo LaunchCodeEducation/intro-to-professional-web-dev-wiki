@@ -17,23 +17,17 @@ This content is meant to be a start and not the finish. With these skills studen
 
 # Class Structure
 * Prep work
-  * Students are assigned chapters and exercises to complete BEFORE class
+  * Tasks student do *at home, before class*
+  * Reading chapters, quizzes, practice exercises
 * Primary Instruction
-  * Each class has a primary instruction session led by the instructor
+  * Led by the instructor
   * Lasts 45 minutes to 1 hour
-  * Content (Will contain one or more of these as needed)
-    * Review topics in the lesson prep-work (reading and exercises)
-    * Student Q&A
-    * Provide additional relevant examples
-    * Programming assignment walk through/introduction (new assignment every 3-4 weeks)
-    * Studio introduction
 * Studio
   * Each class students separate into assigned groups that are led by a TA
   * Lasts 1 to 1.5 hours
-  * TODO: how to describe what the groups do with the studio?
+  * Designed to be *safe practice time* for students with TA support
 * Programming Assignments
   * Larger assignments for which students are given multiple weeks to complete
-* Time must also be allocated for announcements, pep talks, and wrap-up studio discussions as needed.
 
 # Tasks and Responsibilities
 Instructors and TAs are crucial to the success of the students. These tasks help ensure that everyone knows
@@ -43,16 +37,15 @@ their role in the process.
 * Report Issues to LaunchCode (LC) staff
   * Contact LC staff by slack, email, or phone.
   * LC staff needs to know about issues with: students, TAs, facilities, curriculum, course tools
-* Facilitate all-class activities
-  * The instructor controls the flow of the class.
+* Facilitate large group(full class) activities
   * Examples
     * What to review/demo in primary instruction
     * Decide whether to bring the class back together after studio time
     * Decide whether to hold a TA standup after class
 * Monitor and respond to student struggles
-  * Do not assume a topic is easy to learn! Pay attention to the class and adjust examples and duration as needed.
-  * Look for signs of *large* numbers of students struggling and falling behind.
-  * Use feedback from the students and TAs to determine how to cover the topic more effectively.
+  * Look for signs of students struggling and falling behind
+  * Use feedback from students and TAs to determine how to cover the topic more effectively.
+  * Adjust examples and descriptions of topics as needed.
 * Manage and coach TAs
   * TODO: what level of managing and coaching?
 
@@ -63,14 +56,12 @@ TAs will be assigned a group of students to guide.
   * Answer individual student questions
   * Help an individual student through a code problem
 * Monitor and respond to individual student struggles
-  * TODO: not sure on this
+  * Ask how the student feels about the current topic? Do they understand it?
+  * Look at student submissions to see if the are attempting quizzes, exercises, and studios.
 * Facilitate studios and other small-group activities
-  * TAs will lead group time activities
   * Deliver the activities listed in Canvas
 * Grading
   * TAs are responsible for verifying student work and entering a grade into Canvas
-  * Grade fairly and consistently and in a timely manner
-  * Report possible cheating to LC staff
 * Feedback
   * Provide the students specific and timely feedback on assignments, studios, and tasks
   * Provide ideas to the LaunchCode staff on how to make the course better
