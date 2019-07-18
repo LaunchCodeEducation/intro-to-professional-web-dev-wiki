@@ -3,7 +3,7 @@
 ## Canvas
 * Canvas will be the source of truth for this class.
 * All student tasks will be listed as assignments in Canvas.
-* TODO: how to get people added to Canvas?
+* Access Canvas by going to [learn.launchcode.org](https://learn.launchcode.org)
 * Students will be enrolled in the Canvas course.
 * Instructors and TAs will be added as teachers.
 * Student grades, including attendance will be recorded in Canvas.
@@ -15,6 +15,7 @@
 ## Repl.it
 * [Repl.it](https://repl.it/repls) is an online code editor and code executing environment.
 * Code can be shared via the URL and forked for modification
+* Used for coding examples, code practice, and as the students first coding environment
 * Instructors, TAs, and students will need to create their own accounts.
 
 ## Repl.it Classroom
@@ -23,11 +24,11 @@
 
 ## Github
 * Some starter code will be delivered by forking [github](https://github.com/) repositories
-* Students will turn in some assignments by providing a link to their repositories
+* Later on in the class students will turn in some assignments by providing a link to their repositories
  
 ## Slack
 * [Slack](https://slack.com) is a popular messaging tool that is used in the class.
-* TODO: how do you get added to Slack?
+* LaunchCode staff will send out an invitation to the Slack group specific to your class.
 
 ## Mini-tutorials
 The online course book has mini-tutorials for the students on how to use Canvas and Repl.it.
