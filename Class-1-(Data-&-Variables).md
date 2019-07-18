@@ -1,4 +1,4 @@
-In the prep work this week, the students learned:
+## In the prep work this week, the students learned:
 1. How to declare, initialize, and reassign variables,
 1. The ``number`` and ``string`` data types, and how to convert between them,
 1. The mathematical operators (``+, -, *, /, **, %, ++, --``) and order of operations,
