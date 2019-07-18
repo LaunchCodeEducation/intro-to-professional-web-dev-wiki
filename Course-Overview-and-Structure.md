@@ -66,3 +66,9 @@ TAs will be assigned a group of students to guide.
   * Provide the students specific and timely feedback on assignments, studios, and tasks
   * Provide ideas to the LaunchCode staff on how to make the course better
 
+## Students
+* Pay attention to assignments in Canvas
+* Do the prep work *before class*
+* Attend class and participate in activities
+* Turn in large assignments on time
+* Do their own work
