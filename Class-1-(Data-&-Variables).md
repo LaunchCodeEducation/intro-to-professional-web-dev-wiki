@@ -1,7 +1,8 @@
 In the prep work this week, the students learned:
 1. How to declare, initialize, and reassign variables,
 1. The ``number`` and ``string`` data types, and how to convert between them,
-1. The mathematical operators (``+, -, *, /, **, %, ++, --``) and order of operations.
+1. The mathematical operators (``+, -, *, /, **, %, ++, --``) and order of operations,
+1. The ``typeof`` keyword and how to collect user input with ``readline-sync``.
 
 ## Announcements
 1. Welcome! First day pep talk.
@@ -20,46 +21,11 @@ In the prep work this week, the students learned:
 1. Introduce the TAs and assign groups (may be done during the studio intro).
 1. Other relevant contact information.
 
-### Lesson
-1. Quick review of the string and number data types.  Note: The JavaScript ``number`` data type does not distinguish between integers and decimals.
-1. Converting between ``string`` and ``number`` data types.
-1. Review *declaring*, *initializing*, and *reassigning* variables. (Live coding format).
-   1. ``let`` vs. ``const``. When should each be used?
-   1. ``a = a + 2`` vs. ``a += 2``. Note ``-=``, ``*=``, etc.
-   1. Ask "What if..." (Students should explore or follow along in repl.it).
-      1. Type ``num = 1`` without ``let`` or ``const``?
-      1. Try ``"30"/10``?
-      1. etc.
-1. MODULUS!!!!!
-   1. This is likely a new idea for many of the students. Provide a clear, deliberate explanation (with examples) of what it does.
-   1. Why would we need to use ``%``? Don't get too detailed yet, but note some simple scenarios where it might be necessary. The students do not know ``if/else`` yet, so keep your explanation non-code specific.
-1. Live coding examples for ``console.log`` statements:
-   1. Strings, numbers, and variables inside the ``()``,
-   1. Mathematical operators inside the ``()``,
-   1. Using ``+`` on strings vs. numbers produces different results. Review.
-1. Walk through the syntax and how to use ``readline-sync`` to collect user input from the console.
-   1. Define **console** and point it out in repl.it.
-   1. Live coding examples.
-1. Studio intro
-   1. Overview of how studio sessions run and how to best take advantage of the time.
-   1. Tasks will be completed in repl.it classroom.
-   1. Studio assignments must be submitted by the due date so the TAs can review the work and provide feedback before the next class.
-   1. Display the studio instructions page and provide a quick lead in.
-   1. Note the "call-back" option to do a post-op of the studio task before class ends.
-
-## Alternate Lesson Notes
-### General Guide for Your Lessons
-1. Make sure you read ALL of the chapter, exercises, and studio pages. This includes solving the exercises and studio activities yourself. The more you understand what the students see in the prep work, the better you can tailor your lesson.
-1. Do not try to "wing it"! Create lesson notes to follow so you do not forget something, and generate clear slides.
-1. Aim for a middle ground between providing too much detail (for the students who did the prep work and understood it completely) and not enough detail (for those who did not finish the prep work or were fuzzy on some of the ideas). The large group session is NOT a substitute for the prep work, but it should allow those who missed some of the content to make progress.
-1. Be responsive to questions, and adapt the lesson to redirect wavering class attention.
-1. As much as possible, provide opportunities for active coding during the lesson.
-
-### Class 1 Topics That Require More Attention
+### Class 1 Topics That Require More Attention 
 1. ``let`` vs. ``const``. When should each be used?
-1. Discourage the use of ``var``.
+1. Discourage the use of ``var``. Students will see examples of ``var`` in many code samples. Be sure to explain why it is no longer preferred.
 1. ``+=``, ``-=``, etc. can be used as a shortcut (``num = num + 3`` vs. ``num += 3``).
-1. Modulus.
+1. Modulus!!!
    1. This is likely a new idea for many of the students. Provide a clear, deliberate explanation (with examples) of what it does.
    1. Why would we need to use ``%``? Don't get too detailed yet, but note some simple scenarios where it might be necessary. The students do not know ``if/else`` yet, so keep your explanation non-code specific.
 1. Walk through the syntax and how to use ``readline-sync`` to collect user input from the console.
@@ -72,4 +38,5 @@ In the prep work this week, the students learned:
    1. Note that the large group will meet again tonight to do a post-op of the studio task.
 
 ## Studio
+1. Help students successfully navigate to Repl.it Classroom, as opposed to the standard workspace used for the examples in the reading.
 1. 
