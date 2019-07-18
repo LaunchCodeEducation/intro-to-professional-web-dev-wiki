@@ -1,5 +1,6 @@
 In the prep work this week, the students learned:
-1. 
+1. Something...
+1. Something else...
 
 ## Announcements
 1. 
