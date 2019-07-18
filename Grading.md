@@ -1,10 +1,18 @@
 TAs are required to review and grade the work of students in their group. Note, occasionally TAs will need to grade work for students in other groups.
 
-# What is Recorded in Canvas
+# What Grades/Data are Recorded in Canvas
+Not everything is recorded in Canvas and not all grades affect the student's status in the class.
+Grades/data recorded in Canvas
 * Attendance
-* Concept Checks (Quizzes in Canvas)
-* Studios?
+  * Too many absences affects students status
 * Large Assignments
+  * Students must complete large assignments
+* Concept Checks
+  * Delivered as Quizzes in Canvas
+* Studios
+
+# How to Enter Attendance
+screenshot of Canvas
 
 # How to Grade
 ## Feedback?
