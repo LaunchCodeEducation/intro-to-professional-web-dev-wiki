@@ -36,13 +36,13 @@
    1. Studios provide focused practice in a supervised, safe space. Students are free to explore, make mistakes, and ask for tips.
    1. Studios are NOT graded, but participation is essential for success.
    1. Encourage students to have their TAs check their code.
-   1. Provide a quick lead in to the Data & Variables studio.
-   1. Note that the large group will meet again tonight to do a post-op of the studio task.
+   1. Provide a quick introduction to the Data & Variables studio.
+   1. Note that the large group will meet again tonight to review the studio task.
 
 ## Studio (TA Notes)
 
 ### Best Practices for ALL Studios
-1. Check in with EVERY student in EVERY studio.
+1. Check in with EVERY student during EVERY studio.
    1. This builds relationships and trust, and it helps you spot potential issues before they get too large.
    1. Checking in does NOT mean a quick question like, "How are you doing? Need any help?" Instead, sit next to the student and ask specific questions about their code, their interpretation of the instructions, or their coding dreams.
    1. Provide detailed feedback as often as possible. "Good job!" does not cut it.
