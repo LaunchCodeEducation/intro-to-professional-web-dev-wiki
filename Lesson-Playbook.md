@@ -1,28 +1,46 @@
 #IGNORE THIS PAGE
 (this is being used as a temporary template for the lesson guides)
 
-Each class will have a playbook entry that contains the following information:
-1. Course schedule (F = full-class, G = small-group)
-   1. Announcements and regular pep-talks (F)
-   1. Primary Instruction (F) - includes one or more of the following:
-      1. Topic review with live coding examples and/or lesson notes
-      1. Exercise or Concept Check review
-      1. Q&A about the prep work
-      1. Additional examples
-      1. Assignment walkthrough
-      1. Studio introduction
-   1. Studio (G)
-   1. Impact-created activities (G)
-   1. Class Summary (F)
-   1. Staff Stand-up
-1. Lesson-specific notes
-   1. Tips for teaching difficult topics or addressing common student misconceptions
-   1. Points to emphasize
-   1. Platform instructions/demos for the students.
-   1. etc.
+## General Guide for Lesson Preparation
+1. Make sure you read ALL of the chapter, exercises, and studio pages. This includes solving the exercises and studio activities yourself. The more you understand what the students see in the prep work, the better you can tailor your lesson.
+1. Do not try to "wing it"! Create lesson notes to follow so you do not forget something, and generate clear slides.
+1. Aim for a middle ground between providing too much detail (which bores students who did the prep work and understood it completely) and not enough detail (which leaves behind those who did not finish the prep work or were fuzzy on some of the ideas). The large group session is NOT a substitute for the prep work, but it should allow those who missed some of the content to make progress.
+1. Be responsive to questions, and adapt the lesson to redirect wavering class attention.
+1. As much as possible, provide opportunities for active coding during the lesson.
+
+## Class Timeline
+Each class follows the same general format:
+
+### Full Group Time, Instructor Led (45 - 60 minutes)
+1. Announcements and regular pep-talks
+1. Primary Instruction - includes one or more of the following:
+   1. Topic review with live coding examples and/or lesson notes
+   1. Exercise or Concept Check review
+   1. Q&A about the prep work
+   1. Additional examples
+   1. Assignment walkthrough
+   1. Studio introduction
+
+### Small Group Time, TA Led (60 - 90 minutes)
+1. Studio task, which consists of either: 
+   1. A larger coding task that relates to the lesson objectives, or
+   1. A non-coding activity designed to boost job readiness.
+
+### Full Group Wrap-up, Instructor Led (Remaining class time)
+Depending on the lesson, this time may be used to:
+1. Address any questions that came up during the studio and/or review possible solutions for the activity.
+1. Complete short activities created by the LaunchCode Impact team.
+1. Provide reminders for upcoming due dates.
+1. Give a teaser for what code skills come next.
+1. Staff stand-up - Touch base with the TAs to collect feedback about the lesson, review grading procedures, discuss specific students or concerns, etc. This should be done only AFTER all the students have left.
+
+## Lesson-Specific Notes
+Each class will have a separate page that outlines:
+1. What the students explored in the prep work,
+1. Points to emphasize during the full-group or studio time,
+1. Tips for teaching difficult topics or addressing common student misconceptions,
+1. Platform instructions/demos for the students.
 
 IMPORTANT: The lesson notes are NOT intended to provide a ready-made plan for teaching the class. Instead, they identify key topics that need to be addressed and provide suggestions about how to approach tricky concepts. The detailed planning for a lesson is left to the instructor.
-
-_TODO: Create first lesson info to see how it looks._
 
 _TODO: Figure out how to add folders or directories to organize groups of lessons (e.g. "Lessons 1 - 4" or "Strings and Arrays")._
