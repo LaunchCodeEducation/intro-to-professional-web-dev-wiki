@@ -17,7 +17,7 @@ This content is meant to be a start and not the finish. With these skills studen
 
 # Class Structure
 * Prep work
-  * Tasks student do *at home, before class*
+  * Tasks student do **at home, before class**
   * Reading chapters, quizzes, practice exercises
 * Primary Instruction
   * Led by the instructor
@@ -25,7 +25,7 @@ This content is meant to be a start and not the finish. With these skills studen
 * Studio
   * Each class students separate into assigned groups that are led by a TA
   * Lasts 1 to 1.5 hours
-  * Designed to be *safe practice time* for students with TA support
+  * Designed to be **safe practice time** for students with TA support
 * Programming Assignments
   * Larger assignments for which students are given multiple weeks to complete
 
@@ -68,7 +68,7 @@ TAs will be assigned a group of students to guide.
 
 ## Students
 * Pay attention to assignments in Canvas
-* Do the prep work *before class*
+* Do the prep work **before class**
 * Attend class and participate in activities
 * Turn in large assignments on time
 * Do their own work
