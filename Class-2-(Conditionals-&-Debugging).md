@@ -2,7 +2,7 @@
 1. Something...
 1. Something else...
 
-## Large Group Time
+## Large Group Time (Instructor Notes)
 
 ### Class 2 Topics That Require More Attention (Large Group)
 1.
