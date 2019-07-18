@@ -37,6 +37,17 @@ In the prep work this week, the students learned:
    1. Display the studio instructions page and provide a quick lead in.
    1. Note that the large group will meet again tonight to do a post-op of the studio task.
 
-## Studio
+## Studio (TA Notes)
 1. Help students successfully navigate to Repl.it Classroom, as opposed to the standard workspace used for the examples in the reading.
-1. 
+1. This studio will not be auto-graded, you will have to do a visual check of each student's output.
+   1. The best time to do this is during the studio!
+   1. Some students will miss the idea of using variables to create the output. Instead, they will hard code the data values into the ``console.log`` statements. Encourage the students to use variables, and explain that doing so allows the output to reflect any changes in the data.
+      1. When the students run their code for you, ask them to change ``astronautCount`` to a different number (like 3), and then verify that the output reflects the new value.
+   1. Recognize any clever ideas that the students use to print the tedious parts of the output.
+1. Even though you do a visual check of the code, students must still click "Submit" when they finish the studio.
+1. To record student work as complete for manually graded studios:
+   1. Open the Student Overview panel in Repl.it Classroom.
+   1. For each of your students, click on the "Awaiting Feedback" symbol to pull up the code.
+      1. If you verified the code in class, you can just click "Mark As Complete".
+      1. If a student submitted their work outside of class, you must run the code yourself to verify it. If acceptable, "Mark As Complete". If corrections need to be made, provide feedback and click "Send Back".
+      1. If you send back the code, it will NOT be marked as complete. Be sure to contact the student to let them know that you made comments on their work, and that they need to re-submit it. Touch base with the student in the next studio session to answer any remaining questions.
