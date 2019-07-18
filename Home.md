@@ -3,10 +3,9 @@ This guide is for instructors and teaching assistants (TAs) that are teaching th
 
 # What is the Purpose of this Wiki?
 Inform instructors and TAs of:
-* Class Methodology
-* Tasks
-* Course Tools
-* Lesson Guides
+* [Course Overview, Methodologies, and Tasks](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Course-Overview-and-Structure)
+* [Course Platforms/Tools](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Course-Platforms)
+* Lesson Guides (each class has it's own page)
 
 # Who Can Contribute to this Wiki?
 Instructors, TAs, and LaunchCode employees.
