@@ -39,7 +39,7 @@ In the prep work this week, the students learned:
 
 ## Studio (TA Notes)
 1. Help students successfully navigate to Repl.it Classroom, as opposed to the standard workspace used for the examples in the reading.
-1. This studio will not be auto-graded, you will have to do a visual check of each student's output.
+1. This studio will NOT be auto-graded, so you will have to do a visual check of each student's output.
    1. The best time to do this is during the studio!
    1. Some students will miss the idea of using variables to create the output. Instead, they will hard code the data values into the ``console.log`` statements. Encourage the students to use variables, and explain that doing so allows the output to reflect any changes in the data.
       1. When the students run their code for you, ask them to change ``astronautCount`` to a different number (like 3), and then verify that the output reflects the new value.
