@@ -16,6 +16,7 @@
 1. There are 2 open ended Check Your Understanding questions in the strings chapter. Spend time discussing each one:
    1. Given ``word = 'Rutabaga'``, why does ``word.length`` return the integer 8, but ``word[8]`` is undefined?
    1. Given ``pet = 'cat'``, why do the statements ``console.log(pet + 's');`` and ``pet += 's';`` NOT violate the immutability of strings?
+1. Zero-based indexing.
 1. Live code examples for using ``split`` and ``join`` to convert between strings and arrays.
 1. Students need more practice with template literals:
    1. Use back-ticks instead of quotes.
@@ -30,7 +31,8 @@
 1. Common student stumbling blocks:
    1. Recalling the proper syntax for the string and array methods needed for the studio.
    1. Setting up template literals.
-   1. Remembering to convert numerical inputs from strings to numbers.
+   1. Remembering to convert numerical user inputs from strings to numbers.
    1. Setting up an ``if / else`` statement to validate user input.
+1. Deal with the issues above as they occur in your session - this is a good time for individual check-ins.
 1. Encourage your students to play after they finish a particular task. Have some "What if..." or "What about trying..." questions ready if your students need a friendly prompt.
 1. After the array exercises, encourage your students to try to reduce the lines of code by implementing _method chaining_.
