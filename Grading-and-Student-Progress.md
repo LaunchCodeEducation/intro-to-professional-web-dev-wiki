@@ -19,7 +19,7 @@ Repl.it classroom is used early in class to store student work, later on github 
 * Studio Solutions
   * In class practice that **is NOT graded**
 * Large Assignment Solutions
-  * At home work that is graded
+  * At home work that **is graded**
 
 # Grading
 ## Attendance
