@@ -29,7 +29,7 @@
 
 ## Studio (TA Notes)
 1. Common student stumbling blocks:
-   1. Recalling the proper syntax for the string and array methods needed for the studio.
+   1. Recalling the proper syntax for the required string and array methods.
    1. Setting up template literals.
    1. Remembering to convert numerical user inputs from strings to numbers.
    1. Setting up an ``if / else`` statement to validate user input.
