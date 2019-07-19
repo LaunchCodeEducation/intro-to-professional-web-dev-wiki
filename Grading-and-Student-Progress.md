@@ -28,7 +28,7 @@ Attendance is a present or not present grade in Canvas.
 TODO: screen shot of canvas
 
 ## Large Assignments
-TODO: how to grade, mention the suggestion for "send back to use for repl.it classroom"
+TODO: how to grade, provide guidance on sendback
 TODO: screen shot of canvas
 TODO: screen shot of repl.it classroom
 
@@ -56,8 +56,7 @@ Steps to see student overview
 1. Login to repl.it
 1. Go to the classroom dashboard in repl.it classroom
 1. Scroll down to *Student Overview*
-1. Search for your students
-  * Use browser search: Command+F for Mac, Ctrl+F for windows
+1. Use browser search to find students: Command+F for Mac, Ctrl+F for Windows
 1. Hover over assignment # to see assignment name
 1. Click on assignment to be taken to that students work
 
@@ -71,7 +70,7 @@ Feedback on student work is a great time to highlight things the student did wel
 Reviewing student code in class is a great way to give instant feedback. **DO NOT** code a solution for the student. Be clear about what they did right. Ask questions about their code. Inform student of best practices and give hints about solutions.
 
 ## Feedback in Canvas
-TODO: screen shot?
+TODO: screen shot
 
 ## Feedback in repl.it Classroom
-TODO: screen shot of possible statuses
+TODO: screen shot of feedback example
