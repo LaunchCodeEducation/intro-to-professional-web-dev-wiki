@@ -23,7 +23,7 @@
    1. Use ``${}`` to insert variables.
 1. Emphasize the difference between what an array method _returns_ vs. how that method affects the original array.
 1. As time permits:
-   1. Review _method chaining_.
+   1. Review method chaining.
    1. Discuss the quirks in how JavaScript sorts an array of numbers and how we work around this.
 1. Studio intro:
    1. The studio tonight is a fairly straightforward application of string and array methods. Remind students that their TAs and the appendices in the book are good for syntax reminders.
