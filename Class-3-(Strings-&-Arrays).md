@@ -34,5 +34,5 @@
    1. Remembering to convert numerical user inputs from strings to numbers.
    1. Setting up an ``if / else`` statement to validate user input.
 1. Deal with the issues above as they occur in your session - this is a good time for individual check-ins.
-1. Encourage your students to play after they finish a particular task. Have some "What if..." or "What about trying..." questions ready if your students need a friendly prompt.
+1. Encourage your students to play after they finish a particular task. Prepare some "What if..." or "What about trying..." questions for students who need a friendly prompt.
 1. After the array exercises, encourage your students to try to reduce the lines of code by implementing _method chaining_.
