@@ -4,10 +4,10 @@ Attendance records, grades, and other progress indicators can be found in Canvas
 ## Data Stored in Canvas
 * Attendance record
   * Manually entered by TAs  
-  * Counts in final grade for student
+  * **Counts in** final grade for student
 * Large Assignment Grade
   * Manually entered by TAs
-  * Counts in final grade for student
+  * **Counts in** final grade for student
 * Concept Checks Grade
   * Auto graded
   * Does **NOT count** in final grade for student
