@@ -13,7 +13,7 @@
 1. Reminder of the due date for the first large assignment.
 1. After this class, the students will have all the skills necessary to complete the project.
 
-### Class 3 Topics That Require More Attention
+### Class 4 Topics That Require More Attention
 1. Live coding, live coding, live coding!
    1. Present a sequence of challenges for students to try in their repl.it accounts, then ask for them to contribute to the solutions presented to the class. Start simple, then increase the complexity of the tasks.
    1. Review how to use increments other than ``i++`` in a loop.
