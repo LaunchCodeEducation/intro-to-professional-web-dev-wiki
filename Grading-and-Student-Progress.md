@@ -24,13 +24,38 @@ Early in the class student work is stored in *repl.it classroom*, later on *gith
 
 # Grading
 ## Attendance
-Attendance is a present or not present grade in Canvas.
+Attendance is recorded in Canvas. Take attendance during the small group time.
 TODO: screen shot of canvas
 
 ## Large Assignments
-TODO: how to grade, provide guidance on sendback
-TODO: screen shot of canvas
-TODO: screen shot of repl.it classroom
+Large assignment grades are recorded in Canvas.
+1. Review the student's work
+
+   * Work will be in repl.it classroom or github
+   * A live demo may also be required depending on assignment instructions
+   * When in repl.it classroom, you will need to click *Mark complete* if the code meets all requirements
+
+2. Enter grade in Canvas
+   * If code meets requirements, then mark the assignment complete in Canvas
+   * More about feedback in the [feedback section](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Grading-and-Student-Progress#feedback)
+   
+   
+* TODO: screen shot of canvas
+
+
+# Viewing Submission in Repl.it
+<div>
+<img style="width: 500px;" src="https://raw.githubusercontent.com/LaunchCodeEducation/intro-to-professional-web-dev/master/wiki-materials/replit-view-submission.png"/>
+</div>
+Features to note:
+
+1. **Run button**: Runs the code in the editor panel
+2. **Editor panel**: Where student's code will be
+3. **Instructions**: Instructions for the assignment
+4. **Console**: Console output appears here
+5. **Send back button**: Sets status to *sent back*, which alerts student they need to address issues with the code.
+6. **Mark completed button**: Sets status to *complete*.
+7. **Feedback section**: Leave comments for students to see. Auto saves.
 
 
 # Student Progress
@@ -55,16 +80,21 @@ Repl.it classroom provides an overview off work submitted by the student. NOTE: 
 Steps to see student overview
 1. Login to repl.it
 1. Go to the classroom dashboard in repl.it classroom
-1. Scroll down to *Student Overview*
+1. Scroll down to *Student Overview* and click the heading to expand it
 1. Use browser search to find students: Command+F for Mac, Ctrl+F for Windows
-1. Hover over assignment # to see assignment name
-1. Click on assignment to be taken to that students work
+1. Hover over assignment number column heading to see assignment name
+1. Too see a student submission click on the icon in the student row and assignment column
+1. You can also click on a student's name to see only that student's submissions
 
-TODO: screenshot of overview table
+Example of student overview section
+<div>
+<img style="width: 500px;" src="https://raw.githubusercontent.com/LaunchCodeEducation/intro-to-professional-web-dev/master/wiki-materials/replit-student-overview.png"/>
+</div>
+[Full size screen shot of student overview](https://raw.githubusercontent.com/LaunchCodeEducation/intro-to-professional-web-dev/master/wiki-materials/replit-student-overview.png)
 
 
 # Feedback
-Feedback on student work is a great time to highlight things the student did well and also inform students of bad programming practices. Be positive, empathetic, and reassuring when talking to the student about their code.
+Feedback on student work is a great time to highlight things the student did well and also inform students of bad programming practices. Be positive, empathetic, and reassuring when talking to the student about their code. There are multiple ways to give feedback.
 
 ## Feedback in Person
 Reviewing student code in class is a great way to give instant feedback. **DO NOT** code a solution for the student. Be clear about what they did right. Ask questions about their code. Inform student of best practices and give hints about solutions.
@@ -73,4 +103,9 @@ Reviewing student code in class is a great way to give instant feedback. **DO NO
 TODO: screen shot
 
 ## Feedback in repl.it Classroom
-TODO: screen shot of feedback example
+There is feedback section when looking at a student's submission in repl.it classroom. Type in your comments there when reviewing exercises and studios or grading large assignments.
+NOTE: You **do NOT** have to click *send back* for the student to see the feedback. Only use *send back* when there is a clear need for the student to update their code.
+
+<div>
+<img style="width: 500px;" src="https://raw.githubusercontent.com/LaunchCodeEducation/intro-to-professional-web-dev/master/wiki-materials/replit-feedback.png"/>
+</div>
