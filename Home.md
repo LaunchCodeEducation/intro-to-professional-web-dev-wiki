@@ -1,7 +1,9 @@
 # Who is the Wiki For?
+
 This guide is for instructors and teaching assistants (TAs) that are teaching the course [Intro to professional web dev](https://education.launchcode.org/intro-to-professional-web-dev/).
 
 # What is the Purpose of this Wiki?
+
 Inform instructors and TAs of:
 * [Course Overview, Methodologies, and Tasks](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Course-Overview-and-Structure)
 * [How to Work With Students](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Working-With-Students)
@@ -9,4 +11,7 @@ Inform instructors and TAs of:
 * Lesson Guides (each class has it's own page)
 
 # Who Can Contribute to this Wiki?
+
 Instructors, TAs, and LaunchCode employees.
+
+TESTING
