@@ -21,6 +21,7 @@ Early in the class student work is stored in *repl.it classroom*, later on *gith
 * Large Assignment Solutions
   * At home work that **is graded**
 
+
 # Grading
 ## Attendance
 Attendance is a present or not present grade in Canvas.
@@ -30,6 +31,7 @@ TODO: screen shot of canvas
 TODO: how to grade, mention the suggestion for "send back to use for repl.it classroom"
 TODO: screen shot of canvas
 TODO: screen shot of repl.it classroom
+
 
 # Student Progress
 The student's work and data in Canvas can be used to gauge how well the student is doing. Also use in person check ins to get a full picture of how a student is doing.
@@ -47,15 +49,15 @@ The student's work and data in Canvas can be used to gauge how well the student 
   * Students often struggle getting started and putting all the concepts together
   * Student work can be seen in repl.it classroom
 
+
 # Feedback
-Feedback on student work is a great time to highlight things the student did well and also inform students of bad programming practices.
+Feedback on student work is a great time to highlight things the student did well and also inform students of bad programming practices. Be positive, empathetic, and reassuring when talking to the student about their code.
+
 ## Feedback in Person
+Reviewing student code in class is a great way to give instant feedback. **DO NOT** code a solution for the student. Be clear about what they did right. Ask questions about their code. Inform student of best practices and give hints about solutions.
 
 ## Feedback in Canvas
 TODO: screen shot?
 
 ## Feedback in repl.it Classroom
-TODO: screen shot?
-
-## Feedback in github.com Repositories
-TODO: s
+TODO: screen shot of possible statuses
