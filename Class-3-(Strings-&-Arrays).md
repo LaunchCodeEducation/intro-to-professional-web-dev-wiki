@@ -36,3 +36,4 @@
 1. Deal with the issues above as they occur in your session - this is a good time for individual check-ins.
 1. Encourage your students to play after they finish a particular task. Prepare some "What if..." or "What about trying..." questions for students who need a friendly prompt.
 1. After the array exercises, encourage your students to try to reduce the lines of code by implementing _method chaining_.
+   1. Example: ``string.split(' ').reverse().join(', ')``.
