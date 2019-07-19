@@ -22,7 +22,9 @@
    1. Use back-ticks instead of quotes.
    1. Use ``${}`` to insert variables.
 1. Emphasize the difference between what an array method _returns_ vs. how that method affects the original array.
-1. If time, discuss the quirks in how JavaScript sorts an array of numbers and how we work around this.
+1. As time permits:
+   1. Review _method chaining_.
+   1. Discuss the quirks in how JavaScript sorts an array of numbers and how we work around this.
 1. Studio intro:
    1. The studio tonight is a fairly straightforward application of string and array methods. Remind students that their TAs and the appendices in the book are good for syntax reminders.
    1. This studio is also a great time to play around with the code. Encourage the students to ask themselves "What if I try..." after completing a particular step in the activity.
