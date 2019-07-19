@@ -27,7 +27,7 @@
    1. This studio is also a great time to play around with the code. Encourage the students to ask themselves "What if I try..." after completing a particular step in the activity.
 
 ## Studio (TA Notes)
-1. Common stumbling blocks:
+1. Common student stumbling blocks:
    1. Recalling the proper syntax for the string and array methods needed for the studio.
    1. Setting up template literals.
    1. Remembering to convert numerical inputs from strings to numbers.
