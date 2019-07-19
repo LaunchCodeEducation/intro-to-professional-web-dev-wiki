@@ -5,7 +5,7 @@
    1. Update array elements.
 1. [6 common string methods](https://education.launchcode.org/intro-to-professional-web-dev/chapters/strings/string-methods.html) and [13 common array methods](https://education.launchcode.org/intro-to-professional-web-dev/chapters/arrays/array-methods.html).
 1. How to use template literals, and how to include newlines (``\n``) and tabs (``\t``) in ``console.log`` output.
-1. How to create and access elements within a multi-dimensional array.
+1. How to create and access a multi-dimensional array.
 
 ## Large Group Time (Instructor Notes)
 ### Announcements
