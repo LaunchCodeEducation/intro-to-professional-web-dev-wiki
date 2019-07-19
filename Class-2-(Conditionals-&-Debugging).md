@@ -13,6 +13,7 @@
 
 ### Class 2 Topics That Require More Attention
 1. Q & A from the prep work and/or exercises.
+   1. Recommend walking through the debugging exercises to reinforce how to spot the different error types, how to use error messages to find bugs, and how to systematically find and fix logic errors.
 1. Really, ``===`` should be used instead of ``==``.
 1. Review the meaning of the truth tables for logical AND and logical OR.
 1. Clarify with live coding examples:
