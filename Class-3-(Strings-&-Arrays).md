@@ -10,7 +10,7 @@
 ## Large Group Time (Instructor Notes)
 ### Announcements
 1. Remind students of the due date for the first large assignment.
-1. After tonight's class, the students will have all the skills necessary to complete the assignment.
+1. After this class, the students can complete parts 1 and 2 of the project.
 
 ### Class 3 Topics That Require More Attention
 1. There are 2 open ended Check Your Understanding questions in the strings chapter. Spend time discussing each one:
