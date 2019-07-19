@@ -1,4 +1,5 @@
 ## In the prep work this week (chapter 9), the students learned:
+
 1. How to write ``for`` and ``while`` loops:
    1. Proper syntax,
    1. Iterating over strings and arrays,
@@ -9,11 +10,14 @@
 1. The accumulator pattern.
 
 ## Large Group Time (Instructor Notes)
+
 ### Announcements
+
 1. Reminder of the due date for the first large assignment.
 1. After this class, the students will have all the skills necessary to complete the project.
 
 ### Class 4 Topics That Require More Attention
+
 1. Live coding, live coding, live coding!
    1. Present a sequence of challenges for students to try in their repl.it accounts, then ask for them to contribute to the solutions presented to the class. Start simple, then increase the complexity of the tasks.
    1. Review how to use increments other than ``i++`` in a loop.
@@ -26,6 +30,7 @@
    1. Encourage the students to try the bonus missions if they finish the main studio content early.
 
 ## Studio (TA Notes)
+
 1. Common student stumbling blocks:
    1. The studio format in Repl.it classroom does NOT match the layout [from the book](https://education.launchcode.org/intro-to-professional-web-dev/chapters/loops/studio.html). Make sure your students follow the instructions in the classroom.
    1. For the self-destruct mission, the examples were carefully chosen to use strings with the same length. If a student wants to use strings of different lengths (which throws an error), help them add some validation to their code to deal with this.
