@@ -13,7 +13,7 @@ Attendance records, grades, and other progress indicators can be found in Canvas
   * Does **NOT count** in final grade for student
 
 ## Student Work
-Early in the class student work is stored in Repl.it classroom, later on github repositories are used.
+Early in the class student work is stored in *repl.it classroom*, later on *github repositories* are used.
 * Exercise Solutions
   * These are at home practice that **is NOT graded**
 * Studio Solutions
