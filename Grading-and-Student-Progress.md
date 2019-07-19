@@ -1,5 +1,5 @@
 # Student Data
-Attendance records, grades, and other progress indicators can be found in Canvas and repl.it classroom. Each data point has a specific use.
+Attendance records, grades, and other progress indicators can be found in Canvas and repl.it classroom. Each data point has a specific use. Remember that Canvas is the source of truth in regards to the student's status in the class.
 
 ## Data Stored in Canvas
 * Attendance record
@@ -48,6 +48,20 @@ The student's work and data in Canvas can be used to gauge how well the student 
   * This is when students but multiple concepts together to solve a larger problem
   * Students often struggle getting started and putting all the concepts together
   * Student work can be seen in repl.it classroom
+
+## Repl.it Classroom Student Overview
+Repl.it classroom provides an overview off work submitted by the student. NOTE: This list contains a combination of exercises, studios, and large assignments.
+
+Steps to see student overview
+1. Login to repl.it
+1. Go to the classroom dashboard in repl.it classroom
+1. Scroll down to *Student Overview*
+1. Search for your students
+  * Use browser search: Command+F for Mac, Ctrl+F for windows
+1. Hover over assignment # to see assignment name
+1. Click on assignment to be taken to that students work
+
+TODO: screenshot of overview table
 
 
 # Feedback
