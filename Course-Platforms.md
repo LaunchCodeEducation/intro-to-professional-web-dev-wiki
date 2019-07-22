@@ -7,6 +7,7 @@
 * Students will be enrolled in the Canvas course.
 * Instructors and TAs will be added as teachers.
 * Student grades, including attendance will be recorded in Canvas.
+  * See [grading section](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Grading-and-Student-Progress) for how to grade.
 
 ## Course Book
 * The [Intro to Professional Web Dev book](https://education.launchcode.org/intro-to-professional-web-dev/) contains the chapters to be read, exercises, studio, and assignments.
@@ -21,6 +22,8 @@
 ## Repl.it Classroom
 * A way to organize, deliver, and verify coding assignments in repl.it
 * Some exercises and studios will be turned in via repl.it classroom
+* See [grading section](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Grading-and-Student-Progress) for how to grade.
+
 
 ## Github
 * Some starter code will be delivered by forking [github](https://github.com/) repositories
@@ -30,7 +33,8 @@
 * [Slack](https://slack.com) is a popular messaging tool that is used in the class.
 * LaunchCode staff will send out an invitation to the Slack group specific to your class.
 
-## Mini-tutorials
-The online course book has mini-tutorials for the students on how to use Canvas and Repl.it.
-* [Canvas mini-tutorial](https://education.launchcode.org/intro-to-professional-web-dev/chapters/introduction/about-this-class.html#canvas)
-* [Repl.it mini-tutorial](https://education.launchcode.org/intro-to-professional-web-dev/chapters/how-programs-work/hello-world.html#create-a-repl-it-account)
+## Student Tutorials
+The online course book contains short tutorials for the students on how to use Canvas and repl.it.
+* [Introduction to Canvas](https://education.launchcode.org/intro-to-professional-web-dev/chapters/introduction/class-platforms.html)
+* [Introduction to repl.it](https://education.launchcode.org/intro-to-professional-web-dev/chapters/introduction/class-platforms.html#repl-it)
+* [Creating a repl.it account](https://education.launchcode.org/intro-to-professional-web-dev/chapters/how-programs-work/hello-world.html#create-a-repl-it-account)
