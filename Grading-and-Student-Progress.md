@@ -24,8 +24,8 @@ Early in the class student work is stored in *repl.it classroom*, later on *gith
 
 # Grading
 ## Attendance
-Attendance is recorded in Canvas. Take attendance during the small group time.
-TODO: screen shot of canvas
+Attendance is recorded in Canvas. Find the attendance assignment in Canvas for the class you are taking attendance for.
+Note in some versions of this course the attendance assignment will be a quiz that is filled out by the student.
 
 ## Large Assignments
 Large assignment grades are recorded in Canvas.
@@ -36,11 +36,25 @@ Large assignment grades are recorded in Canvas.
    * When in repl.it classroom, you will need to click *Mark complete* if the code meets all requirements
 
 2. Enter grade in Canvas
-   * If code meets requirements, then mark the assignment complete in Canvas
+   * If the code meets the requirements, then mark the assignment complete in Canvas
    * More about feedback in the [feedback section](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Grading-and-Student-Progress#feedback)
    
-   
-* TODO: screen shot of canvas
+### Canvas Grade Form
+1. Go to the *Grades* section in Canvas.
+2. You can search for a certain student or view the students by group.
+3. Find the column for the assignment you are grading.
+4. Hover over the table cell until a blue corner appears.
+5. Click on the blue corner to open the grading form.
+<div>
+<img style="width: 500px;" src="https://raw.githubusercontent.com/LaunchCodeEducation/intro-to-professional-web-dev/master/wiki-materials/canvas-grade-hover.png"/>
+</div>
+
+6. Enter the grade and comments.
+7. Submit the grade
+<div>
+<img style="width: 500px;" src="https://raw.githubusercontent.com/LaunchCodeEducation/intro-to-professional-web-dev/master/wiki-materials/canvas-grade-form.png"/>
+</div>
+
 
 
 # Viewing Submission in Repl.it
@@ -59,7 +73,7 @@ Features to note:
 
 
 # Student Progress
-The student's work and data in Canvas can be used to gauge how well the student is doing. Also use in person check ins to get a full picture of how a student is doing.
+The student's work and data in Canvas can be used to gauge how well the student is doing. Also use in person check-ins to get a full picture of how a student is doing.
 * Attendance Record
   * If a student doesn't come to class, then they are likely going to struggle.
 * Concept Checks
@@ -90,7 +104,8 @@ Example of student overview section
 <div>
 <img style="width: 500px;" src="https://raw.githubusercontent.com/LaunchCodeEducation/intro-to-professional-web-dev/master/wiki-materials/replit-student-overview.png"/>
 </div>
-[Full size screen shot of student overview](https://raw.githubusercontent.com/LaunchCodeEducation/intro-to-professional-web-dev/master/wiki-materials/replit-student-overview.png)
+
+[Click for full size screen shot of student overview](https://raw.githubusercontent.com/LaunchCodeEducation/intro-to-professional-web-dev/master/wiki-materials/replit-student-overview.png)
 
 
 # Feedback
@@ -100,7 +115,7 @@ Feedback on student work is a great time to highlight things the student did wel
 Reviewing student code in class is a great way to give instant feedback. **DO NOT** code a solution for the student. Be clear about what they did right. Ask questions about their code. Inform student of best practices and give hints about solutions.
 
 ## Feedback in Canvas
-TODO: screen shot
+Feedback can be given for large assignments on the grading form. See [section on Canvas grading](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Grading-and-Student-Progress#canvas-grade-form) for how to open grading form. 
 
 ## Feedback in repl.it Classroom
 There is feedback section when looking at a student's submission in repl.it classroom. Type in your comments there when reviewing exercises and studios or grading large assignments.
