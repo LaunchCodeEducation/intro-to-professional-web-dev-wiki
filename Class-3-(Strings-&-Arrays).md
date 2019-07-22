@@ -1,4 +1,5 @@
 ## In the prep work this week (chapters 7 & 8), the students learned:
+
 1. What strings and arrays represent, and that strings are _immutable_.
 1. How to use bracket notation to:
    1. Index into a string or array,
@@ -8,11 +9,14 @@
 1. How to create and access a multi-dimensional array.
 
 ## Large Group Time (Instructor Notes)
+
 ### Announcements
+
 1. Remind students of the due date for the first large assignment.
 1. Other items as needed...
 
 ### Class 3 Topics That Require More Attention
+
 1. There are 2 open ended Check Your Understanding questions in the strings chapter. Spend time discussing each one:
    1. Given ``word = 'Rutabaga'``, why does ``word.length`` return the integer 8, but ``word[8]`` is undefined?
    1. Given ``pet = 'cat'``, why do the statements ``console.log(pet + 's');`` and ``pet += 's';`` NOT violate the immutability of strings?
@@ -30,6 +34,7 @@
    1. This studio is also a great time to play around with the code. Encourage the students to ask themselves "What if I try..." after completing a particular step in the activity.
 
 ## Studio (TA Notes)
+
 1. Common student stumbling blocks:
    1. Recalling the proper syntax for the required string and array methods.
    1. Setting up template literals.
