@@ -13,6 +13,6 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/intro-to-profe
 # Class Specific Guides
 * [Class 1 - Data & Variables](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-1-(Data-&-Variables))
 * [Class 2 - Conditionals & Debugging](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-2-(Conditionals-&-Debugging))
-* [Class 3 - Strings & Arrays](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-3-(String-&-Arrays))
+* [Class 3 - Strings & Arrays](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-3-(Strings-&-Arrays))
 * [Class 4 - Iteration](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-4-(Iteration))
 * More guides coming soon
