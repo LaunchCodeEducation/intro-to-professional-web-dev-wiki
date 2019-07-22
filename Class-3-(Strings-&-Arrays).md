@@ -1,11 +1,11 @@
 ## In the prep work this week (chapters 7 & 8), the students learned:
 
-1. What strings and arrays represent, and that strings are _immutable_.
+1. What strings and arrays represent and that strings are _immutable_.
 1. How to use bracket notation to:
-   1. Index into a string or array,
+   1. Index into a string or array.
    1. Update array elements.
 1. [6 common string methods](https://education.launchcode.org/intro-to-professional-web-dev/chapters/strings/string-methods.html) and [13 common array methods](https://education.launchcode.org/intro-to-professional-web-dev/chapters/arrays/array-methods.html).
-1. How to use template literals, and how to include newlines (``\n``) and tabs (``\t``) in ``console.log`` output.
+1. How to use template literals and how to include newlines (``\n``) and tabs (``\t``) in ``console.log`` output.
 1. How to create and access a multi-dimensional array.
 
 ## Large Group Time (Instructor Notes)
@@ -20,12 +20,12 @@
 1. There are 2 open ended Check Your Understanding questions in the strings chapter. Spend time discussing each one:
    1. Given ``word = 'Rutabaga'``, why does ``word.length`` return the integer 8, but ``word[8]`` is undefined?
    1. Given ``pet = 'cat'``, why do the statements ``console.log(pet + 's');`` and ``pet += 's';`` NOT violate the immutability of strings?
-1. Zero-based indexing.
-1. Live code examples for using ``split`` and ``join`` to convert between strings and arrays.
-1. Students need more practice with template literals:
-   1. Use back-ticks instead of quotes.
-   1. Use ``${}`` to insert variables.
-1. Emphasize the difference between what an array method _returns_ vs. how that method affects the original array.
+1. Zero-based indexing
+1. Live code examples for using ``split`` and ``join`` to convert between strings and arrays
+1. Students need more practice with the following related to template literals:
+   1. Using back-ticks instead of quotes.
+   1. Using ``${}`` to insert variables.
+1. Emphasize the difference between what an array method _returns_ vs. how that method affects the original array
 1. As time permits:
    1. Review method chaining.
    1. Discuss the quirks in how JavaScript sorts an array of numbers and how we work around this.

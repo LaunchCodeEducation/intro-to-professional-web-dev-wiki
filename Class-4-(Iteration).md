@@ -1,12 +1,12 @@
 ## In the prep work this week (chapter 9), the students learned:
 
 1. How to write ``for`` and ``while`` loops:
-   1. Proper syntax,
-   1. Iterating over strings and arrays,
-   1. Adding a ``break`` statement within a loop.
-1. When one type of loop is preferred over the other:
-   1. Known vs. unknown number of iterations.
-   1. Input validation.
+   1. Proper syntax
+   1. Iterating over strings and arrays
+   1. Adding a ``break`` statement within a loop
+1. When one type of loop is preferred over the other for the following cases:
+   1. Known vs. unknown number of iterations
+   1. Input validation
 1. The accumulator pattern.
 
 ## Large Group Time (Instructor Notes)
@@ -14,7 +14,7 @@
 ### Announcements
 
 1. Reminder of the due date for the first large assignment.
-1. After this class, the students will have all the skills necessary to complete the project.
+1. After this class, the students will have all the skills necessary to complete the assignment.
 
 ### Class 4 Topics That Require More Attention
 
@@ -22,9 +22,9 @@
    1. Present a sequence of challenges for students to try in their repl.it accounts, then ask for them to contribute to the solutions presented to the class. Start simple, then increase the complexity of the tasks.
    1. Review how to use increments other than ``i++`` in a loop.
    1. Show how to use a ``while`` loop to validate user input.
-1. Tips for avoiding infinite loops, and what to do when you create one anyway.
+1. Tips for avoiding infinite loops and what to do when you create one anyway.
 1. Discuss when one type of loop is preferred over the other.
-1. Emphasize that even though a ``while`` loop can be use in place of a ``for``, a ``for`` loop should NOT be used to replace a ``while``.
+1. Emphasize that even though a ``while`` loop can be used in place of a ``for`` loop, a ``for`` loop should NOT be used to replace a ``while`` loop.
 1. Studio intro:
    1. Provide a general rundown of what needs to be accomplished with the meal assembly - one meal array for each crew member, and each meal array consists of one item from each of the ingredient arrays.
    1. Encourage the students to try the bonus missions if they finish the main studio content early.
