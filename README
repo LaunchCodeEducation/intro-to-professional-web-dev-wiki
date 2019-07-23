@@ -2,7 +2,8 @@ NOTE: This repo does NOT have a .md extension, so that it does NOT show up on th
 
 This repo exists to create feature branches and PRs for
 the Intro to Professional Web Dev Wiki https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki.
-Commits on this repo need to be pushed to the repo behind https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki.
+Commits on this repo need to be pushed to the repo behind https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki,
+which is https://github.com/LaunchCodeEducation/intro-to-professional-web-dev.wiki.git (notice the .wiki.git at the end).
 
 # History
 The repo behind https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki is not a normal repo.
