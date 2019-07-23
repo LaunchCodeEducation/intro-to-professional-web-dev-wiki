@@ -3,7 +3,7 @@ NOTE: This repo does NOT have a .md extension, so that it does NOT show up on th
 This repo exists to create feature branches and PRs for
 the Intro to Professional Web Dev Wiki https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki.
 Commits on this repo need to be pushed to the repo behind https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki,
-which is https://github.com/LaunchCodeEducation/intro-to-professional-web-dev.wiki.git (notice the .wiki.git at the end).
+which is  (notice the .wiki.git at the end).
 
 # History
 The repo behind https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki is not a normal repo.
@@ -15,10 +15,14 @@ We wanted PRs for two reasons
 
 # Created intro-to-professional-web-dev-wiki Repo (this repo)
 Any additions or updates that need to appear on https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki
-should be committed to this repo. That requires two repos to synced. That syncing is done by manually pushing commits
-to two repositories.
+should be committed to this repo. Create feature branches and PRs.
 
-# Deploying to Publicly Visible Wiki
+# Deploying to the Wiki
 To deploy new commits to the visible wiki https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki,
-run the ./deploy-to-wiki.sh in the root of this repo. We attempted to do this step with Travis CI,
-but it did not work as expected.
+1. Create a PR for your feature branch (a PR could also be created by someone outside of the Ed team that has forked the repo)
+2. Have the PR reviewed, approved, and then merged
+3. run the ./deploy-to-wiki.sh in the root of this repo
+
+# Repos
+origin https://github.com/LaunchCodeEducation/intro-to-professional-web-dev-wiki.git (repo we created to contain PRs & feature branches for wiki work)
+upstream https://github.com/LaunchCodeEducation/intro-to-professional-web-dev.wiki.git (this is the special wiki repo that github created)
