@@ -14,7 +14,8 @@ if [ $(git config --get remote.upstream.url) != "$upstream" ]; then
 else
     echo "Updating with master then deploying"
     git checkout master
-    git pull origin master
-    git pull upstream master
+    git fetch origin
+    git fetch upstream
+    git merge upstream/master --no-edit
     git push upstream master
 fi
