@@ -6,6 +6,15 @@
 
 # WARNING: It's possible that pulling in master from origin or upstream could cause merge conflicts. You will need to resove those.
 
-git pull origin master
-git pull upstream master
-git push upstream master
+upstream="git@github.com:LaunchCodeEducation/intro-to-professional-web-dev.wiki.git"
+
+if [ $(git config --get remote.upstream.url) != "$upstream" ]; then
+    echo "Add remote named upstream by running:"
+    echo "git remote add upstream git@github.com:LaunchCodeEducation/intro-to-professional-web-dev.wiki.git"
+else
+    echo "Updating with master then deploying"
+    git checkout master
+    git pull origin master
+    git pull upstream master
+    git push upstream master
+fi
