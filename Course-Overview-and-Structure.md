@@ -27,7 +27,7 @@ This content is meant to be a start and not the finish. With these skills studen
   * Lasts 1 to 1.5 hours
   * Designed to be **safe practice time** for students with TA support
 * Programming Assignments
-  * Larger assignments for which students are given multiple weeks to complete
+  * Graded assignments for which students are given multiple weeks to complete
 
 # Tasks and Responsibilities
 Instructors and TAs are crucial to the success of the students. These tasks help ensure that everyone knows
@@ -70,5 +70,5 @@ TAs will be assigned a group of students to guide.
 * Pay attention to assignments in Canvas
 * Do the prep work **before class**
 * Attend class and participate in activities
-* Turn in large assignments on time
+* Turn in graded assignments on time
 * Do their own work

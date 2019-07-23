@@ -5,7 +5,7 @@ Attendance records, grades, and other progress indicators can be found in Canvas
 * Attendance record
   * Manually entered by TAs  
   * **Counts in** final grade for student
-* Large Assignment Grade
+* Graded Assignment Grade
   * Manually entered by TAs
   * **Counts in** final grade for student
 * Concept Checks Grade
@@ -18,7 +18,7 @@ Early in the class student work is stored in *repl.it classroom*, later on *gith
   * These are at home practice that **is NOT graded**
 * Studio Solutions
   * In class practice that **is NOT graded**
-* Large Assignment Solutions
+* Graded Assignment Solutions
   * At home work that **is graded**
 
 
@@ -27,8 +27,8 @@ Early in the class student work is stored in *repl.it classroom*, later on *gith
 Attendance is recorded in Canvas. Find the attendance assignment in Canvas for the class you are taking attendance for.
 Note in some versions of this course the attendance assignment will be a quiz that is filled out by the student.
 
-## Large Assignments
-Large assignment grades are recorded in Canvas.
+## Graded Assignments
+Graded assignment grades are recorded in Canvas.
 1. Review the student's work
 
    * Work will be in repl.it classroom or github
@@ -83,13 +83,13 @@ The student's work and data in Canvas can be used to gauge how well the student 
   * Practice problems in repl.it classroom that are assigned as prep work
   * Check repl.it classroom to see if students are attempting these and if they are having success
   * NOTE: There is a way to give feedback in repl.it classroom
-* Large Assignments
+* Graded Assignments
   * This is when students but multiple concepts together to solve a larger problem
   * Students often struggle getting started and putting all the concepts together
   * Student work can be seen in repl.it classroom
 
 ## Repl.it Classroom Student Overview
-Repl.it classroom provides an overview off work submitted by the student. NOTE: This list contains a combination of exercises, studios, and large assignments.
+Repl.it classroom provides an overview off work submitted by the student. NOTE: This list contains a combination of exercises, studios, and graded assignments.
 
 Steps to see student overview
 1. Login to repl.it
@@ -115,10 +115,10 @@ Feedback on student work is a great time to highlight things the student did wel
 Reviewing student code in class is a great way to give instant feedback. **DO NOT** code a solution for the student. Be clear about what they did right. Ask questions about their code. Inform student of best practices and give hints about solutions.
 
 ## Feedback in Canvas
-Feedback can be given for large assignments on the grading form. See [section on Canvas grading](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Grading-and-Student-Progress#canvas-grade-form) for how to open grading form. 
+Feedback can be given for graded assignments on the grading form. See [section on Canvas grading](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Grading-and-Student-Progress#canvas-grade-form) for how to open grading form. 
 
 ## Feedback in repl.it Classroom
-There is feedback section when looking at a student's submission in repl.it classroom. Type in your comments there when reviewing exercises and studios or grading large assignments.
+There is feedback section when looking at a student's submission in repl.it classroom. Type in your comments there when reviewing exercises and studios or grading the graded assignments.
 NOTE: You **do NOT** have to click *send back* for the student to see the feedback. Only use *send back* when there is a clear need for the student to update their code.
 
 <div>

@@ -12,7 +12,7 @@
 
 ### Announcements
 
-1. Remind students of the due date for the first large assignment.
+1. Remind students of the due date for the first graded assignment.
 1. Other items as needed...
 
 ### Class 3 Topics That Require More Attention

@@ -21,7 +21,7 @@ Students fall behind for many reasons. When students fall behind they tend to tr
 ## Skipping Course Activities
 Often students will fail to do the prep work *before* class. The in-person instruction is meant as a review and NOT a replacement for the prep work. This causes the student to fall behind on the concepts, which might lead the student to NOT participate in the studio assignment. That begins a cycle of the student missing multiple steps of a deliberate learning path, which leaves the student constantly feeling behind. For this scenario, encourage the students to focus on the _current_ class task and fill in the missing prep work at home.
 
-Another reasons students skip the studio is to work on the large programming assignments. While these assignments are very important, they should be mainly worked on at home. Students can ask questions and request help during down time in class or after they *finish* a studio. Students should NOT skip in-class activities to work on their assignments.
+Another reasons students skip the studio is to work on the graded programming assignments. While these assignments are very important, they should be mainly worked on at home. Students can ask questions and request help during down time in class or after they *finish* a studio. Students should NOT skip in-class activities to work on their assignments.
 
 ## Poor Attendance 
 Students are *required* to attend class. Attendance is the clearest factor for success. Attendance is taken by TAs and reported to LaunchCode. LaunchCode reserves the right to withdraw students due to excessive absences.
