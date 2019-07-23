@@ -8,7 +8,7 @@
 
 ## Large Group Time (Instructor Notes)
 ### Announcements
-1. Note the due date for the first large assignment (should be 2 - 4 weeks away).
+1. Note the due date for the first graded assignment (should be 2 - 4 weeks away).
 1. The assignment will be active in Canvas soon, and the students will know enough after class 2 to begin the first part of the assignment.
 
 ### Class 2 Topics That Require More Attention

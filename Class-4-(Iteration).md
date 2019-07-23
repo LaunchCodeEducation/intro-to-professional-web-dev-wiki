@@ -13,7 +13,7 @@
 
 ### Announcements
 
-1. Reminder of the due date for the first large assignment.
+1. Reminder of the due date for the first graded assignment.
 1. After this class, the students will have all the skills necessary to complete the assignment.
 
 ### Class 4 Topics That Require More Attention
