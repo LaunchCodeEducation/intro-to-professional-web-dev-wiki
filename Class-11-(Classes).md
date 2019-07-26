@@ -13,26 +13,28 @@
 
 ### Announcements
 
-1. Reminder of the due date for the first graded assignment.
-1. After this class, the students will have all the skills necessary to complete the assignment.
+1. Reminder that the third graded assignment is due just before the start of the next class.
+1. Students will need to install some software as part of the prep work for class 12. Encourage them to contact their TAs if they have trouble with the process.
+1. Check with your class Candidate Engagement Manager for any other announcements.
 
-### Class 4 Topics That Require More Attention
+### Class 11 Topics That Require More Attention
 
-1. Live coding, live coding, live coding!
-   1. Present a sequence of challenges for students to try in their repl.it accounts, then ask for them to contribute to the solutions presented to the class. Start simple, then increase the complexity of the tasks.
-   1. Review how to use increments other than ``i++`` in a loop.
-   1. Show how to use a ``while`` loop to validate user input.
-1. Tips for avoiding infinite loops and what to do when you create one anyway.
-1. Discuss when one type of loop is preferred over the other.
-1. Emphasize that even though a ``while`` loop can be used in place of a ``for`` loop, a ``for`` loop should NOT be used to replace a ``while`` loop.
-1. Studio intro:
-   1. Provide a general rundown of what needs to be accomplished with the meal assembly - one meal array for each crew member, and each meal array consists of one item from each of the ingredient arrays.
-   1. Encourage the students to try the bonus missions if they finish the main studio content early.
+1. Q & A for how to make the class methods work in the exercises.
+1. Review the difference between a *class* and an *object*.
+1. Live code a class (e.g. ``Car``):
+   1. Syntax review,
+   1. Use ``constructor`` to add properties,
+   1. Create two ``Car`` objects with ``new``.
+1. Emphasize the difference between adding a method within ``constructor`` vs. outside of ``constructor``. When should each approach be used?
+1. Live code an inheritance example.
+   1. Inheritance is an abstract concept, and the students need practice setting it up.
+1. Studio intro.
 
 ## Studio (TA Notes)
 
 1. Common student stumbling blocks:
-   1. The studio format in Repl.it classroom does NOT match the layout [from the book](https://education.launchcode.org/intro-to-professional-web-dev/chapters/loops/studio.html). Make sure your students follow the instructions in the classroom.
-   1. For the self-destruct mission, the examples were carefully chosen to use strings with the same length. If a student wants to use strings of different lengths (which throws an error), help them add some validation to their code to deal with this.
-1. Using a multi-dimensional array helps streamline the process of meal assembly, but students tend to avoid using one. After their code works, encourage them to explore how a 2-D array helps reduce the lines of code.
-1. As always, be sure to check-in with each of your students.
+   1. Some students might try to use object literals instead of the ``CrewCandidate`` class to create the three required objects. Reinforce the benefits of declaring and using a class.
+   1. Be prepared to review the syntax for ``constructor``, as well as how to define properties and methods within a class.
+   1. It has been a little while since students needed to use ``Math.round`` to round a number to 1 decimal place. Be prepared to help the students accomplish this.
+1. Encourage students who finish early to complete the Bonus Mission or start the prep work for next class.
+1. As always, check in with each of your students.
