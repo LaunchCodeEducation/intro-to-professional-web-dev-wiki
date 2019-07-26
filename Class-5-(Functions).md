@@ -7,6 +7,7 @@
 
 ## Announcements
 1. Congrats on finishing your first graded assignment!
+1. Next class, your second graded assignment will open up for you to start working on. You will have two weeks to do this assignment so be sure to start looking at it when it becomes available to you.
 1. Other items as needed...
 
 ## Large Group Time (Instructor)

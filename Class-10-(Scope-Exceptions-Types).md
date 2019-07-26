@@ -1,14 +1,13 @@
 ## In the prep work this week, the students learned:
-1. More about scope.
+1. More about scope. Scope was covered briefly in the Functions chapter, however, now students have covered it more in-depth in terms of the order code executes in.
 1. What exceptions are.
+1. How to raise an exception.
 1. More about what a primitive data type is.
 
 ## Announcements
-1. More info to come...
+1. More info to come... when in doubt, check with your class Candidate Engagement Manager!
 
 ## Large Group Time (Instructor)
-### Announcements
-1. 
 
 ### Class 10 Topics That Require Careful Attention
 1. Conversation starters:

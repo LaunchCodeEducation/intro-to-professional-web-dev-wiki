@@ -3,7 +3,8 @@
 2. What recursion is and how a function can call itself.
 
 ## Announcements
-1. More to come...
+1. More info to come... when in doubt, check with the class Candidate Engagement Manager for announcements!
+1. The second graded assignment is open to you to start working on. Even if you can't solve everything right away, it is important to start working on it as you only have 2 weeks to do it!
 
 ## Large Group Time (Instructor)
 
@@ -17,4 +18,4 @@
 ## Studio (TA Notes)
 
 ### Class 6 Studio
-1. 
+1. Remind students about how important it is to write a sorting function yourself. The last section of the studio instructions has a lot of really good points about how sorting functions serve as the basis for many technical interview questions.
