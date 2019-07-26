@@ -1,10 +1,10 @@
 ## In the prep work this week (HTML, Git, Terminal), the students learned:
 
 1. Basic HTML tags:
-   1. <b>, <em>, <a>, <img>, <br>, <p>, <span>, <div>, <form>, <ul>, <ol>, <li>, <table>
+   1. ``<b>, <em>, <a>, <img>, <br>, <p>, <span>, <div>, <form>, <ul>, <ol>, <li>, <table>``
    1. How to add attributes.
 1. How to structure static HTML pages:
-   1. doctype, <html>, <head>, <body>, <title>
+   1. doctype, ``<html>, <head>, <body>, <title>``
    1. Whitespace
 1. What Git is and why we want to use a version control system (VCS).
 1. How to initialize and commit to a local git repository.
