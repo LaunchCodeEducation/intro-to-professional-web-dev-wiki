@@ -3,9 +3,9 @@
 1. What a JavaScript **class** represents.
    1. Proper syntax
    1. Differences between a class and an object
-1. How to declare a class:
-   1. Add methods and properties
-   1. Use ``constructor`` and ``this``
+1. How to declare a class and:
+   1. Add methods and properties,
+   1. How to use ``constructor`` and ``this``.
 1. Create new objects from a class.
 1. Inheritance.
 
@@ -14,14 +14,14 @@
 ### Announcements
 
 1. Reminder that the third graded assignment is due just before the start of the next class.
-1. Students will need to install some software as part of the prep work for class 12. Encourage them to contact their TAs if they have trouble with the process.
+1. Students will soon need to install some software in order to complete upcoming chapters. Encourage them to contact their TAs if they have trouble with the process.
 1. Check with your class Candidate Engagement Manager for any other announcements.
 
 ### Class 11 Topics That Require More Attention
 
-1. Q & A for how to make the class methods work in the exercises.
+1. Q & A for making the class methods work in the exercises.
 1. Review the difference between a *class* and an *object*.
-1. Live code a class (e.g. ``Car``):
+1. Live code the creation of a class (e.g. ``Car``):
    1. Syntax review,
    1. Use ``constructor`` to add properties,
    1. Create two ``Car`` objects with ``new``.
