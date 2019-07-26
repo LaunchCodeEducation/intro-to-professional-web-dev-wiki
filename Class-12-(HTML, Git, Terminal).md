@@ -24,6 +24,7 @@
    1. Note tedious aspects as they appear (e.g. making EVERY h2 red), and note that we will learn how to streamline this process in the next class.
 1. Reinforce why using a VCS is a good idea. If you have a personal story that relates to this, feel free to share it!
    1. If time, initialize a simple git repo for the web page you created. Show how edits (or mistakes) can be undone with git.
+1. Don't be afraid to use the terminal.
 1. Studio intro. Task uses browser developer tools.
 
 ## Studio (TA Notes)
