@@ -53,19 +53,19 @@ Graded assignment scores are recorded in Canvas.
 5. Click on the blue corner to open the grading form.
 
 <div>
-<img style="width: 500px;" src="https://raw.githubusercontent.com/LaunchCodeEducation/intro-to-professional-web-dev/master/wiki-materials/canvas-grade-hover.png"/>
+<img style="width: 500px;" src="https://raw.githubusercontent.com/LaunchCodeEducation/intro-to-professional-web-dev-wiki/master/wiki-materials/canvas-grade-hover.png"/>
 </div>
 
 6. Enter the grade and comments.
 7. Submit the grade
 <div>
-<img style="width: 500px;" src="https://raw.githubusercontent.com/LaunchCodeEducation/intro-to-professional-web-dev/master/wiki-materials/canvas-grade-form.png"/>
+<img style="width: 500px;" src="https://raw.githubusercontent.com/LaunchCodeEducation/intro-to-professional-web-dev-wiki/master/wiki-materials/canvas-grade-form.png"/>
 </div>
 
 # Viewing Submission in Repl.it
 
 <div>
-<img style="width: 500px;" src="https://raw.githubusercontent.com/LaunchCodeEducation/intro-to-professional-web-dev/master/wiki-materials/replit-view-submission.png"/>
+<img style="width: 500px;" src="https://raw.githubusercontent.com/LaunchCodeEducation/intro-to-professional-web-dev-wiki/master/wiki-materials/replit-view-submission.png"/>
 </div>
 Features to note:
 
@@ -111,10 +111,10 @@ Steps to see student overview:
 
 Example of student overview section
 <div>
-<img style="width: 500px;" src="https://raw.githubusercontent.com/LaunchCodeEducation/intro-to-professional-web-dev/master/wiki-materials/replit-student-overview.png"/>
+<img style="width: 500px;" src="https://raw.githubusercontent.com/LaunchCodeEducation/intro-to-professional-web-dev-wiki/master/wiki-materials/replit-student-overview.png"/>
 </div>
 
-[Click for full size screen shot of student overview](https://raw.githubusercontent.com/LaunchCodeEducation/intro-to-professional-web-dev/master/wiki-materials/replit-student-overview.png)
+[Click for full size screen shot of student overview](https://raw.githubusercontent.com/LaunchCodeEducation/intro-to-professional-web-dev-wiki/master/wiki-materials/replit-student-overview.png)
 
 ### Check Progress by Assignment
 
@@ -139,5 +139,5 @@ You can access a feedback section when looking at a student's submission in repl
 NOTE: You do **NOT** have to click *send back* for the student to see the feedback. Only use *send back* when there is a clear need for the student to update their code.
 
 <div>
-<img style="width: 500px;" src="https://raw.githubusercontent.com/LaunchCodeEducation/intro-to-professional-web-dev/master/wiki-materials/replit-feedback.png"/>
+<img style="width: 500px;" src="https://raw.githubusercontent.com/LaunchCodeEducation/intro-to-professional-web-dev-wiki/master/wiki-materials/replit-feedback.png"/>
 </div>

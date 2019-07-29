@@ -27,4 +27,4 @@
 ## Studio (TA Notes)
 1. Even though this is a non-coding studio, it requires more preparation and thought than usual.
 1. The studio helps the students build confidence and identify what they want to get out of this class, so it is critical that you play your part well.
-1. Refer to the notes you received from LaunchCode as you prepare for and run the studio. You can also access the notes [here](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/blob/master/wiki-materials/Goal%20Setting%20%26%20Mindset%20(TA%20Notes).pdf).
+1. Refer to the notes you received from LaunchCode as you prepare for and run the studio. You can also access the notes [here](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev-wiki/blob/master/wiki-materials/Goal%20Setting%20%26%20Mindset%20(TA%20Notes).pdf).
