@@ -7,10 +7,10 @@ Remember that Canvas, not repl.it, is the source of truth in regards to the stud
 ## Data Stored in Canvas
 
 * Attendance record
-  * Manually entered by TAs
+  * Manually entered by TFs
   * **Counts toward** final grade for student
 * Graded Assignments
-  * Manually scored and entered by TAs
+  * Manually scored and entered by TFs
   * **Counts toward** final grade for student
 * Concept Checks
   * Auto-graded

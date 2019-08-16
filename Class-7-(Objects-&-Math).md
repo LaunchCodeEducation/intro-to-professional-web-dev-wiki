@@ -19,7 +19,7 @@
 1. Q & A for the exercises.
 1. Intro for the studio.
 
-## Studio (TA Notes)
+## Studio (TF Notes)
 
 ### Class 7 Studio
 1. In this studio, there will be math involved. For any mathphobic students who are struggling, remind them this is just one studio, not a whole programming career!
