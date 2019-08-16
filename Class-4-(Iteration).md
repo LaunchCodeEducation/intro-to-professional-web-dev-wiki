@@ -29,7 +29,7 @@
    1. Provide a general rundown of what needs to be accomplished with the meal assembly - one meal array for each crew member, and each meal array consists of one item from each of the ingredient arrays.
    1. Encourage the students to try the bonus missions if they finish the main studio content early.
 
-## Studio (TA Notes)
+## Studio (TF Notes)
 
 1. Common student stumbling blocks:
    1. The studio format in Repl.it classroom does NOT match the layout [from the book](https://education.launchcode.org/intro-to-professional-web-dev/chapters/loops/studio.html). Make sure your students follow the instructions in the classroom.

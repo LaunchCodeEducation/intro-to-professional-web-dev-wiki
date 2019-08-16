@@ -1,5 +1,5 @@
 # Purpose of this Wiki
-Inform instructors and TAs that are teaching the course [Intro to professional web dev](https://education.launchcode.org/intro-to-professional-web-dev/).
+Inform instructors and TFs that are teaching the course [Intro to professional web dev](https://education.launchcode.org/intro-to-professional-web-dev/).
 
 # Contribute to this Wiki
 Fork the [wiki repository](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev-wiki) and then create a PR.

@@ -22,7 +22,7 @@
 1. Q & A for the exercises.
 1. Studio intro: Non-coding activity this week on Strategic Debugging.
 
-## Studio (TA Notes)
+## Studio (TF Notes)
 
 ### Class 10 Studio
 1. Don't be afraid to share your own experience!
