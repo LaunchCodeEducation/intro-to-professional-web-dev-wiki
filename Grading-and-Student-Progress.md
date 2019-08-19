@@ -26,6 +26,10 @@ Early in the class student work is stored in *repl.it classroom*, while later in
 
 # Grading
 
+## Solutions
+[The solutions repository](https://gitlab.com/LaunchCodeEducation/lc101-solutions-unit1) on gitlab.com contains solutions for graded assignments,
+studios, and some of the exercises. Ask a LaunchCode staff member to add you to the repository.
+
 ## Attendance
 
 To record attendance in Canvas, find the attendance *assignment* for the class you are monitoring.
