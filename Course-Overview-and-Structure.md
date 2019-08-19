@@ -35,8 +35,9 @@ their role in the process.
 
 ## Instructors
 * Report Issues to LaunchCode (LC) staff
-  * Contact LC staff by slack, email, or phone.
+  * Contact LC staff by Slack, email, or phone.
   * LC staff needs to know about issues with: students, TFs, facilities, curriculum, course tools
+    * [For issues requiring changes to the curriculum material, including bugs](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Course-Overview-and-Structure#Bug-and-Issue-Reporting)
 * Facilitate large group(full class) activities
   * Examples
     * What to review/demo in primary instruction
@@ -47,7 +48,6 @@ their role in the process.
   * Use feedback from students and TFs to determine how to cover the topic more effectively.
   * Adjust examples and descriptions of topics as needed.
 * Manage and coach TFs
-  * TODO: what level of managing and coaching?
 
 ## Teaching Fellows (TFs)
 TFs will be assigned a group of students to guide.
@@ -72,3 +72,7 @@ TFs will be assigned a group of students to guide.
 * Attend class and participate in activities
 * Turn in graded assignments on time
 * Do their own work
+
+# Bug and Issue Reporting
+For students, if you find a bug or issue in the curriculum material, notify your TF or course instructor so that they can get this resolved. For TFs and instructors, if the issue requires a LaunchCode staff member to resolve, send a message to the Education Team on your course Slack channel.
+
