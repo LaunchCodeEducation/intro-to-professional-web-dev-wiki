@@ -32,7 +32,7 @@ Depending on the lesson, this time may be used to:
 1. Complete short activities created by the LaunchCode Impact team.
 1. Provide reminders for upcoming due dates.
 1. Give a teaser for what code skills come next.
-1. Staff stand-up - Touch base with the TAs to collect feedback about the lesson, review grading procedures, discuss specific students or concerns, etc. This should be done only AFTER all the students have left.
+1. Staff stand-up - Touch base with the TFs to collect feedback about the lesson, review grading procedures, discuss specific students or concerns, etc. This should be done only AFTER all the students have left.
 
 ## Lesson-Specific Notes
 Each class will have a separate page that outlines:

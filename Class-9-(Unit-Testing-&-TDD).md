@@ -17,7 +17,7 @@
 1. What does "describe" do compare to "it"? Review syntax, and encourage descriptive feedback messages.
 1. Studio intro: The exercises practiced using unit tests to validate existing code. The studio flips this to a TDD scenario - the students must write tests BEFORE creating any of the code.
 
-## Studio (TA Notes)
+## Studio (TF Notes)
 
 ### Class 9 Studio
 1. The studio is divided into parts that are in the proper order for TDD. Remind students to not skip around the different steps!

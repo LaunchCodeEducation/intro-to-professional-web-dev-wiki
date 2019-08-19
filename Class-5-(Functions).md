@@ -24,7 +24,7 @@
 1. Q & A for any issues with the chapter exercises.
 1. Emphasize live coding. In particular, consider creating some function tasks to give to the students as "starters" or to use in walkthroughs.
 
-## Studio (TA Notes)
+## Studio (TF Notes)
 
 ### Class 5 Studio
 1. Reminder: the studio is broken into parts for a reason! Many students may read the initial paragraph and want to jump right in, but that would be doing themselves a disservice.

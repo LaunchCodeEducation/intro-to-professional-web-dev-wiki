@@ -22,8 +22,9 @@
 1. Q & A for the exercises.
 1. Studio intro: Non-coding activity this week on Strategic Debugging.
 
-## Studio (TA Notes)
+## Studio (TF Notes)
 
 ### Class 10 Studio
 1. Don't be afraid to share your own experience!
 1. This studio is aimed on helping people develop processes for more strategically debugging their code. If they still struggle with debugging after this studio, gently remind them of the topics covered here.
+1. [Outline](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev-wiki/blob/master/wiki-materials/Strategic%20Debugging%20Studio.pdf) for this studio with proposed timings and discussion prompts.
