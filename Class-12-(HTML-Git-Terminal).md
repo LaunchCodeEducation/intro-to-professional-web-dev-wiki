@@ -1,14 +1,14 @@
 ## In the prep work this week (HTML, Git, Terminal), the students learned:
 
+1. How to access and use the terminal as a standalone program and through VSCode.
 1. Basic HTML tags:
    1. ``<b>, <em>, <a>, <img>, <br>, <p>, <span>, <div>, <form>, <ul>, <ol>, <li>, <table>``
-   1. How to add attributes.
+   1. How to add attributes and properties to HTML elements.
 1. How to structure static HTML pages:
    1. doctype, ``<html>, <head>, <body>, <title>``
    1. Whitespace
 1. What Git is and why we want to use a version control system (VCS).
 1. How to initialize and commit to a local git repository.
-1. Terminal basics.
 
 ## Large Group Time (Instructor Notes)
 
@@ -18,13 +18,13 @@
 
 ### Class 12 Topics That Require More Attention
 
+1. Don't be afraid to use the terminal!
 1. Live coding:
    1. Build a simple, static web page from scratch.
    1. Accept suggestions from the students for elements, text color, etc.
    1. Note tedious aspects as they appear (e.g. making EVERY h2 red), and note that we will learn how to streamline this process in the next class.
 1. Reinforce why using a VCS is a good idea. If you have a personal story that relates to this, feel free to share it!
    1. If time, initialize a simple git repo for the web page you created. Show how edits (or mistakes) can be undone with git.
-1. Don't be afraid to use the terminal.
 1. Studio intro. Task uses browser developer tools.
 
 ## Studio (TA Notes)

@@ -22,4 +22,7 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/intro-to-profe
 * [Class 8 - Modules](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-8-(Modules))
 * [Class 9 - Unit Testing & TDD](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-9-(Unit-Testing-&-TDD))
 * [Class 10 - Scope, Exceptions, Types](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-10-(Scope-Exceptions-Types))
-* Guides 11-20 coming soon
+* [Class 11 - Classes](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-11-(Classes))
+* [Class 12 - Terminal, HTML, Git Part 1](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-12-(HTML-Git-Terminal))
+* [Class 13 - CSS, Git Part 2](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-13-(CSS-Git))
+* Guides 14-20 coming soon
