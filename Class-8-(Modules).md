@@ -16,7 +16,7 @@
 1. Q & A for the prep work exercises.
 1. Non-coding studio intro. The studio is about imposter syndrome. Ask if anyone has felt like they did not belong. PEP TALK!
 
-## Studio (TA Notes)
+## Studio (TF Notes)
 
 Refer to the notes you received from LaunchCode as you prepare for and run the studio. You can also access the notes [here](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev-wiki/blob/classes-5-10/wiki-materials/Combating-Imposter-Syndrome-TA-Notes.pdf).
 

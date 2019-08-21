@@ -16,7 +16,7 @@
 1. Reinforce examples of when and why someone may choose the recursive solution. While recursion is in the chapter, it should NOT receive a large amount of emphasis. At this point in the students' learning journey recursion pushes against the boundary between an engaging challenge and a discouraging frustration.
 1. Q & A about the chapter exercises.
 
-## Studio (TA Notes)
+## Studio (TF Notes)
 
 ### Class 6 Studio
 1. Remind students about how important it is to write a sorting function yourself. The last section of the studio instructions has a lot of really good points about how sorting functions serve as the basis for many technical interview questions.

@@ -18,7 +18,7 @@
    1. Do ALL of the prep work before class.
    1. Ask questions often.
    1. Make use of the help and resources available.
-1. Introduce the TAs and assign groups (may be done during the studio intro).
+1. Introduce the TFs and assign groups (may be done during the studio intro).
 1. Other relevant contact information.
 
 ### Class 1 Topics That Require Careful Attention
@@ -35,11 +35,11 @@
    1. Tasks will be completed in repl.it classroom.
    1. Studios provide focused practice in a supervised, safe space. Students are free to explore, make mistakes, and ask for tips.
    1. Studios are NOT graded, but active participation is essential for success in the class.
-   1. Remind students to have their TAs check their code in order to get feedback.
+   1. Remind students to have their TFs check their code in order to get feedback.
    1. Provide a quick introduction to the Data & Variables studio.
    1. Note that the large group will meet again tonight to review the studio task.
 
-## Studio (TA Notes)
+## Studio (TF Notes)
 
 ### Best Practices for ALL Studios
 1. Check in with EVERY student during EVERY studio.
