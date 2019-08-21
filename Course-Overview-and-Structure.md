@@ -23,34 +23,34 @@ This content is meant to be a start and not the finish. With these skills studen
   * Led by the instructor
   * Lasts 45 minutes to 1 hour
 * Studio
-  * Students separate into assigned groups, that are led by a TA
+  * Students separate into assigned groups, that are led by a TF
   * Lasts 1 to 1.5 hours
-  * Designed to be **safe practice time** for students with TA support
+  * Designed to be **safe practice time** for students with TF support
 * Programming Assignments
   * Graded assignments for which students are given multiple weeks to complete
 
 # Tasks and Responsibilities
-Instructors and TAs are crucial to the success of the students. These tasks help ensure that everyone knows
+Instructors and TFs are crucial to the success of the students. These tasks help ensure that everyone knows
 their role in the process.
 
 ## Instructors
 * Report Issues to LaunchCode (LC) staff
-  * Contact LC staff by slack, email, or phone.
-  * LC staff needs to know about issues with: students, TAs, facilities, curriculum, course tools
+  * Contact LC staff by Slack, email, or phone.
+  * LC staff needs to know about issues with: students, TFs, facilities, curriculum, course tools
+    * [For issues requiring changes to the curriculum material, including bugs](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Course-Overview-and-Structure#Bug-and-Issue-Reporting)
 * Facilitate large group(full class) activities
   * Examples
     * What to review/demo in primary instruction
     * Decide whether to bring the class back together after studio time
-    * Decide whether to hold a TA standup after class
+    * Decide whether to hold a TF standup after class
 * Monitor and respond to student struggles
   * Look for signs of students struggling and falling behind
-  * Use feedback from students and TAs to determine how to cover the topic more effectively.
+  * Use feedback from students and TFs to determine how to cover the topic more effectively.
   * Adjust examples and descriptions of topics as needed.
-* Manage and coach TAs
-  * TODO: what level of managing and coaching?
+* Manage and coach TFs
 
-## Teaching Assistants (TAs)
-TAs will be assigned a group of students to guide.
+## Teaching Fellows (TFs)
+TFs will be assigned a group of students to guide.
 * Assist individual students
   * Check on each student in your group at least once every class
   * Answer individual student questions
@@ -61,7 +61,7 @@ TAs will be assigned a group of students to guide.
 * Facilitate studios and other small-group activities
   * Deliver the activities listed in Canvas
 * Grading
-  * TAs are responsible for verifying student work and entering a grade into Canvas
+  * TFs are responsible for verifying student work and entering a grade into Canvas
 * Feedback
   * Provide the students specific and timely feedback on assignments, studios, and tasks
   * Provide ideas to the LaunchCode staff on how to make the course better
@@ -72,3 +72,7 @@ TAs will be assigned a group of students to guide.
 * Attend class and participate in activities
 * Turn in graded assignments on time
 * Do their own work
+
+# Bug and Issue Reporting
+For students, if you find a bug or issue in the curriculum material, notify your TF or course instructor so that they can get this resolved. For TFs and instructors, if the issue requires a LaunchCode staff member to resolve, send a message to the Education Team on your course Slack channel.
+

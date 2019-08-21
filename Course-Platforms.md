@@ -5,7 +5,7 @@
 * All student tasks will be listed as assignments in Canvas.
 * Access Canvas by going to [learn.launchcode.org](https://learn.launchcode.org)
 * Students will be enrolled in the Canvas course.
-* Instructors and TAs will be added as teachers.
+* Instructors and TFs will be added as teachers.
 * Student grades, including attendance will be recorded in Canvas.
   * See [grading section](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Grading-and-Student-Progress) for how to grade.
 
@@ -17,7 +17,7 @@
 * [Repl.it](https://repl.it/repls) is an online code editor and code executing environment.
 * Code can be shared via the URL and forked for modification
 * Used for coding examples, code practice, and as the students first coding environment
-* Instructors, TAs, and students will need to create their own accounts.
+* Instructors, TFs, and students will need to create their own accounts.
 
 ## Repl.it Classroom
 * A way to organize, deliver, and verify coding assignments in repl.it

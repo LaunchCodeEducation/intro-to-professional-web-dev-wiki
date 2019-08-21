@@ -1,5 +1,5 @@
 # Purpose of this Wiki
-Inform instructors and TAs that are teaching the course [Intro to professional web dev](https://education.launchcode.org/intro-to-professional-web-dev/).
+Inform instructors and TFs that are teaching the course [Intro to professional web dev](https://education.launchcode.org/intro-to-professional-web-dev/).
 
 # Contribute to this Wiki
 Fork the [wiki repository](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev-wiki) and then create a PR.
@@ -9,6 +9,7 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/intro-to-profe
 * [Course Platforms](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Course-Platforms)
 * [How to Work With Students](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Working-With-Students)
 * [Grading and Student Progress](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Grading-and-Student-Progress)
+* [Bug and Issue Reporting](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Course-Overview-and-Structure#Bug-and-Issue-Reporting)
 
 # Class Specific Guides
 * [Class 1 - Data & Variables](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-1-(Data-&-Variables))
@@ -21,4 +22,4 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/intro-to-profe
 * [Class 8 - Modules](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-8-(Modules))
 * [Class 9 - Unit Testing & TDD](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-9-(Unit-Testing-&-TDD))
 * [Class 10 - Scope, Exceptions, Types](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-10-(Scope-Exceptions-Types))
-*  Guides 11-20 coming soon
+* Guides 11-20 coming soon

@@ -7,10 +7,10 @@ Remember that Canvas, not repl.it, is the source of truth in regards to the stud
 ## Data Stored in Canvas
 
 * Attendance record
-  * Manually entered by TAs
+  * Manually entered by TFs
   * **Counts toward** final grade for student
 * Graded Assignments
-  * Manually scored and entered by TAs
+  * Manually scored and entered by TFs
   * **Counts toward** final grade for student
 * Concept Checks
   * Auto-graded
@@ -25,6 +25,10 @@ Early in the class student work is stored in *repl.it classroom*, while later in
 1. Graded Assignment Solutions: At home work that **is graded**.
 
 # Grading
+
+## Solutions
+[The solutions repository](https://gitlab.com/LaunchCodeEducation/lc101-solutions-unit1) on gitlab.com contains solutions for graded assignments,
+studios, and some of the exercises. Ask a LaunchCode staff member to add you to the repository.
 
 ## Attendance
 
@@ -62,7 +66,7 @@ Graded assignment scores are recorded in Canvas.
 <img style="width: 500px;" src="https://raw.githubusercontent.com/LaunchCodeEducation/intro-to-professional-web-dev-wiki/master/wiki-materials/canvas-grade-form.png"/>
 </div>
 
-# Viewing Submission in Repl.it
+# Viewing Submission in Repl.it Classroom
 
 <div>
 <img style="width: 500px;" src="https://raw.githubusercontent.com/LaunchCodeEducation/intro-to-professional-web-dev-wiki/master/wiki-materials/replit-view-submission.png"/>
@@ -76,6 +80,13 @@ Features to note:
 5. **Send back button**: Sets status to *sent back*, which alerts the student that they need to fix issues within the code.
 6. **Mark completed button**: Sets status to *complete*.
 7. **Feedback section**: Leave comments for students to see. Auto saves. You do NOT need to click *send back* or *mark completed*.
+
+## **Warning** Do Not Edit Assignment
+
+As instructors and TFs, you have edit rights to assignments in repl.it classrooms. However, please do not exercise this right at any time. If you notice an issue with the 
+material, [notify us](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Course-Overview-and-Structure#Bug-and-Issue-Reporting) to address it.
+With the status of *teacher* in repl.it classrooms, TFs and instructors must be careful not to unintentionally edit the assignments. When completing the assignments yourselves, use Canvas to access the given repl.it classroom assignment page. Be extra careful to 
+ensure you are in **Student Preview** mode when completing the assignments yourselves. If you are not in **Student Preview** mode, you can edit the assignment with your own solution!
 
 # Student Progress
 
@@ -119,6 +130,8 @@ Example of student overview section
 ### Check Progress by Assignment
 
 Clicking on a title from the *Assignments* menu brings up the list of students and their progress on that task.  You can use the *Submissions* dropdown menu to filter the students by status (Complete, No Progress, Awaiting Help, etc.).
+
+Remember: When exiting Student Overview, [be extra careful not to edit the assignment](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Grading-and-Student-Progress#warning-do-not-edit-assignment) you were viewing.
 
 # Feedback
 

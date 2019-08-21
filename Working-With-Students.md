@@ -1,12 +1,13 @@
 # Communication
-Positive and productive communication between instructors, TAs, and students is vital to a successful class.
+Positive and productive communication between instructors, TFs, and students is vital to a successful class.
 
 ## Be Empathetic and Positive
-Students will be looking to instructors, TAs, and the curriculum for knowledge and guidance. Have empathy when speaking to students, and remember that learning to code is not an easy task. Keep in mind that we all learn at different speeds and in different ways. Be supportive and patient as the students demonstrate and describe their issues. Acknowledge their success, listen to their worries, and answer their questions in a clear, attentive, and polite manner.
+Students will be looking to instructors, TFs, and the curriculum for knowledge and guidance. Have empathy when speaking to students, and remember that learning to code is not an easy task. Keep in mind that we all learn at different speeds and in different ways. Be supportive and patient as the students demonstrate and describe their issues. Acknowledge their success, listen to their worries, and answer their questions in a clear, attentive, and polite manner.
 
 ## Stand By the Curriculum
 Help LaunchCode make the course better and maintain the students trust in the curriculum by following these rules:
 * Please send feedback, suggestions, and bug reports to a LaunchCode staff member
+    * [Reporting Issues](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Course-Overview-and-Structure#Bug-and-Issue-Reporting)
 * Do not speak negatively of the curriculum in front of the students
 * Do not teach topics or tools that are not in the curriculum
   * It's OK to mention other topics or tools to enrich the students, but these should not be done in place of the established lesson plans
@@ -24,7 +25,7 @@ Often students will fail to do the prep work *before* class. The in-person instr
 Another reasons students skip the studio is to work on the graded programming assignments. While these assignments are very important, they should be mainly worked on at home. Students can ask questions and request help during down time in class or after they *finish* a studio. Students should NOT skip in-class activities to work on their assignments.
 
 ## Poor Attendance 
-Students are *required* to attend class. Attendance is the clearest factor for success. Attendance is taken by TAs and reported to LaunchCode. LaunchCode reserves the right to withdraw students due to excessive absences.
+Students are *required* to attend class. Attendance is the clearest factor for success. Attendance is taken by TFs and reported to LaunchCode. LaunchCode reserves the right to withdraw students due to excessive absences.
 
 Make it clear to students that class attendance is required and crucial for success. Attendance exceptions can be made by LaunchCode staff. Have students contact LaunchCode staff regarding planned absences or scheduling conflicts.
 

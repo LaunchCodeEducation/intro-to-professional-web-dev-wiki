@@ -30,10 +30,10 @@
    1. Review method chaining.
    1. Discuss the quirks in how JavaScript sorts an array of numbers and how we work around this.
 1. Studio intro:
-   1. The studio tonight is a fairly straightforward application of string and array methods. Remind students that their TAs and the appendices in the book are good for syntax reminders.
+   1. The studio tonight is a fairly straightforward application of string and array methods. Remind students that their TFs and the appendices in the book are good for syntax reminders.
    1. This studio is also a great time to play around with the code. Encourage the students to ask themselves "What if I try..." after completing a particular step in the activity.
 
-## Studio (TA Notes)
+## Studio (TF Notes)
 
 1. Common student stumbling blocks:
    1. Recalling the proper syntax for the required string and array methods.
