@@ -14,6 +14,7 @@
 
 ### Announcements
 
+1. Start working on graded assignment #4.
 1. Check with your class Candidate Engagement Manager for any other announcements.
 
 ### Class 12 Topics That Require More Attention

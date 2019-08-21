@@ -10,7 +10,6 @@
 
 ### Announcements
 
-1. TODO: Anything specific?
 1. Check with your class Candidate Engagement Manager for any other announcements.
 
 ### Topics That Require More Attention

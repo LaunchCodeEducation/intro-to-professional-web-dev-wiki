@@ -6,7 +6,7 @@
 
 ### Announcements
 
-1. TODO: Anything specific?
+1. Graded assignment #5 is due before the next class.
 1. Check with your class Candidate Engagement Manager for any other announcements.
 
 ### Topics That Require More Attention
