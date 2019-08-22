@@ -1,17 +1,21 @@
 # Purpose of this Wiki
+
 Inform instructors and TFs that are teaching the course [Intro to professional web dev](https://education.launchcode.org/intro-to-professional-web-dev/).
 
-# Contribute to this Wiki
+## Contribute to this Wiki
+
 Fork the [wiki repository](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev-wiki) and then create a PR.
 
-# General Course Information
+## General Course Information
+
 * [Course Overview, Methodologies, and Tasks](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Course-Overview-and-Structure)
 * [Course Platforms](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Course-Platforms)
 * [How to Work With Students](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Working-With-Students)
 * [Grading and Student Progress](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Grading-and-Student-Progress)
 * [Bug and Issue Reporting](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Course-Overview-and-Structure#Bug-and-Issue-Reporting)
 
-# Class Specific Guides
+## Class Specific Guides
+
 * [Class 1 - Data & Variables](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-1-(Data-&-Variables))
 * [Class 2 - Conditionals & Debugging](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-2-(Conditionals-&-Debugging))
 * [Class 3 - Strings & Arrays](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-3-(Strings-&-Arrays))
@@ -22,4 +26,10 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/intro-to-profe
 * [Class 8 - Modules](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-8-(Modules))
 * [Class 9 - Unit Testing & TDD](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-9-(Unit-Testing-&-TDD))
 * [Class 10 - Scope, Exceptions, Types](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-10-(Scope-Exceptions-Types))
-* Guides 11-20 coming soon
+* [Class 11 - Classes](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-11-(Classes))
+* [Class 12 - Terminal, HTML, Git Part 1](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-12-(HTML-Git-Terminal))
+* [Class 13 - CSS, Git Part 2](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-13-(CSS-Git))
+* [Class 14 - DOM and Events](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-14-(DOM-&-Events))
+* [Class 15 - HTTP and Forms](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-15-(HTTP-&-Forms))
+* [Class 16 - Fetch and JSON](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-16-(Fetch-&-JSON))
+* Guides 17-20 coming soon

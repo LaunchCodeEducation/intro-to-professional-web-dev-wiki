@@ -41,12 +41,12 @@ Note in some versions of this course, the attendance assignment will be a *quiz*
 Graded assignment scores are recorded in Canvas.
 
 1. Review the student's work
-  * Work will be in repl.it classroom or github
-  * A live demo may also be required depending on assignment instructions
-  * When in repl.it classroom, you will need to click *Mark complete* if the code meets all requirements
-2. Enter grade in Canvas
-  * If the code meets the requirements, then mark the assignment complete in Canvas
-  * More about feedback in the [feedback section](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Grading-and-Student-Progress#feedback)
+   1. Work will be in repl.it classroom or github
+   1. A live demo may also be required depending on assignment instructions
+   1. When in repl.it classroom, you will need to click *Mark complete* if the code meets all requirements
+1. Enter grade in Canvas
+   1. If the code meets the requirements, then mark the assignment complete in Canvas
+   1. More about feedback in the [feedback section](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Grading-and-Student-Progress#feedback)
 
 ### Canvas Grade Form
 
