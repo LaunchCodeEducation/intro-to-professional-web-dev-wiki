@@ -29,7 +29,7 @@
     1. How to use the response from an API to modify the HTML on a webpage.
 1. Studio intro.
 
-## Studio (TA Notes)
+## Studio (TF Notes)
 
 1. Forking and cloning a GitHub repository should be old hat by now. If a student requires help, point them to a book example that shows how to fork and clone rather than walking them through the process again.
 1. Absolutely, positively, NO EXCUSES! Complete this studio on your own before class.

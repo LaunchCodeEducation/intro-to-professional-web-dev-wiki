@@ -28,7 +28,7 @@
    1. If time, initialize a simple git repo for the web page you created. Show how edits (or mistakes) can be undone with git.
 1. Studio intro. Task uses browser developer tools.
 
-## Studio (TA Notes)
+## Studio (TF Notes)
 
 1. Common student stumbling blocks:
    1. Finding the dev tools for their particular browser version.

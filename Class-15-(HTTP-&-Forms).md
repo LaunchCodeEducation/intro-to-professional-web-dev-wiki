@@ -30,7 +30,7 @@
 1. Studio intro.
 1. *Studio follow-up. This activity will probably require a debrief at the end of the class*.
 
-## Studio (TA Notes)
+## Studio (TF Notes)
 
 1. There are three open-ended questions (admonition boxes) within the studio activity. Answering the questions is not required, but they help guide your students' thinking. You should spend time discussing the questions with your group.
 1. Common student stumbling blocks:

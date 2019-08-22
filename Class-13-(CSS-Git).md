@@ -32,7 +32,7 @@
     1. Save and commit changes, then push to a remote GitHub repository.
 1. Studio intro.
 
-## Studio (TA Notes)
+## Studio (TF Notes)
 
 1. Common student stumbling blocks:
    1. Some students get confused trying to follow the instructions, especially as they alternate between the **Control** and **Pilot** roles. Be ready to provide clarification.

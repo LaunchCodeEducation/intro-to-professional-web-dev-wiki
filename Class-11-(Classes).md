@@ -14,7 +14,7 @@
 ### Announcements
 
 1. Reminder that the third graded assignment is due just before the start of the next class.
-1. Students will soon need to install some software in order to complete upcoming chapters. Encourage them to contact their TAs if they have trouble with the process.
+1. Students will soon need to install some software in order to complete upcoming chapters. Encourage them to contact their TFs if they have trouble with the process.
 1. Check with your class Candidate Engagement Manager for any other announcements.
 
 ### Class 11 Topics That Require More Attention
@@ -30,7 +30,7 @@
    1. Inheritance is an abstract concept, and the students need practice setting it up.
 1. Studio intro.
 
-## Studio (TA Notes)
+## Studio (TF Notes)
 
 1. Common student stumbling blocks:
    1. Some students might try to use object literals instead of the ``CrewCandidate`` class to create the three required objects. Reinforce the benefits of declaring and using a class.

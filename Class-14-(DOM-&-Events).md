@@ -20,7 +20,7 @@
 1. Making sure the students understand that the DOM represents the page, can respond to user actions, and can be used to edit the HTML.
 1. Encourage use of the developer tools in the browser.
 
-## Studio (TA Notes)
+## Studio (TF Notes)
 
 1. This is a GREAT studio for automatic, positive feedback ("LOOK! The rocket moves where I tell it to!"). Absolutely encourage your students to play beyond the given tasks.
 1. Common student stumbling blocks:
