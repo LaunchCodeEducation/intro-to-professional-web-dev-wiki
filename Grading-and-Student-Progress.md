@@ -59,7 +59,7 @@ Graded assignment scores are recorded in Canvas.
 6. Enter the grade and comments.
 7. Submit the grade
 <div>
-<img style="width: 500px;" src="https://raw.githubusercontent.com/LaunchCodeEducation/intro-to-professional-web-dev-wiki/master/wiki-materials/canvas-grade-form.png"/>
+<img style="width: 500px;" src="https://raw.githubusercontent.com/LaunchCodeEducation/intro-to-professional-web-dev-wiki/master/wiki-materials/canvas-grade-submission.png"/>
 </div>
 
 # Viewing Submission in Repl.it
