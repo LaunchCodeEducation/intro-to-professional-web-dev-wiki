@@ -26,9 +26,9 @@
         1. Horizontally,
         1. Vertically,
         1. Centered within a ``div``.
-1. If time, discuss why basic HTML forms (inputs, buttons, etc.) do not usually look like the ones we see on company websites.
+1. If time allows, discuss why basic HTML forms (inputs, buttons, etc.) do not usually look like the ones we see on company websites.
 1. Studio intro.
-1. *Studio post-op. This activity will probably require a debrief at the end of the class*.
+1. *Studio follow-up. This activity will probably require a debrief at the end of the class*.
 
 ## Studio (TA Notes)
 

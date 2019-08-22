@@ -32,5 +32,6 @@
 
 1. Common student stumbling blocks:
    1. Finding the dev tools for their particular browser version.
-   1. Using copyrighted images. This studio probably falls under fair use so long as the work does not get posted elsewhere. However, it would be a good idea to remind your students that just because something is found on the web, that does NOT mean it's free to use. If in doubt, DON'T.
+   1. Using copyrighted images. This is a good time to remind your students that just because something is found on the web, that does NOT mean it's free to use. If in doubt, DON'T. The safest bet would be to stick to personal images.
 1. Encourage having fun! Ooooh and aaaaah as you check in with each of your students.
+1. Remind your students to keep their new headlines light-hearted. The studio page has some good language around this, but you should comment on this as well.

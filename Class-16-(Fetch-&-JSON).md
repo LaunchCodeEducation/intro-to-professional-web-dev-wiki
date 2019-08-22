@@ -32,9 +32,9 @@
 ## Studio (TA Notes)
 
 1. Forking and cloning a GitHub repository should be old hat by now. If a student requires help, point them to a book example that shows how to fork and clone rather than walking them through the process again.
-1. Absolutely, positively, NO EXCUSES, complete this studio on your own before class.
+1. Absolutely, positively, NO EXCUSES! Complete this studio on your own before class.
     1. There are lots of tiny details that students may miss or mistype that cause their code to break.
     1. When a student asks for help, have them describe in detail what they have done, what was working before, and where they think their code might be misbehaving.
 1. Some students might get confused about the sample JSON given in the instructions. Remind them that they do NOT need to cut and paste this data. Instead, their program will request data from an API.
 1. Similarly, students might get confused about where to add the HTML for the astronaut data.
-1. As always, encourage your group to try the Bonus missions or play with the CSS file to try to change the appearance of the webpage.
+1. As always, encourage your group to try the Bonus missions, or play with the CSS file to try to change the appearance of the webpage.

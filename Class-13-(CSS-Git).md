@@ -6,8 +6,8 @@
    1. Assign styles to an element, class, or ID.
    1. Internal vs. inline vs. external locations.
 1. More Git:
-   1. Clone a remote repo, or create a remote repo from a local one,
-   1. Push and pull changes,
+   1. Clone a remote repo, or create a remote repo from a local one.
+   1. Push and pull changes.
    1. Create and merge branches.
    1. How to stash changes.
 
