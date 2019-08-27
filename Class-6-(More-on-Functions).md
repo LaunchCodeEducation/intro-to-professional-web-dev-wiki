@@ -4,6 +4,7 @@
 
 ## Announcements
 1. More info to come... when in doubt, check with the class Candidate Engagement Manager for announcements!
+1. Congrats on finishing your first graded assignment!
 1. The second graded assignment is open for you to start working on. Even if you can't solve everything right away, it is important to start working on it since you only have 2 weeks to do it!
 
 ## Large Group Time (Instructor)
