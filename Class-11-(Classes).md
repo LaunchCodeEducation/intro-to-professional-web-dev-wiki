@@ -13,7 +13,7 @@
 
 ### Announcements
 
-1. Reminder that the third graded assignment is due just before the start of the next class.
+1. Reminder that the third graded assignment is due soon!
 1. Students will soon need to install some software in order to complete upcoming chapters. Encourage them to contact their TFs if they have trouble with the process.
 1. Check with your class Candidate Engagement Manager for any other announcements.
 

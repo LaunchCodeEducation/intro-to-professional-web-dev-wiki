@@ -10,7 +10,7 @@
 
 ### Announcements
 
-1. Check with your class Candidate Engagement Manager for any other announcements.
+1. Check with your class Candidate Engagement Manager for any announcements.
 
 ### Topics That Require More Attention
 
