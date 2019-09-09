@@ -7,7 +7,7 @@
 
 ## Announcements
 1. More info to come... when in doubt, check with the class Candidate Engagement Manager!
-1. The second graded assignment is due before the next class!
+1. The second graded assignment is due soon! Remind students of the due date!
 
 ## Large Group Time (Instructor)
 

@@ -15,7 +15,7 @@
 
 ### Announcements
 
-1. Graded assignment #4 is due before the next class.
+1. Graded assignment #4 is due soon!
 1. Check with your class Candidate Engagement Manager for any other announcements.
 
 ### Class 13 Topics That Require More Attention
