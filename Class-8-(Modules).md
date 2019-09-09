@@ -18,7 +18,7 @@
 
 ## Studio (TF Notes)
 
-Refer to the notes you received from LaunchCode as you prepare for and run the studio. You can also access the notes [here](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev-wiki/blob/classes-5-10/wiki-materials/Combating-Imposter-Syndrome-TA-Notes.pdf).
+Refer to the notes you received from LaunchCode as you prepare for and run the studio. You can also access the notes [here](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev-wiki/blob/master/wiki-materials/Combating-Imposter-Syndrome-TA-Notes.pdf).
 
 ### Class 8 Studio
 1. Recognize that imposter syndrome is real and that the feelings it brings are normal.
