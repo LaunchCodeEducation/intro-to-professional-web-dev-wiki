@@ -28,7 +28,7 @@
 
 ## Studio (TF Notes)
 
-1. If you do not know Angular well, you must ABSOLUTELY complete ALL of the prep work yourself! Be the coach your students need.
+1. Remember to do the prep work if you are struggling with Angular yourself! Be the coach your students need.
 1. Remind the students to switch to the ``studio-2`` branch of the ``mission-planner`` repository. No fair peeking at the ``studio-2-solutions`` branch first!
 1. Remind the students to run ``npm install`` before trying to serve the project.
 1. The instructions do NOT guide the students on how to make the rocket name editable. Instead, the students must examine the code for the mission name, then apply that to the rocket. Be ready to help your students with the process of adapting *similar* code to solve a *different* problem.

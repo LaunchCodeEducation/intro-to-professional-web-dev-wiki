@@ -29,6 +29,6 @@
 ## Studio (TF Notes)
 
 1. Celebrate the last studio of unit 1 with your team!
-1. If you do not know Angular well, you must ABSOLUTELY complete ALL of the prep work yourself! Seriously, if you didn't do this for the first two Angular studios, shame on you. Fix that and finish strong for your students.
+1. Finish strong for your students. Do the prep work if you are struggling with Angular yourself!
 1. Make sure your students begin in the ``studio-3`` branch of the ``mission planner`` repository.
-1. Students need to include logical && or || in order to enable/disable the cargo buttons as described in the instructions. Be ready to coach them on how to add these operators to the conditionals in the ``[disabled]`` binding.
+1. Students need to include logical ``&&`` or ``||`` in order to enable/disable the cargo buttons as described in the instructions. Be ready to coach them on how to add these to the conditionals in the ``[disabled]`` binding.

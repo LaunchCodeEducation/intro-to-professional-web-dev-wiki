@@ -28,7 +28,7 @@
 
 ## Studio (TF Notes)
 
-1. If you do not know Angular well, you must ABSOLUTELY complete ALL of the prep work yourself! We expect the Angular lessons to be a big lift, and your students need you to be in top form.
+1. If you do not know Angular well, you need to do the prep work! The Angular lessons are a big lift, and students really need your support and technical prowess to succeed.
 1. Be ready to remind students that they need to fork AND clone the Angular studio repository. This repo is different from the one they cloned for the exercises.
 1. One common mistake students make is to be in the wrong directory when they run ``ng generate`` in the terminal. Remind your students that opening a file from the VSCode file tree does NOT automatically update the working directory in the terminal.
 1. In this first Angular lesson, the students have not learned the structural directives ``*ngFor`` or ``*ngIf`` yet. If someone notices how the ``li`` elements made during the studio seem a little tedious, praise the observation and let them know that lesson 2 will address that issue.

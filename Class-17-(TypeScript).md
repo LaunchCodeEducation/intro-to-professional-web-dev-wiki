@@ -30,7 +30,8 @@
 
 ## Studio (TF Notes)
 
-1. Remind the students that they need to be in the master branch of the TypeScript repository. Also remind them to switch to the "studio" folder to find the starter code.
+1. The GitHub repository for the TypeScript chapter contains starter code and solutions for both the exercises and the studio.
+1. Remind the students that they need to be in the master branch of the repository. Also remind them to switch to the "studio" folder to find the starter code.
 1. One common mistake is to declare the ``Astronaut``, ``Cargo``, and ``Rocket`` classes in the same file instead of in three separate TypeScript files.
 1. Be ready to answer questions about when and where each class needs to be imported. Encourage your students to read through the entire studio description and sketch the relationships between each class.
 1. The code the students paste into ``index.ts`` should be good as-is. Despite the temptation to do so, the students should avoid modifying the code until *after* they have the studio working as described in the instructions.
