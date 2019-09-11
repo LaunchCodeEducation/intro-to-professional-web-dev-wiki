@@ -21,7 +21,7 @@
 
 1. Be ready to answer the question, "Why do we need to learn TypeScript?"
 1. Q & A as needed for the prep-work exercises.
-1. Review the distinction between *classes* and *interfaces* in TypeScript.
+1. Review the distinction between *classes* and *interfaces* in TypeScript. This comes directly from the last concept check in the reading.
 1. Review the syntax for function declarations in TypeScript:
     1. The type must be identified for each parameter.
     1. If a value is returned, the type for that value must also be identified.
