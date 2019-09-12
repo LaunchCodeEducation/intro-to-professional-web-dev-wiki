@@ -32,4 +32,7 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/intro-to-profe
 * [Class 14 - DOM and Events](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-14-(DOM-&-Events))
 * [Class 15 - HTTP and Forms](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-15-(HTTP-&-Forms))
 * [Class 16 - Fetch and JSON](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-16-(Fetch-&-JSON))
-* Guides 17-20 coming soon
+* [Class 17 - TypeScript](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-17-(TypeScript))
+* [Class 18 - Angular, Part 1](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-18-(Angular-Lesson-1))
+* [Class 19 - Angular, Part 2](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-19-(Angular-Lesson-2))
+* [Class 20 - Angular, Part 3](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Class-20-(Angular-Lesson-3))
