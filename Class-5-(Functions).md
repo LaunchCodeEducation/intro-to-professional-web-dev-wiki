@@ -22,6 +22,7 @@
 1. Functions calling other functions.
 1. Q & A for any issues with the chapter exercises.
 1. Emphasize live coding. In particular, consider creating some function tasks to give to the students as "starters" or to use in walkthroughs.
+1. Graded Assignment #2 is open! Remind students that the key to getting the assignment done is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.
 
 ## Studio (TF Notes)
 

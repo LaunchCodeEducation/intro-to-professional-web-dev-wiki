@@ -27,6 +27,7 @@
 1. Reinforce why using a VCS is a good idea. If you have a personal story that relates to this, feel free to share it!
    1. If time, initialize a simple git repo for the web page you created. Show how edits (or mistakes) can be undone with git.
 1. Studio intro. Task uses browser developer tools.
+1. Graded Assignment #4 is open! Remind students that the key to getting the assignment done is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.
 
 ## Studio (TF Notes)
 
