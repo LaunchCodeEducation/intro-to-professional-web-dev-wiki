@@ -38,6 +38,7 @@
    1. Remind students to have their TFs check their code in order to get feedback.
    1. Provide a quick introduction to the Data & Variables studio.
    1. Note that the large group will meet again tonight to review the studio task.
+1. Graded Assignment #1 is open! With each of the six graded assignments in Unit 1, the key is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.
 
 ## Studio (TF Notes)
 

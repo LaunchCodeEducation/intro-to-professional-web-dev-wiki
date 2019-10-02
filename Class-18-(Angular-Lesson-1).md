@@ -25,6 +25,7 @@
 1. Review the Angular CLI commands for creating a new project and generating new components.
 1. Can the HTML tag defined for a nested component be used directly in the ``app.component.html`` file? Explore with the students to see.
 1. Studio intro.
+1. Graded Assignment #6 is open! Remind students that the key to getting the assignment done is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.
 
 ## Studio (TF Notes)
 

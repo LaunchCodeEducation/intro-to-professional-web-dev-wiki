@@ -15,6 +15,7 @@
 1. How to structure the "path" when importing a module.
 1. Q & A for the prep work exercises.
 1. Non-coding studio intro. The studio is about imposter syndrome. Ask if anyone has felt like they did not belong. PEP TALK!
+1. Graded Assignment #3 is open! Remind students that the key to getting the assignment done is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.
 
 ## Studio (TF Notes)
 

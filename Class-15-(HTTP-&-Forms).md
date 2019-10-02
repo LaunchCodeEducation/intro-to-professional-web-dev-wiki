@@ -29,6 +29,7 @@
 1. If time allows, discuss why basic HTML forms (inputs, buttons, etc.) do not usually look like the ones we see on company websites.
 1. Studio intro.
 1. *Studio follow-up. This activity will probably require a debrief at the end of the class*.
+1. Graded Assignment #5 is open! Remind students that the key to getting the assignment done is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.
 
 ## Studio (TF Notes)
 
