@@ -87,6 +87,7 @@ As instructors and TFs, you have edit rights to assignments in repl.it classroom
 material, [notify us](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Course-Overview-and-Structure#Bug-and-Issue-Reporting) to address it.
 With the status of *teacher* in repl.it classrooms, TFs and instructors must be careful not to unintentionally edit the assignments. When completing the assignments yourselves, use Canvas to access the given repl.it classroom assignment page. Be extra careful to 
 ensure you are in **Student Preview** mode when completing the assignments yourselves. If you are not in **Student Preview** mode, you can edit the assignment with your own solution!
+In order to access **Student Preview** mode, click on the assignment you want to try out. The assignment page has an "Edit Assignment" button in the top right and you can click on it! Here is where you could unintentionally edit the assignment. In the top right is the "Student Preview" button. Simply confirm through the dialog box that you want to enter the **Student Preview** mode and you will be able to try out your own solution without editing the assignment for the whole class.
 
 # Student Progress
 
