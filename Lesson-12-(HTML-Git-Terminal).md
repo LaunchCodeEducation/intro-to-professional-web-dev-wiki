@@ -1,3 +1,5 @@
+# Lesson 12: HTML, Git, and Terminal Basics
+
 ## In the prep work this week (HTML, Git, Terminal), the students learned:
 
 1. How to access and use the terminal as a standalone program and through VSCode.
@@ -17,7 +19,7 @@
 1. Start working on graded assignment #4.
 1. Check with your class Candidate Engagement Manager for any other announcements.
 
-### Class 12 Topics That Require More Attention
+### Lesson 12 Topics That Require More Attention
 
 1. Don't be afraid to use the terminal!
 1. Live coding:

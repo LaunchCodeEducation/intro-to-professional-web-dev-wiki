@@ -1,4 +1,6 @@
-## In the prep work this week (chapters 7 & 8), the students learned:
+# Lesson 3: Strings and Arrays
+
+## In the prep work this week (Chapters 7 & 8), the students learned:
 
 1. What strings and arrays represent and that strings are _immutable_.
 1. How to use bracket notation to:
@@ -15,7 +17,7 @@
 1. Remind students of the due date for the first graded assignment.
 1. Other items as needed...
 
-### Class 3 Topics That Require More Attention
+### Lesson 3 Topics That Require More Attention
 
 1. There are 2 open ended Check Your Understanding questions in the strings chapter. Spend time discussing each one:
    1. Given ``word = 'Rutabaga'``, why does ``word.length`` return the integer 8, but ``word[8]`` is undefined?

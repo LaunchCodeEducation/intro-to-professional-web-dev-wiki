@@ -1,3 +1,5 @@
+# Lesson 18: Angular Part 1
+
 ## In the prep work this week (Angular Lesson 1), the students learned:
 
 1. The concept of *templates* and *components* and why we want to use them to build websites.

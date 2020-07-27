@@ -1,3 +1,5 @@
+# Lesson 11: Classes
+
 ## In the prep work this week (Classes), the students learned:
 
 1. What a JavaScript **class** represents.
@@ -17,7 +19,7 @@
 1. Students will soon need to install some software in order to complete upcoming chapters. Encourage them to contact their TFs if they have trouble with the process.
 1. Check with your class Candidate Engagement Manager for any other announcements.
 
-### Class 11 Topics That Require More Attention
+### Lesson 11 Topics That Require More Attention
 
 1. Q & A for making the class methods work in the exercises.
 1. Review the difference between a *class* and an *object*.

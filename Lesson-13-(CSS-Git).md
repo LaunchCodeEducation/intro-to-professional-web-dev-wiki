@@ -1,3 +1,5 @@
+# Lesson 13: CSS and More on Git
+
 ## In the prep work this week (CSS, More Git), the students learned:
 
 1. CSS:
@@ -18,7 +20,7 @@
 1. Graded assignment #4 is due soon!
 1. Check with your class Candidate Engagement Manager for any other announcements.
 
-### Class 13 Topics That Require More Attention
+### Lesson 13 Topics That Require More Attention
 
 1. Review the differences between using element selectors, class selectors, and id selectors in CSS.
     1. What is the sequence in priority?

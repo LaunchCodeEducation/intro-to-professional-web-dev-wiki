@@ -1,3 +1,5 @@
+# Lesson 1: Data and Variables
+
 ## In the prep work this week, the students learned:
 1. How to declare, initialize, and reassign variables
 1. The ``number`` and ``string`` data types and how to convert between them
@@ -6,7 +8,7 @@
 
 ## Announcements
 1. Welcome! First day pep talk
-1. Class 2 prep work should be active by the end of class.
+1. Lesson 2 prep work should be active by the end of class.
 
 ## Large Group Time (Instructor)
 ### First Class Reminders
@@ -21,7 +23,7 @@
 1. Introduce the TFs and assign groups (may be done during the studio intro).
 1. Other relevant contact information.
 
-### Class 1 Topics That Require Careful Attention
+### Lesson 1 Topics That Require Careful Attention
 1. ``let`` vs. ``const``. When should each be used?
 1. Discourage the use of ``var``. If students want to know more technical details as to why we won't be using ``var``, that topic is covered in the chapter on scope.
 1. ``+=``, ``-=``, etc. can be used as a shortcut (e.g. ``num = num + 3`` vs. ``num += 3``).
@@ -52,7 +54,7 @@
 1. Assist individuals as questions arise. Address frequent mistakes and/or questions to your whole group.
 1. Make a note of any issues that occur during the studio and provide that feedback to the instructor and LaunchCode team.
 
-### Class 1 Studio
+### Lesson 1 Studio
 1. Help students successfully navigate to repl.it Classroom and find the Data and Variables studio.
 1. Encourage best practices for variable names.
 1. Studios are NOT graded, but for this first task, you should do a visual check of each student's output.

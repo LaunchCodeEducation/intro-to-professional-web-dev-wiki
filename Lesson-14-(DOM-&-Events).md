@@ -1,3 +1,5 @@
+# Lesson 14: DOM and Events
+
 ## In the prep work this week (DOM and Events), the students learned:
 
 1. JavaScript in the browser and in Node.js are two different environments.
