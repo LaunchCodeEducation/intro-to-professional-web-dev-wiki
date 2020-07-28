@@ -1,3 +1,5 @@
+# Lesson 9: Unit Testing
+
 ## In the prep work this week, the students learned:
 1. What unit testing is and why it is important.
 1. How to use ``Jasmine`` for testing.
@@ -9,7 +11,7 @@
 
 ## Large Group Time (Instructor)
 
-### Class 9 Topics That Require Careful Attention
+### Lesson 9 Topics That Require Careful Attention
 1. Reinforce why unit testing is important. If you can share an instance where properly testing your code saved you a huge headache, please do! 
 1. Live coding is your friend for this lesson!
 1. Q & A for the chapter exercises or perform a walkthrough.
@@ -19,7 +21,7 @@
 
 ## Studio (TF Notes)
 
-### Class 9 Studio
+### Lesson 9 Studio
 1. The studio is divided into parts that are in the proper order for TDD. Remind students to not skip around the different steps!
 1. Reinforce the benefits of writing tests before the code.
 1. If many of the students have the same questions or problems with writing their first test, consider going through that as a group.

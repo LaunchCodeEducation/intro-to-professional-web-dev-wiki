@@ -1,3 +1,5 @@
+# Lesson 16: Fetch and JSON
+
 ## In the prep work this week (HTTP and Forms), the students learned:
 
 1. Why we need a standard format for exchanging data.

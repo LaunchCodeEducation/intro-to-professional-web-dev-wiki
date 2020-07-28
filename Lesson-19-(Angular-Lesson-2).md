@@ -1,3 +1,5 @@
+# Lesson 19: Angular Part 2
+
 ## In the prep work this week (Angular Lesson 2), the students learned:
 
 1. Structural directives shape the page by adding and removing elements.

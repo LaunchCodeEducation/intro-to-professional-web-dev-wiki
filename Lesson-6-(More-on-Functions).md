@@ -1,3 +1,5 @@
+# Lesson 6: More on Functions
+
 ## In the prep work this week, the students learned:
 1. What an anonymous function is and how to write one.
 2. What recursion is and how a function can call itself.
@@ -8,7 +10,7 @@
 
 ## Large Group Time (Instructor)
 
-### Class 6 Topics That Require Careful Attention
+### Lesson 6 Topics That Require Careful Attention
 1. Conversation Starters:
    1. What type of error occurs when attempting to use a value that is NOT a function as if it were one?
    1. Explain the difference between named and anonymous functions, including an example of how an anonymous function can be used.
@@ -18,5 +20,5 @@
 
 ## Studio (TF Notes)
 
-### Class 6 Studio
+### Lesson 6 Studio
 1. Remind students about how important it is to write a sorting function yourself. The last section of the studio instructions has a lot of really good points about how sorting functions serve as the basis for many technical interview questions.

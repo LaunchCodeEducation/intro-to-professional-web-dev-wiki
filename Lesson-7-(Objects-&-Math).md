@@ -1,3 +1,5 @@
+# Lesson 7: Objects and the Math Object
+
 ## In the prep work this week, the students learned:
 1. That objects are collections of several key/value pairs.
 1. How to write object literals using bracket notation.
@@ -11,7 +13,7 @@
 
 ## Large Group Time (Instructor)
 
-### Class 7 Topics That Require Careful Attention
+### Lesson 7 Topics That Require Careful Attention
 1. What data type is an object? Students may need reminders and reinforcements that objects are built of other data types.
 1. Possible reasons to use an object.
 1. Why the ``Math`` object in particular? What can students do with the Math object besides simple rounding? We encourage you to share examples of using the ``Math`` object to solve non-math problems (i.e. randomly selecting an item from an array)
@@ -21,6 +23,6 @@
 
 ## Studio (TF Notes)
 
-### Class 7 Studio
+### Lesson 7 Studio
 1. In this studio, there will be math involved. For any mathphobic students who are struggling, remind them this is just one studio, not a whole programming career!
 1. Remember to check in with each student. This far into the class, you should be helping to guide students away from inefficient code practices and other bad habits.

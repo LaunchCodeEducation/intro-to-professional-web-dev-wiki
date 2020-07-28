@@ -1,3 +1,5 @@
+# Lesson 10: Scope, More on Types, and Exceptions
+
 ## In the prep work this week, the students learned:
 
 1. More about scope. Scope was covered briefly in the Functions chapter, but the students have now covered it in more depth.
@@ -12,7 +14,7 @@
 
 ## Large Group Time (Instructor)
 
-### Class 10 Topics That Require Careful Attention
+### Lesson 10 Topics That Require Careful Attention
 
 1. Conversation starters:
    1. What is the difference between different types of errors.
@@ -27,7 +29,7 @@
 
 ## Studio (TF Notes)
 
-### Class 10 Studio
+### Lesson 10 Studio
 
 1. Don't be afraid to share your own experience!
 1. This studio is aimed on helping people develop processes for more strategically debugging their code. If they still struggle with debugging after this studio, gently remind them of the topics covered here.

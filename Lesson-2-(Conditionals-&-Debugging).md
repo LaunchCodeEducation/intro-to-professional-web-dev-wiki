@@ -1,3 +1,5 @@
+# Lesson 2: Conditionals and Debugging
+
 ## In the prep work this week, the students learned:
 
 1. The boolean data type and boolean expressions
@@ -12,9 +14,9 @@
 ### Announcements
 
 1. Note the due date for the first graded assignment (should be 2 - 4 weeks away).
-1. The assignment will be active in Canvas soon, and the students will know enough after class 2 to begin the first part of the assignment.
+1. The assignment will be active in Canvas soon, and the students will know enough after lesson 2 to begin the first part of the assignment.
 
-### Class 2 Topics That Require More Attention
+### Lesson 2 Topics That Require More Attention
 
 1. Q & A from the prep work and/or exercises.
    1. Recommend walking through the debugging exercises to reinforce how to spot the different error types, how to use error messages to find bugs, and how to systematically find and fix logic errors.

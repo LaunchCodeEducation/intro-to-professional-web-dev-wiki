@@ -1,4 +1,6 @@
-## In the prep work this week (chapter 9), the students learned:
+# Lesson 4: Iteration
+
+## In the prep work this week, the students learned:
 
 1. How to write ``for`` and ``while`` loops:
    1. Proper syntax
@@ -16,7 +18,7 @@
 1. Reminder of the due date for the first graded assignment.
 1. After this class, the students will have all the skills necessary to complete the assignment.
 
-### Class 4 Topics That Require More Attention
+### Lesson 4 Topics That Require More Attention
 
 1. Live coding, live coding, live coding!
    1. Present a sequence of challenges for students to try in their repl.it accounts, then ask for them to contribute to the solutions presented to the class. Start simple, then increase the complexity of the tasks.

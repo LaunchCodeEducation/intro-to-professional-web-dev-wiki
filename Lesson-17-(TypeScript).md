@@ -1,3 +1,5 @@
+# Lesson 17: TypeScript
+
 ## In the prep work this week (TypeScript), the students learned:
 
 1. What TypeScript is and how it is different from JavaScript.
