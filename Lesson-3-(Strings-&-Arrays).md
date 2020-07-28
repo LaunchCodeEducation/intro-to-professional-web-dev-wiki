@@ -1,6 +1,6 @@
 # Lesson 3: Strings and Arrays
 
-## In the prep work this week (Chapters 7 & 8), the students learned:
+## In the prep work this week, the students learned:
 
 1. What strings and arrays represent and that strings are _immutable_.
 1. How to use bracket notation to:

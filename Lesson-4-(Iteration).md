@@ -1,6 +1,6 @@
 # Lesson 4: Iteration
 
-## In the prep work this week (Chapter 9), the students learned:
+## In the prep work this week, the students learned:
 
 1. How to write ``for`` and ``while`` loops:
    1. Proper syntax
