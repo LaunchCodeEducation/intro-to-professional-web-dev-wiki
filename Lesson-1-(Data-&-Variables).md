@@ -2,9 +2,9 @@
 
 ## In the prep work this week, the students learned:
 1. How to declare, initialize, and reassign variables
-1. The ``number`` and ``string`` data types and how to convert between them
-1. The mathematical operators (``+, -, *, /, **, %, ++, --``) and order of operations
-1. The ``typeof`` keyword and how to collect user input with ``readline-sync``
+1. The ``int``, ``double``, and ``string`` data types and how to convert between them
+1. The mathematical operators (``+, -, *, /, Math.Pow(), %, ++, --``) and order of operations
+1. The ``GetType`` keyword and how to collect user input with ``ReadLine``
 
 ## Announcements
 1. Welcome! First day pep talk
@@ -24,13 +24,13 @@
 1. Other relevant contact information.
 
 ### Lesson 1 Topics That Require Careful Attention
-1. ``let`` vs. ``const``. When should each be used?
+1. data types vs. ``const``. When should each be used?
 1. Discourage the use of ``var``. If students want to know more technical details as to why we won't be using ``var``, that topic is covered in the chapter on scope.
 1. ``+=``, ``-=``, etc. can be used as a shortcut (e.g. ``num = num + 3`` vs. ``num += 3``).
 1. Modulus
    1. This is likely a new idea for many of the students. Provide a clear, deliberate explanation (with examples) of what it does.
    1. Why would we need to use ``%``? Don't get too detailed yet, but note some simple scenarios where it might be necessary. The students do not know ``if/else`` yet, so keep your explanation non-code specific.
-1. Walk through the syntax and how to use ``readline-sync`` to collect user input from the console.
+1. Walk through the syntax and how to use ``ReadLine`` to collect user input from the console.
    1. Tell them more about what the **console** is and remind them about where to find it in repl.it.
    1. Live coding examples.
 1. Overview of how studio sessions run and how to best take advantage of the time.
@@ -61,7 +61,7 @@
    1. The best time to do this is during the studio!
    1. If a student does not finish by the end of class, they should complete the studio at home and click "Submit". You will be able to check their code from within repl.it.
 1. Common mistake:
-   1. Some students will miss the idea of using variables to create the output. Instead, they will hard code the data values into the ``console.log`` statements.
+   1. Some students will miss the idea of using variables to create the output. Instead, they will hard code the data values into the ``Console.WriteLine`` statements.
    1. Encourage the students to use variables, and explain that doing so allows the output to reflect any changes in the data.
    1. When the students run their code for you, ask them to change ``astronautCount`` to a different number (like 3), and then verify that the output reflects the new value.
 1. Recognize any clever ideas that the students use to print the tedious parts of the output.
