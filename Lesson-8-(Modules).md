@@ -24,10 +24,10 @@
 
 ## Studio (TF Notes)
 
-Refer to the notes you received from LaunchCode as you prepare for and run the studio. You can also access the notes [here](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev-wiki/blob/master/wiki-materials/Combating-Imposter-Syndrome-TA-Notes.pdf).
+Refer to the notes you received from LaunchCode as you prepare for and run the studio. You can also access the notes [here](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev-wiki/blob/master/wiki-materials/Building-Confidence-TA-Notes.pdf).
 
 ### Lesson 8 Studio
 
-1. Recognize that imposter syndrome is real and that the feelings it brings are normal.
-1. Don't be afraid to offer your own experiences with imposter syndrome.
-1. Don't invalidate anyone's feelings.
+1. This studio coaches students how to build confidence in their coding skills, and recognize that self-doubt is common.
+1. Be ready to share your own experiences and tips for building confidence.
+1. Be mindful of your students' feelings and doubts.
