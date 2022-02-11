@@ -53,7 +53,7 @@ their role in the process.
   * Look for signs of students struggling and falling behind
   * Use feedback from students and TFs to determine how to cover the topic more effectively.
   * Adjust examples and descriptions of topics as needed.
-* Manage and coach TFs
+* Act as resource for TFs
 
 ## Teaching Fellows (TFs)
 
