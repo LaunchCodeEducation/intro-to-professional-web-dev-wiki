@@ -8,6 +8,7 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/intro-to-profe
 
 ## General Course Information
 
+* [Course Training Slides](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Training-Slides)
 * [Course Overview, Methodologies, and Tasks](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Course-Overview-and-Structure)
 * [Course Platforms](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Course-Platforms)
 * [How to Work With Students](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Working-With-Students)
