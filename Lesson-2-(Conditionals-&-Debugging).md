@@ -1,6 +1,6 @@
 # Lesson 2: Conditionals and Debugging
 
-## In the prep work this week, the students learned:
+## In the prep work for this lesson, the students learned:
 
 1. The boolean data type and boolean expressions
 1. Logical operators (``>``, ``<``, etc.) and ``==`` vs. ``===``

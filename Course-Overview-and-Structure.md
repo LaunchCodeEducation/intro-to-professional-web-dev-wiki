@@ -6,7 +6,9 @@ The course is delivered using a combination of online tasks, in person instructi
 
 ## Flipped Classroom Model
 
-Most of the traditional instruction will be done at home via online reading and exercises. In class time will be spent reviewing concepts, answering questions, walking through live-coding examples, and working on small programming tasks called **studios**.
+Most of the traditional instruction, or **prep work**,  will be done independently via online reading and exercises. For *weekly students*, prep work will be completed outside of class time.  For *CodeCamp students*, prep work is part of the scheduled day.  Group time will be spent reviewing concepts, answering questions, walking through live-coding examples, and working on small programming tasks called **studios**.
+
+
 
 ## Course Goals
 
@@ -54,6 +56,11 @@ This content is meant to be a start and not the finish. With these skills studen
   * Designed to be **safe practice time** for students with TF support
 * Programming Assignments
   * Graded assignments for which students are given multiple classes to complete **in class**.
+* Self-Assessments (CodeCamp only)
+  * These assessments are scheduled to provide feedback for the student about what concepts they understand and what they need to review.
+  * These are not graded, and will not prevent a student from passing the class.
+  * Use these to assess overall class understanding of concepts.  
+
 
 # Tasks and Responsibilities
 Instructors and TFs are crucial to the success of the students. These tasks help ensure that everyone knows
@@ -106,7 +113,7 @@ TFs will be assigned a group of students to guide.
 
 ### CodeCamp Students
 * Pay attention to assignments in Canvas
-* Do the prep work **before lecture and studio**
+* Do the prep work **during assingned prep work time**, usually before lecture and studio
 * Attend class and participate in activities
 * Turn in graded assignments on time
 * Do their own work
