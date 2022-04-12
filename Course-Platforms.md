@@ -19,9 +19,9 @@
 * Used for coding examples, code practice, and as the students first coding environment
 * Instructors, TFs, and students will need to create their own accounts.
 
-## Repl.it Classroom
+## GitHub Classroom
 * A way to organize, deliver, and verify coding assignments in repl.it
-* Some exercises and studios will be turned in via repl.it classroom
+* Some exercises and studios will be turned in via GitHub classroom
 * See [grading section](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Grading-and-Student-Progress) for how to grade.
 
 
