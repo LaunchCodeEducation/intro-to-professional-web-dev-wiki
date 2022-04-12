@@ -6,7 +6,7 @@ The course is delivered using a combination of online tasks, in person instructi
 
 ## Flipped Classroom Model
 
-Most of the traditional instruction will be done at home via online reading and exercises. In class time will be spent reviewing concepts, answering questions, walking through live-coding examples, and working on small programming tasks called studios.
+Most of the traditional instruction will be done at home via online reading and exercises. In class time will be spent reviewing concepts, answering questions, walking through live-coding examples, and working on small programming tasks called **studios**.
 
 ## Course Goals
 
@@ -21,9 +21,13 @@ This content is meant to be a start and not the finish. With these skills studen
 
 # Class Structure
 
+## Weekly Classes
 * Prep work
   * Tasks student do **at home, before class**
-  * Reading chapters, quizzes, practice exercises
+    * Includes:
+      * Reading aassigned chapters
+      * Completing reading quizzes
+      * Working on practice exercises
 * Primary Instruction
   * Led by the instructor
   * Lasts 45 minutes to 1 hour
@@ -33,6 +37,23 @@ This content is meant to be a start and not the finish. With these skills studen
   * Designed to be **safe practice time** for students with TF support
 * Programming Assignments
   * Graded assignments for which students are given multiple weeks to complete
+
+## CodeCamp Classes
+* Prep work
+  * Tasks student do **in class** 
+  * Includes:
+    * Reading aassigned chapters
+    * Completing reading quizzes
+    * Working on practice exercises
+* Primary Instruction
+  * Led by the instructor
+  * Lasts 45 minutes to 1 hour
+* Studio
+  * Students separate into assigned groups, that are led by a TF
+  * Lasts 1 to 1.5 hours
+  * Designed to be **safe practice time** for students with TF support
+* Programming Assignments
+  * Graded assignments for which students are given multiple classes to complete **in class**.
 
 # Tasks and Responsibilities
 Instructors and TFs are crucial to the success of the students. These tasks help ensure that everyone knows
@@ -60,7 +81,7 @@ their role in the process.
 TFs will be assigned a group of students to guide.
 
 * Assist individual students
-  * Check on each student in your group at least once every class
+  * Check on each student in your group at least once every class, or if in CodeCamp, a few times during the day.
   * Answer individual student questions
   * Help an individual student through a code problem
 * Monitor and respond to individual student struggles
@@ -76,8 +97,16 @@ TFs will be assigned a group of students to guide.
 
 ## Students
 
+### Weekly Students
 * Pay attention to assignments in Canvas
 * Do the prep work **before class**
+* Attend class and participate in activities
+* Turn in graded assignments on time
+* Do their own work
+
+### CodeCamp Students
+* Pay attention to assignments in Canvas
+* Do the prep work **before lecture and studio**
 * Attend class and participate in activities
 * Turn in graded assignments on time
 * Do their own work

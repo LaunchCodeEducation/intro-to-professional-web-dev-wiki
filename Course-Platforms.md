@@ -20,8 +20,8 @@
 * Instructors, TFs, and students will need to create their own accounts.
 
 ## GitHub Classroom
-* A way to organize, deliver, and verify coding assignments in repl.it
-* Some exercises and studios will be turned in via GitHub classroom
+* A way to organize, deliver, and verify coding assignments.
+* Only graded assignments require GitHub Classroom.
 * See [grading section](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Grading-and-Student-Progress) for how to grade.
 
 
