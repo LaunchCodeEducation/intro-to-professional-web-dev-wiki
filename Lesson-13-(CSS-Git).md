@@ -1,6 +1,6 @@
 # Lesson 13: CSS and More on Git
 
-## In the prep work this week (CSS, More Git), the students learned:
+## In the prep work for this lesson, the students learned:
 
 1. CSS:
    1. Syntax.
@@ -17,8 +17,18 @@
 
 ### Announcements
 
-1. Graded assignment #4 is due soon!
 1. Check with your class Candidate Engagement Manager for any other announcements.
+
+#### For Part-Time Students:
+1. Graded assignment #4 is due soon!
+
+
+#### For Full-Time Students:
+* Welcome to Day 19!
+* Introduce and start working on Assignment 4 this afternoon!
+* Assignment 4 due Day 23
+* Assignment 3 due at end of Day 19
+
 
 ### Lesson 13 Topics That Require More Attention
 
@@ -32,7 +42,7 @@
     1. If you saved the HTML page from class 12, use that as a starting point for adding some CSS.
     1. Recall the tedious aspects of HTML design from class 12. Note how CSS streamlines the process.
     1. Save and commit changes, then push to a remote GitHub repository.
-1. Studio intro.
+
 
 ## Studio (TF Notes)
 

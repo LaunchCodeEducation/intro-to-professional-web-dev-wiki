@@ -1,6 +1,6 @@
 # Lesson 14: DOM and Events
 
-## In the prep work this week (DOM and Events), the students learned:
+## In the prep work for this lesson, the students learned:
 
 1. JavaScript in the browser and in Node.js are two different environments.
 1. DOM objects and methods are used to alter an HTML web page.
