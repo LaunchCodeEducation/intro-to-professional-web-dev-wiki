@@ -20,12 +20,12 @@ Remember that *Canvas*, not replit, is the source of truth in regards to the stu
 
 Early in the class student work is stored in *replit.com*, while later in the class *GitHub repositories* are used.
 
-### Weekly Students
+### Part-Time Students
 1. Exercise Solutions: These are at-home practice. Reviewed but **NOT graded**.
 1. Studio Solutions: In-class practice that is reviewed but **NOT graded**.
 1. Graded Assignment Solutions: At-home work that **is graded**.
 
-### CodeCamp Students
+### Full-Time Students
 1. Exercise Solutions: Students work on these during Prep Work time.  Reviewed but **NOT graded**.
 1. Studio Solutions: In-class practice that is reviewed but **NOT graded**.
 1. Graded Assignment Solutions: Completed during designated work times during class and **graded**.

@@ -2,17 +2,18 @@
 (this is being used as a temporary template for the lesson guides)
 
 ## General Guide for Lesson Preparation
-1. Make sure you read ALL of the chapter, exercises, and studio pages. This includes solving the exercises and studio activities yourself. The more you understand what the students see in the prep work, the better you can tailor your lesson.
+1. Make sure you read ALL of the chapters, exercises, and studio pages. This includes solving the exercises and studio activities yourself. The more you understand what the students see in the prep work, the better you can tailor your lesson.
 1. Do not try to "wing it"! Create lesson notes to follow so you do not forget something, and generate clear slides.
-1. Aim for a middle ground between providing too much detail (which bores students who did the prep work and understood it completely) and not enough detail (which leaves behind those who did not finish the prep work or were fuzzy on some of the ideas). The large group session is NOT a substitute for the prep work, but it should allow those who missed some of the content to make progress.
+1. Aim for a middle ground between providing too much detail and not enough detail.  Too much detail can bore students who did the prep work and understood it completely.  Not enough detail can leave behind those who did not finish the prep work or were fuzzy on some of the ideas. The large group session is NOT a substitute for the prep work. It should allow those who missed some of the content to make progress.
 1. Be responsive to questions, and adapt the lesson to redirect wavering class attention.
 1. As much as possible, provide opportunities for active coding during the lesson.
 
-## Class Timeline for **Weekly** Students
+## Class Timeline for **Part-Time** Students
 Each class follows the same general format:
 
 ### Full Group Time, Instructor Led (45 - 60 minutes)
 1. Announcements and regular pep-talks
+   1. Lesson pages will provide some noteworthy announcements
 1. Primary Instruction - includes one or more of the following:
    1. Topic review with live coding examples and/or lesson notes
    1. Exercise or Concept Check review
@@ -23,8 +24,8 @@ Each class follows the same general format:
 
 ### Small Group Time, TA Led (60 - 90 minutes)
 1. Studio task, which consists of either: 
-   1. A larger coding task that relates to the lesson objectives, or
-   1. A non-coding activity designed to boost job readiness.
+   * A larger coding task that relates to the lesson objectives.
+   * A non-coding activity designed to boost job readiness.
 
 ### Full Group Wrap-up, Instructor Led (Remaining class time)
 Depending on the lesson, this time may be used to:
@@ -32,24 +33,25 @@ Depending on the lesson, this time may be used to:
 1. Complete short activities created by the LaunchCode Impact team.
 1. Provide reminders for upcoming due dates.
 1. Give a teaser for what code skills come next.
-1. Staff stand-up - Touch base with the TFs to collect feedback about the lesson, review grading procedures, discuss specific students or concerns, etc. This should be done only AFTER all the students have left.
+1. Staff stand-up: 
+   * Touch base with the TFs to collect feedback about the lesson, review grading procedures, discuss specific students or concerns, etc. 
+   * This should be done only AFTER all the students have left.
 
-## Class Timeline for **CodeCamp** Students
+## Class Timeline for **Full-Time** Students
 Each class follows the same general format:
 
 ### Prep Work Time, Independent Time (3 hours)
 1. Announcements and regular pep-talks (~15 min)
-   1. Due dates
-   1. Daily Objectives
-   1. Any CEM messages
+   1. Lesson pages will provide some noteworthy announcements
 1. 2.5-3 hours for students to independently complete the lesson's
    1. Reading
    1. Concept checks 
    1. Exercises
 1. Usually before lunch break
 1. Recommend checking in with students to gauge progress
+1. Goal is to complete all prep work during class 
 
-### Full Group Time, Instructor Led (45 - 60 minutes)
+### Full Group Time, Instructor Led (45 - 90 minutes)
 1. Primary Instruction - includes one or more of the following:
    1. Topic review with live coding examples and/or lesson notes
    1. Exercise or Concept Check review
@@ -58,10 +60,11 @@ Each class follows the same general format:
    1. Assignment walkthrough
    1. Studio introduction
 
-### Small Group Time, TA Led (60 - 90 minutes)
+### Small Group Time, TA Led (90 - 120 minutes)
 1. Studio task, which consists of either: 
-   1. A larger coding task that relates to the lesson objectives, or
-   1. A non-coding activity designed to boost job readiness.
+   * A larger coding task that relates to the lesson objectives
+   * A non-coding activity designed to boost job readiness.
+
 
 ### Full Group Wrap-up, Instructor Led (Remaining class time)
 Depending on the lesson, this time may be used to:
@@ -72,9 +75,15 @@ Depending on the lesson, this time may be used to:
 
 ### Full Group Weekly Retro, Instructor Led (Last 30 min of Friday class)
 Depending on the lesson and course work for the week, this time may be used to:
-1. Assess how the class felt about the week's material
-1. Discuss or review any issues that came up during the week
-1. Discuss what is coming up next week
+1. Assess how the class felt about the week's material.
+1. Discuss or review any issues that came up during the week.
+1. Discuss what is coming up next week.
+
+### Self-Assessments (90-120 mins)
+1. Built into the schedule.
+1. Designed for the students to see what they know and where they need to review.
+1. Not part of final grade.
+1. Full-Time progrmans only.
 
 ### Staff Stand Ups
 1. Touch base with the TFs to collect feedback about the lesson, review grading procedures, discuss specific students or concerns, etc.
