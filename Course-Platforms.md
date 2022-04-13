@@ -15,23 +15,24 @@
 
 ## Repl.it
 * [Repl.it](https://repl.it/repls) is an online code editor and code executing environment.
-* Code can be shared via the URL and forked for modification
+* Code can be shared via the URL and forked for modification.
 * Used for coding examples, code practice, and as the students first coding environment
 * Instructors, TFs, and students will need to create their own accounts.
 
 ## GitHub Classroom
 * A way to organize, deliver, and verify coding assignments.
-* Only graded assignments require GitHub Classroom.
+* Only graded assignments require GitHub Classroom at this time.
 * See [grading section](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Grading-and-Student-Progress) for how to grade.
 
 
 ## Github
-* Some starter code will be delivered by forking [github](https://github.com/) repositories
-* Later on in the class students will turn in some assignments by providing a link to their repositories
+* Some starter code will be delivered by forking [github](https://github.com/) repositories.
+* Later on in the class students will turn in some assignments by providing a link to their repositories.
  
 ## Slack
 * [Slack](https://slack.com) is a popular messaging tool that is used in the class.
 * LaunchCode staff will send out an invitation to the Slack group specific to your class.
+* Slack is a great tool to create community in your classroom.  
 
 ## Student Tutorials
 The online course book contains short tutorials for the students on how to use Canvas and repl.it.

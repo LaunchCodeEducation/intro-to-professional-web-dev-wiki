@@ -1,40 +1,40 @@
 # Student Data
 
-Attendance records, grades, and other progress indicators can be found in Canvas and GitHub classroom. Each data point has a specific use.
+Attendance records, grades, and other progress indicators are in Canvas and GitHub classroom. Each data point has a specific use.
 
-Remember that Canvas, not replit.com, is the source of truth in regards to the student's status in the class.
+Remember that *Canvas*, not replit, is the source of truth in regards to the student's status in the class.
 
 ## Data Stored in Canvas
 
 * Attendance record
   * Manually entered by TFs
-  * **Counts toward** final grade for student
+  * **Counts toward** final grade for students
 * Graded Assignments
   * Manually scored and entered by TFs
-  * **Counts toward** final grade for student
+  * **Counts toward** final grade for students
 * Concept Checks
   * Auto-graded
-  * **Does NOT count** toward final grade for student
+  * **Does NOT count** toward final grade for students
 
 ## Student Work
 
-Early in the class student work is stored in *replit.com*, while later in the class *github repositories* are used.
+Early in the class student work is stored in *replit.com*, while later in the class *GitHub repositories* are used.
 
 ### Weekly Students
-1. Exercise Solutions: These are at home practice and are reviewed but **NOT graded**.
-1. Studio Solutions: In class practice that is reviewed but **NOT graded**.
-1. Graded Assignment Solutions: At home work that **is graded**.
+1. Exercise Solutions: These are at-home practice. Reviewed but **NOT graded**.
+1. Studio Solutions: In-class practice that is reviewed but **NOT graded**.
+1. Graded Assignment Solutions: At-home work that **is graded**.
 
 ### CodeCamp Students
-1. Exercise Solutions: These are prep work time practice and are reviewed but **NOT graded**.
-1. Studio Solutions: In class practice that is reviewed but **NOT graded**.
-1. Graded Assignment Solutions: Completed during designated work times during class and are **graded**.
+1. Exercise Solutions: Students work on these during Prep Work time.  Reviewed but **NOT graded**.
+1. Studio Solutions: In-class practice that is reviewed but **NOT graded**.
+1. Graded Assignment Solutions: Completed during designated work times during class and **graded**.
 
 
 # Grading
 
 ## Solutions
-[The solutions repository](https://gitlab.com/LaunchCodeEducation/lc101-solutions-unit1) on gitlab.com contains solutions for graded assignments, studios, and some of the exercises for the JavaScript Unit. Ask a LaunchCode staff member to add you to the repository.
+[The solutions repository](https://gitlab.com/LaunchCodeEducation/lc101-solutions-unit1) is at gitlab.com. It contains solutions for graded assignments, studios, and exercises for the JavaScript Unit. Ask a LaunchCode staff member to add you to the repository.
 
 ## Attendance
 
@@ -44,16 +44,22 @@ Note in some versions of this course, the attendance assignment will be a *quiz*
 
 ## Graded Assignments
 
-Graded assignment scores are recorded in Canvas.
+Starter code for graded assignments is in GitHub Classroom.  The starter code contains unit tests that quickly inform students and staff if all requirements were met.  This does NOT replace TA feedback.
+
+The textbook and Canvas have graded assignments instructions and requirements for the students.  
+
+Record graded assignment scores in Canvas.
 
 1. Review the student's work
-   1. Work will be in GitHub Classroom
-   1. A live demo from the student is required 
-   1. When in GitHub Classroom, you will see a green check if the code meets all requirements or a red x if the code does not.
-   1. Rubrics are in the assignment's GitLab README file of the assignment repo.  Use the rubric to double check that the student's solution meets all of the requirements. If something is missing, do NOT use the rubric as feedback. Tell the student directly what elements are missing.
+   * Work will be in GitHub Classroom
+   * A live demo from the student is required.
+   * GitHub Classroom provides a quick visual indicator for a pass and fail:
+      * PASS: Green checkmark indicating that the student's code passed all tests and meets all requirements
+      * FAIL: Red "x" if the code does not pass tests or meet all requirements.
+   * Every graded assignment has a repo in GitLab. Rubrics are in README files. Use the rubric to double-check that the student's solution meets all requirements. If something is missing, do NOT use the rubric as feedback. Tell the student directly what elements are missing.
 1. Enter grade in Canvas
-   1. If the code meets the requirements, then mark the assignment complete in Canvas
-   1. More about feedback in the [feedback section](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Grading-and-Student-Progress#feedback)
+   * If the code meets the requirements, then mark the assignment complete in Canvas
+   * More about feedback in the [feedback section](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Grading-and-Student-Progress#feedback)
 
 
 ### Canvas Grade Form
@@ -82,10 +88,10 @@ Graded assignment scores are recorded in Canvas.
 Features to note:
 
 - **Green CheckMark**: Present when code passes all 
-- **Red X**: Present when code has not passed tests.  See Student 1 in image above.
-- Click on student's name to see their code.
+- **Red X**: Present when code has not passed tests.  
+- Click on student's commits to see their code.
 - Can create a PR to provide feedback on specific lines.
-- Student will also see the green checkmark or red x when they submit graded assignments.
+- Student will also see the green checkmark or red x when they submit graded assignments.  
 
 ## **Warning** Do Not Edit Assignment
 
