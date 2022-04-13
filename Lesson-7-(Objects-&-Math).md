@@ -1,6 +1,6 @@
 # Lesson 7: Objects and the Math Object
 
-## In the prep work this week, the students learned:
+## In the prep work for this lesson, the students learned:
 1. That objects are collections of several key/value pairs.
 1. How to write object literals using bracket notation.
 1. How to access and modify the properties of an object.
@@ -9,7 +9,18 @@
 
 ## Announcements
 1. More info to come... when in doubt, check with the class Candidate Engagement Manager!
+
+### Part-Time Students
 1. The second graded assignment is due soon! Remind students of the due date!
+
+### Full-Time Students
+* Welcome to Days 9 & 10
+* **Day 9**: Cover Lesson 7
+* **Day 10**: Work Day
+   * *Self Assessment 1*:  NOT an exam.  This is for students to see which concepts they know and which concepts they should review.
+   * *Graded Assignment 2*: Introduce after the Self-Assessment.  Days 10 and 12 are dedicated work days for Assignment 2. Due at end of Day 15.
+
+   
 
 ## Large Group Time (Instructor)
 

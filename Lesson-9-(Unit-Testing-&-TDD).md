@@ -1,13 +1,18 @@
 # Lesson 9: Unit Testing
 
-## In the prep work this week, the students learned:
+## In the prep work for this lesson, the students learned:
 1. What unit testing is and why it is important.
 1. How to use ``Jasmine`` for testing.
 1. What test driven development (TDD) is and how to use it to write solid code.
 
 ## Announcements
 1. More info to come... when in doubt, check with the class Candidate Engagement Manager!
+
+### For Part-Time Students:
 1. When your third graded assignment becomes available, make sure to check it out! Starting as soon as possible is key to finishing those graded assignments on time!
+
+### For Full-Time Students:
+1. Assignment 2 due at end of Day 15
 
 ## Large Group Time (Instructor)
 
@@ -17,7 +22,8 @@
 1. Q & A for the chapter exercises or perform a walkthrough.
 1. What "edge case" means, plus examples.
 1. What does "describe" do compare to "it"? Review syntax, and encourage descriptive feedback messages.
-1. Studio intro: The exercises practiced using unit tests to validate existing code. The studio flips this to a TDD scenario - the students must write tests BEFORE creating any of the code.
+1. Studio intro: 
+   1. The exercises practiced using unit tests to validate existing code. The studio flips this to a TDD scenario - the students must write tests BEFORE creating any of the code.
 
 ## Studio (TF Notes)
 

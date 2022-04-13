@@ -1,6 +1,6 @@
 # Lesson 4: Iteration
 
-## In the prep work this week, the students learned:
+## In the prep work for this lesson, the students learned:
 
 1. How to write ``for`` and ``while`` loops:
    1. Proper syntax
@@ -15,8 +15,13 @@
 
 ### Announcements
 
+#### For Part-Time Students:
 1. Reminder of the due date for the first graded assignment.
 1. After this class, the students will have all the skills necessary to complete the assignment.
+
+#### For Full-Time Students:
+* Welcome to Day 4!
+* As needed
 
 ### Lesson 4 Topics That Require More Attention
 
@@ -32,9 +37,10 @@
    1. Encourage the students to try the bonus missions if they finish the main studio content early.
 
 ## Studio (TF Notes)
-
+1. This studio contains unit tests, like the Lesson 3 studio.
+   1. Students will need to work with multiple functions for this studio.  Notes have been provided in the textbook and the starter code.  
 1. Common student stumbling blocks:
-   1. The studio format in Repl.it classroom does NOT match the layout [from the book](https://education.launchcode.org/intro-to-professional-web-dev/chapters/loops/studio.html). Make sure your students follow the instructions in the classroom.
+   1. The provided starter code contains the entire studio, along with unit tests. 
    1. For the self-destruct mission, the examples were carefully chosen to use strings with the same length. If a student wants to use strings of different lengths (which throws an error), help them add some validation to their code to deal with this.
 1. Using a multi-dimensional array helps streamline the process of meal assembly, but students tend to avoid using one. After their code works, encourage them to explore how a 2-D array helps reduce the lines of code.
 1. As always, be sure to check-in with each of your students.

@@ -6,8 +6,9 @@
 1. The mathematical operators (``+, -, *, /, **, %, ++, --``) and order of operations
 1. The ``typeof`` keyword and how to collect user input with ``readline-sync``
 
-### CodeCamp Students
-- Prep work for this lesson was assigned prior to the first day of class.  
+### Full-Time Students
+* Welcome to Day 1
+* Prep work for this lesson was assigned prior to the first day of class.  
 
 ## Announcements
 - Welcome! First day pep talk
@@ -22,12 +23,12 @@
 
 - Set expectations for students:
 
-   - **Weekly Students**
+   - **Part-Time Students**
       - Do ALL of the prep work before class.
       - Ask questions often.
       - Make use of the help and resources available.
 
-   - **CodeCamp Students**
+   - **Full-Time Students**
       - The class design allows for in-class work time.
          - Prep Work time is for reading, concept checks, and working on exercises
          - Work days are for Assignments or catching up on work
@@ -53,10 +54,10 @@
    1. Studios are NOT graded, but active participation is essential for success in the class.
    1. Remind students to have their TFs check their code in order to get feedback.
    1. Provide a quick introduction to the Data & Variables studio.
-   1. Note that the large group will meet again tonight to review the studio task.
-1. Graded Assignment #1 is open! With each of the six graded assignments in Unit 1, the key is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.
-   1. Graded Assignment 1 has been broken into 3 parts.  
-   1. **CodeCamp Students**: Part 1 is due at the end of day 5.
+   1. Note that the large group will meet again before the end of class to review the studio task.
+1. **Part-Time Students**: Graded Assignment #1 is open! With each of the six graded assignments in Unit 1, the key is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.
+   1. Graded Assignment 1 has been broken into 3 parts.
+1. **Full-Time Students**:  Graded Assignment 1 will be introduced and open on Day 5.  
 
 ## Studio (TF Notes)
 

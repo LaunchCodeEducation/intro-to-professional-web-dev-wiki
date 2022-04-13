@@ -1,6 +1,6 @@
 # Lesson 10: Scope, More on Types, and Exceptions
 
-## In the prep work this week, the students learned:
+## In the prep work for this lesson, the students learned:
 
 1. More about scope. Scope was covered briefly in the Functions chapter, but the students have now covered it in more depth.
 1. What exceptions are.
@@ -10,7 +10,15 @@
 ## Announcements
 
 1. More info to come... when in doubt, check with your class Candidate Engagement Manager!
+
+
+### For Part-Time Students:
 1. The third graded assignment opens after this class! Remember to start looking at it when it opens!
+
+### For Full-Time Students:
+* Welcome to Day 14!
+* Assignment 2 due at end of Day 15.
+* Non-coding studio today, use any extra class time to work on Assignment 2.
 
 ## Large Group Time (Instructor)
 

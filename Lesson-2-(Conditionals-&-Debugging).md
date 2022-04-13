@@ -13,8 +13,15 @@
 
 ### Announcements
 
+#### For Part-Time Students
+
 1. Note the due date for the first graded assignment (should be 2 - 4 weeks away).
+   1. Assignment 1 has been broken into 3 parts.  Check Canvas for the due dates for each part.
 1. The assignment will be active in Canvas soon, and the students will know enough after lesson 2 to begin the first part of the assignment.
+
+#### For Full-Time Students
+
+* Welcome to Day 2
 
 ### Lesson 2 Topics That Require More Attention
 
@@ -27,7 +34,7 @@
    1. Nested conditionals
    1. Check multiple conditions with ``&&`` and ``||``
    1. When would we use ``!``?
-1. Tonight the studio is a non-coding activity.
+1. The studio is a *non-coding* activity.
    1. Refer to the TF Notes and prepare a brief intro about why this activity will benefit the students.
 
 ## Studio (TF Notes)

@@ -1,12 +1,18 @@
 # Lesson 6: More on Functions
 
-## In the prep work this week, the students learned:
+## In the prep work for this lesson, the students learned:
 1. What an anonymous function is and how to write one.
 2. What recursion is and how a function can call itself.
 
 ## Announcements
 1. More info to come... when in doubt, check with the class Candidate Engagement Manager for announcements!
+
+### For Part-Time Students:
 1. The second graded assignment is open for you to start working on. Even if you can't solve everything right away, it is important to start working on it since you only have 2 weeks to do it!
+
+### For Full-Time Students:
+1. Welcome to Day 8!
+1. Graded Assignment 1 is due at the end of class today
 
 ## Large Group Time (Instructor)
 
