@@ -14,6 +14,12 @@
 
 1. Check with your class Candidate Engagement Manager for any announcements.
 
+#### For Part-Time Students:
+
+#### For Full-Time Students:
+* Welcome to Day 20!
+* Assignment 4 is due by end of Day 23.  Will have work time Days 21 and 22.
+
 ### Topics That Require More Attention
 
 1. Point out that JavaScript is included in a web page by using ``<script>`` tags.

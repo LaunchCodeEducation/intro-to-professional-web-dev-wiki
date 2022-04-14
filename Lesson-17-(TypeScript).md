@@ -1,6 +1,6 @@
 # Lesson 17: TypeScript
 
-## In the prep work this week (TypeScript), the students learned:
+## In the prep work this lesson, the students learned:
 
 1. What TypeScript is and how it is different from JavaScript.
 1. The differences between static and dynamic typing.
@@ -15,9 +15,20 @@
 
 ### Announcements
 
-1. Graded assignment #6 opens soon. This is the last graded assignment for unit 1.
-1. Remind the students about the requirements for remaining in the course after unit 1.
 1. Check with your class Candidate Engagement Manager for any other announcements.
+1. Remind the students about the requirements for remaining in the course after Unit 1.
+
+#### For Part-Time Students:
+1. Graded assignment #6 opens soon. This is the last graded assignment for unit 1.
+
+#### For Full-Time Students:
+* Welcome do Days 25 and 26!
+* Graded Assignment 5 due end of Day 29
+* **Day 25**: 
+    * Lesson 17
+* **Day 26**:
+    * Self-Assessment 3 in the morning (last one for Unit 1)
+    * Work day for Assignment 5 rest of day
 
 ### Topics That Require More Attention
 

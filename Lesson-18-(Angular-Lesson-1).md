@@ -1,6 +1,6 @@
 # Lesson 18: Angular Part 1
 
-## In the prep work this week (Angular Lesson 1), the students learned:
+## In the prep work for this lesson, the students learned:
 
 1. The concept of *templates* and *components* and why we want to use them to build websites.
 1. How to use the Angular CLI to create a new project.
@@ -13,8 +13,19 @@
 
 ### Announcements
 
-1. Graded assignment #6 is available. Encourage students to begin working on it this week if they have not already started.
 1. Check with your class Candidate Engagement Manager for any other announcements.
+
+#### For Part-Time Students:
+
+1. Graded Assignment #6 is open! Remind students that the key to getting the assignment done is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.
+
+#### For Full-Time Students:
+* Welcome to Days 27 & 28!
+* Assignment 5 due by end of Day 29
+* **Day 27**:  
+    * Lesson 18
+* **Day 28**: 
+    * Work day for Assignment 5
 
 ### Topics That Require More Attention
 
@@ -27,12 +38,12 @@
 1. Review the Angular CLI commands for creating a new project and generating new components.
 1. Can the HTML tag defined for a nested component be used directly in the ``app.component.html`` file? Explore with the students to see.
 1. Studio intro.
-1. Graded Assignment #6 is open! Remind students that the key to getting the assignment done is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.
+
 
 ## Studio (TF Notes)
 
 1. If you do not know Angular well, you need to do the prep work! The Angular lessons are a big lift, and students really need your support and technical prowess to succeed.
-1. Be ready to remind students that they need to fork AND clone the Angular studio repository. This repo is different from the one they cloned for the exercises.
+1. Students will create their own repository for this studio.  They should push it up to GitHub at the end of the studio.
 1. One common mistake students make is to be in the wrong directory when they run ``ng generate`` in the terminal. Remind your students that opening a file from the VSCode file tree does NOT automatically update the working directory in the terminal.
 1. In this first Angular lesson, the students have not learned the structural directives ``*ngFor`` or ``*ngIf`` yet. If someone notices how the ``li`` elements made during the studio seem a little tedious, praise the observation and let them know that lesson 2 will address that issue.
 1. You may need to explain how the ``box`` class in ``app.component.css`` affects the display.

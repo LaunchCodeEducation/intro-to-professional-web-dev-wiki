@@ -1,6 +1,6 @@
 # Lesson 19: Angular Part 2
 
-## In the prep work this week (Angular Lesson 2), the students learned:
+## In the prep work for this lesson, the students learned:
 
 1. Structural directives shape the page by adding and removing elements.
     1. Structural directives start with a *, such as ``*ngIf``, ``*ngFor``.
@@ -14,9 +14,17 @@
 
 ### Announcements
 
+1. Check with your class Candidate Engagement Manager for any other announcements.
+
+#### For Part-Time Students:
 1. Graded assignment #6 is due soon after class 20.
 1. Provide an introduction to what students can expect in unit 2.
-1. Check with your class Candidate Engagement Manager for any other announcements.
+
+#### For Full-Time Students:
+* Welcome to Day 29!
+* Work through Lesson 29.
+* Assignment 5 due at end of Day.
+
 
 ### Topics That Require More Attention
 
@@ -31,7 +39,7 @@
 ## Studio (TF Notes)
 
 1. Remember to do the prep work if you are struggling with Angular yourself! Be the coach your students need.
-1. Remind the students to switch to the ``studio-2`` branch of the ``mission-planner`` repository. No fair peeking at the ``studio-2-solutions`` branch first!
+1. Students need to fork `` mission-planner`` repository.  Students will work on the ``studio-2`` branch. No fair peeking at the ``studio-2-solutions`` branch first!
 1. Remind the students to run ``npm install`` before trying to serve the project.
 1. The instructions do NOT guide the students on how to make the rocket name editable. Instead, the students must examine the code for the mission name, then apply that to the rocket. Be ready to help your students with the process of adapting *similar* code to solve a *different* problem.
 1. In addition to the bonus missions, encourage your students to play with the CSS to make the webpage look a little less bland.
