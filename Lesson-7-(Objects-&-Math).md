@@ -17,7 +17,7 @@
 * Welcome to Days 9 & 10
 * **Day 9**: Cover Lesson 7
 * **Day 10**: Work Day
-   * *Self Assessment 1*:  NOT an exam.  This is for students to see which concepts they know and which concepts they should review.
+   * *Self Assessment 1*: Remind students that this is NOT an exam.  This is for students to see which concepts they know and which concepts they should review. This is the first self-assessment in the course so it would be good to make sure before starting that students know where they can find the solution guide and the best practices guide in Canvas so they can start reviewing their answers right after they complete the questions.
    * *Graded Assignment 2*: Introduce after the Self-Assessment.  Days 10 and 12 are dedicated work days for Assignment 2. Due at end of Day 15.
 
    

@@ -60,6 +60,8 @@ This content is meant to be a start and not the finish. With these skills studen
   * These assessments are scheduled to provide feedback for the student about what concepts they understand and what they need to review.
   * These are not graded, and will not prevent a student from passing the class.
   * Use these to assess overall class understanding of concepts.  
+  * The time spent on these self-assessments is split between students working on the assessment without their notes and comparing their answers to the solution guide. In Canvas, the corresponding solution guide is in Pages and should be published as students work on the self-assessment. This way students can access the solution guide as soon as they complete the questions.
+  * We have made this [guide](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev-wiki/blob/master/wiki-materials/Self-Assessment-Guide.pdf) for students on best practices for the self-assessments. Remind students to open it up in Canvas before they start reviewing their answers for each self-assessment.
 
 
 # Tasks and Responsibilities
