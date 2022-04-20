@@ -1,6 +1,6 @@
 # Lesson 16: Fetch and JSON
 
-## In the prep work this lesson, the students learned:
+## In the prep work for this lesson, the students learned:
 
 1. Why we need a standard format for exchanging data.
 1. The rules for the JSON format.
