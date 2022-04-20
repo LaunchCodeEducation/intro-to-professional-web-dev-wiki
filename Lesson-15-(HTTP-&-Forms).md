@@ -1,6 +1,6 @@
 # Lesson 15: HTTP and Forms
 
-## In the prep work this week (HTTP and Forms), the students learned:
+## In the prep work for this lesson, the students learned:
 
 1. How the internet works.
 1. The different parts of a URL.
@@ -12,8 +12,20 @@
 
 ### Announcements
 
-1. Start working on graded assignment #5.
 1. Check with your class Candidate Engagement Manager for any other announcements.
+
+#### For Part-Time Students:
+1. Graded Assignment #5 is open! Remind students that the key to getting the assignment done is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.
+
+#### For Full-Time Students:
+* Welcome to Days 21 and 22!
+* Assignment 4 due at end of Day 23.
+* **Day 21**: 
+    * Start Lesson 15 prep work in morning.  
+    * Work on Assignment 4 in the afternoon.
+* **Day 22**: 
+    * Lesson 5 lecture and studio time in the morning.
+    * Work on Assignment 4 in the afternoon.
 
 ### Topics That Require More Attention
 
@@ -31,7 +43,7 @@
 1. If time allows, discuss why basic HTML forms (inputs, buttons, etc.) do not usually look like the ones we see on company websites.
 1. Studio intro.
 1. *Studio follow-up. This activity will probably require a debrief at the end of the class*.
-1. Graded Assignment #5 is open! Remind students that the key to getting the assignment done is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.
+
 
 ## Studio (TF Notes)
 

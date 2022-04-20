@@ -1,6 +1,6 @@
 # Lesson 12: HTML, Git, and Terminal Basics
 
-## In the prep work this week (HTML, Git, Terminal), the students learned:
+## In the prep work for this lesson, the students learned:
 
 1. How to access and use the terminal as a standalone program and through VSCode.
 1. Basic HTML tags:
@@ -16,8 +16,16 @@
 
 ### Announcements
 
-1. Start working on graded assignment #4.
 1. Check with your class Candidate Engagement Manager for any other announcements.
+
+### For Part-Time Students:
+
+1. Graded Assignment #4 is open! Remind students that the key to getting the assignment done is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.
+
+### For Full-Time Students:
+* Welcome to Day 18!
+* Allow for Assignment 3 work time in the afternoon
+* Assignment 3 due at end of Day 19
 
 ### Lesson 12 Topics That Require More Attention
 
@@ -28,8 +36,9 @@
    1. Note tedious aspects as they appear (e.g. making EVERY h2 red), and note that we will learn how to streamline this process in the next class.
 1. Reinforce why using a VCS is a good idea. If you have a personal story that relates to this, feel free to share it!
    1. If time, initialize a simple git repo for the web page you created. Show how edits (or mistakes) can be undone with git.
-1. Studio intro. Task uses browser developer tools.
-1. Graded Assignment #4 is open! Remind students that the key to getting the assignment done is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.
+1. Studio intro. 
+   1. Task uses browser developer tools.
+
 
 ## Studio (TF Notes)
 

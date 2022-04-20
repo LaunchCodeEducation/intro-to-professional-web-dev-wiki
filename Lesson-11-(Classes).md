@@ -1,6 +1,6 @@
 # Lesson 11: Classes
 
-## In the prep work this week (Classes), the students learned:
+## In the prep work for this lesson, the students learned:
 
 1. What a JavaScript **class** represents.
    1. Proper syntax
@@ -15,9 +15,24 @@
 
 ### Announcements
 
-1. Reminder that the third graded assignment is due soon!
 1. Students will soon need to install some software in order to complete upcoming chapters. Encourage them to contact their TFs if they have trouble with the process.
 1. Check with your class Candidate Engagement Manager for any other announcements.
+
+### For Part-Time Students:
+1. Reminder that the third graded assignment is due soon!
+
+### For Full-Time Students:
+* Welcome to Days 15, 16, and 17
+* **Day 15**: 
+   * Lesson 11 Prep work in the morning
+   * Introduce Assignment 3 and work time in the afternoon
+   * Assignment 2 due by end of today
+* **Day 16**: 
+   * Assignment 3 work time in the morning
+   * Lesson 11 lecture and studio in the afternoon.
+* **Day 17**: 
+   * Self-Assessment 2
+   * Assignment 3 work day
 
 ### Lesson 11 Topics That Require More Attention
 

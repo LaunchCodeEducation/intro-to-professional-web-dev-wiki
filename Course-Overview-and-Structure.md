@@ -6,7 +6,9 @@ The course is delivered using a combination of online tasks, in person instructi
 
 ## Flipped Classroom Model
 
-Most of the traditional instruction will be done at home via online reading and exercises. In class time will be spent reviewing concepts, answering questions, walking through live-coding examples, and working on small programming tasks called studios.
+Most of the traditional instruction, or **prep work**,  will be done independently via online reading and exercises. For *Part-Time students*, prep work will be completed outside of class time.  For *Full-Time students*, prep work is part of the scheduled day.  Group time will be spent reviewing concepts, answering questions, walking through live-coding examples, and working on small programming tasks called **studios**.
+
+
 
 ## Course Goals
 
@@ -21,9 +23,13 @@ This content is meant to be a start and not the finish. With these skills studen
 
 # Class Structure
 
+## Part-Time Classes
 * Prep work
   * Tasks student do **at home, before class**
-  * Reading chapters, quizzes, practice exercises
+    * Includes:
+      * Reading aassigned chapters
+      * Completing reading quizzes
+      * Working on practice exercises
 * Primary Instruction
   * Led by the instructor
   * Lasts 45 minutes to 1 hour
@@ -33,6 +39,28 @@ This content is meant to be a start and not the finish. With these skills studen
   * Designed to be **safe practice time** for students with TF support
 * Programming Assignments
   * Graded assignments for which students are given multiple weeks to complete
+
+## Full-Time Classes
+* Prep work
+  * Tasks student do **in class** 
+  * Includes:
+    * Reading aassigned chapters
+    * Completing reading quizzes
+    * Working on practice exercises
+* Primary Instruction
+  * Led by the instructor
+  * Lasts 45 minutes to 1 hour
+* Studio
+  * Students separate into assigned groups, that are led by a TF
+  * Lasts 1 to 1.5 hours
+  * Designed to be **safe practice time** for students with TF support
+* Programming Assignments
+  * Graded assignments for which students are given multiple classes to complete **in class**.
+* Self-Assessments (Full-Time classes only)
+  * These assessments are scheduled to provide feedback for the student about what concepts they understand and what they need to review.
+  * These are not graded, and will not prevent a student from passing the class.
+  * Use these to assess overall class understanding of concepts.  
+
 
 # Tasks and Responsibilities
 Instructors and TFs are crucial to the success of the students. These tasks help ensure that everyone knows
@@ -53,14 +81,15 @@ their role in the process.
   * Look for signs of students struggling and falling behind
   * Use feedback from students and TFs to determine how to cover the topic more effectively.
   * Adjust examples and descriptions of topics as needed.
-* Act as resource for TFs
+* Act as knowledgable resource to TFs
 
 ## Teaching Fellows (TFs)
 
 TFs will be assigned a group of students to guide.
 
 * Assist individual students
-  * Check on each student in your group at least once every class
+  * If in a Part-Time class, check on each student in your group at least once every class.
+  * If in Full-Time class, check on each student a few times during the entire day.
   * Answer individual student questions
   * Help an individual student through a code problem
 * Monitor and respond to individual student struggles
@@ -76,8 +105,16 @@ TFs will be assigned a group of students to guide.
 
 ## Students
 
+### Part-Time Students
 * Pay attention to assignments in Canvas
 * Do the prep work **before class**
+* Attend class and participate in activities
+* Turn in graded assignments on time
+* Do their own work
+
+### Full-Time Students
+* Pay attention to assignments in Canvas
+* Do the prep work **during assingned prep work time**, usually before lecture and studio
 * Attend class and participate in activities
 * Turn in graded assignments on time
 * Do their own work

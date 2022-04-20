@@ -1,27 +1,42 @@
 # Lesson 1: Data and Variables
 
-## In the prep work this week, the students learned:
+## In the prep work for this lesson, the students learned:
 1. How to declare, initialize, and reassign variables
 1. The ``number`` and ``string`` data types and how to convert between them
 1. The mathematical operators (``+, -, *, /, **, %, ++, --``) and order of operations
 1. The ``typeof`` keyword and how to collect user input with ``readline-sync``
 
+### Full-Time Students
+* Welcome to Day 1
+* Prep work for this lesson was assigned prior to the first day of class.  
+
 ## Announcements
-1. Welcome! First day pep talk
-1. Lesson 2 prep work should be active by the end of class.
+- Welcome! First day pep talk
+- Lesson 2 prep work should be active by the end of class.
 
 ## Large Group Time (Instructor)
 ### First Class Reminders
-1. Use Canvas to access course content.
-1. Have a repl.it account:
-   1. Review workspace panels and important menu items (this can be done in the live coding examples).
-   1. Use the link posted in Canvas to enroll in the repl.it _classroom_.
-1. Set expectations for students:
-   1. Do ALL of the prep work before class.
-   1. Ask questions often.
-   1. Make use of the help and resources available.
-1. Introduce the TFs and assign groups (may be done during the studio intro).
-1. Other relevant contact information.
+- Use Canvas to access course content.
+- Have a repl.it account:
+   - Review workspace panels and important menu items (this can be done in the live coding examples).
+   - Use the link posted in Canvas to enroll in the *GitHub Classroom*.
+
+- Set expectations for students:
+
+   - **Part-Time Students**
+      - Do ALL of the prep work before class.
+      - Ask questions often.
+      - Make use of the help and resources available.
+
+   - **Full-Time Students**
+      - The class design allows for in-class work time.
+         - Prep Work time is for reading, concept checks, and working on exercises
+         - Work days are for Assignments or catching up on work
+      - Ask questions often.
+      - Make use of the help and resources available.
+
+- Introduce the TFs and assign groups (may be done during the studio intro).
+- Other relevant contact information.
 
 ### Lesson 1 Topics That Require Careful Attention
 1. ``let`` vs. ``const``. When should each be used?
@@ -39,8 +54,10 @@
    1. Studios are NOT graded, but active participation is essential for success in the class.
    1. Remind students to have their TFs check their code in order to get feedback.
    1. Provide a quick introduction to the Data & Variables studio.
-   1. Note that the large group will meet again tonight to review the studio task.
-1. Graded Assignment #1 is open! With each of the six graded assignments in Unit 1, the key is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.
+   1. Note that the large group will meet again before the end of class to review the studio task.
+1. **Part-Time Students**: Graded Assignment #1 is open! With each of the six graded assignments in Unit 1, the key is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.
+   1. Graded Assignment 1 has been broken into 3 parts.
+1. **Full-Time Students**:  Graded Assignment 1 will be introduced and open on Day 5.  
 
 ## Studio (TF Notes)
 

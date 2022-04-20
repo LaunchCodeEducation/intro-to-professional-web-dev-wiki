@@ -1,6 +1,6 @@
 # Lesson 20: Angular Part 3
 
-## In the prep work this week (Angular Lesson 3), the students learned:
+## In the prep work for this lesson, the students learned:
 
 1. An alternate syntax for one-way data binding in Angular.
 1. Attribute directives alter the behavior and appearance of HTML elements.
@@ -14,9 +14,29 @@
 
 ### Announcements
 
+1. Check with your class Candidate Engagement Manager for any other announcements.
+
+#### **For Part-Time Students:**
+
 1. Congratulations! You made it through unit 1! How do you feel about what you have accomplished so far?
 1. Graded assignment #6 is due before the next class.
-1. Check with your class Candidate Engagement Manager for any other announcements.
+
+
+#### **For Full-Time Students:**
+* Welcome to Days 30 - 35!
+* Graded Assignment 6 due by end of Day 34
+* ALL Unit 1 assignments due by end of Day 35
+* **Day 30**: 
+    * Lesson 20
+* **Day 31-33**:
+    * Introduce and work on Graded Assignment 6
+* **Day 34**: 
+    * Recap Unit 1: topics covered, any questions, etc
+    * Setup for Unit 2: download/install new IDEs, access to Canvas, preview of Unit 2 
+    * Can also be work day if needed
+* **Day 35**: 
+    * ALL Unit 1 graded assignments are due by the end of this day
+    * This is an built in flex day.  Can use for work time or Recap/Unit 2 setup.
 
 ### Topics That Require More Attention
 
