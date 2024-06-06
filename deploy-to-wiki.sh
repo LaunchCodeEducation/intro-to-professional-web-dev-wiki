@@ -8,9 +8,9 @@
 
 
 echo "Updating with master then deploying"
-git checkout master
+git checkout main
 git fetch origin
-git merge master --no-edit
+git merge main --no-edit
 git fetch upstream
 git merge upstream/master --no-edit
-git push upstream master
+git push upstream main:master
