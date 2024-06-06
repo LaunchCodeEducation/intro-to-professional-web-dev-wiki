@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Purpose of this Wiki
 
 Inform instructors and TFs that are teaching the course [Intro to professional web dev](https://education.launchcode.org/intro-to-professional-web-dev/).
@@ -37,3 +38,6 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/intro-to-profe
 * [Lesson 18 - Angular, Part 1](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Lesson-18-(Angular-Lesson-1))
 * [Lesson 19 - Angular, Part 2](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Lesson-19-(Angular-Lesson-2))
 * [Lesson 20 - Angular, Part 3](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Lesson-20-(Angular-Lesson-3))
+=======
+Welcome to the intro-to-web-dev-curriculum wiki!
+>>>>>>> upstream/master
